@@ -1,0 +1,461 @@
+{
+  "before": {
+    "label": "자체 로컬 SEO·공유·기본 UX 구현 체크리스트",
+    "not_lighthouse": true,
+    "scope": "출판/공개 URL·색인·검색순위·실사용 성능·콘텐츠 전문성은 점수에서 제외; 별도 필수 점검",
+    "passed": 21,
+    "total": 25,
+    "score": 84,
+    "checks": [
+      {
+        "check": "HTML5·한국어·UTF-8",
+        "passed": true,
+        "evidence": "문서 기본 언어/인코딩"
+      },
+      {
+        "check": "고유한 페이지 제목",
+        "passed": true,
+        "evidence": "BMW 백경재 대리 | 도이치모터스 한남 전시장 · 신차·시승 상담"
+      },
+      {
+        "check": "설명 메타데이터",
+        "passed": true,
+        "evidence": [
+          "BMW 도이치모터스 한남 전시장 백경재 대리. BMW 신차 구매, 모델 비교, 시승과 출고 일정까지 직접 상담하세요. 010-8308-9819 · 서울 용산구 이태원로 249."
+        ]
+      },
+      {
+        "check": "상담 목적이 드러나는 단일 H1",
+        "passed": false,
+        "evidence": "당신의 BMW, 좋은 만남에서 시작됩니다."
+      },
+      {
+        "check": "제목 계층",
+        "passed": true,
+        "evidence": [
+          1,
+          2,
+          3,
+          3,
+          3,
+          3,
+          2,
+          3,
+          2,
+          3,
+          3,
+          3,
+          2,
+          2,
+          2,
+          3,
+          3,
+          2
+        ]
+      },
+      {
+        "check": "모바일 viewport",
+        "passed": true,
+        "evidence": [
+          "width=device-width,initial-scale=1,viewport-fit=cover"
+        ]
+      },
+      {
+        "check": "페이지 수집 허용 지시",
+        "passed": true,
+        "evidence": [
+          "index,follow,max-image-preview:large"
+        ]
+      },
+      {
+        "check": "단일 절대 canonical",
+        "passed": true,
+        "evidence": "https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/ (실제 공개 응답 검증은 별도)"
+      },
+      {
+        "check": "사이트맵과 canonical 일치",
+        "passed": true,
+        "evidence": [
+          "https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/"
+        ]
+      },
+      {
+        "check": "robots.txt 수집 및 사이트맵",
+        "passed": true,
+        "evidence": "User-agent: *\nAllow: /\n\nSitemap: https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/sitemap.xml"
+      },
+      {
+        "check": "로컬 리소스 존재",
+        "passed": true,
+        "evidence": {
+          "references": 9
+        }
+      },
+      {
+        "check": "로컬 HTTP 정상 응답",
+        "passed": true,
+        "evidence": 200
+      },
+      {
+        "check": "이미지 대체 텍스트 속성",
+        "passed": true,
+        "evidence": {
+          "images": 16,
+          "decorative_empty_alt_allowed": true
+        }
+      },
+      {
+        "check": "이미지 크기 명시",
+        "passed": true,
+        "evidence": 16
+      },
+      {
+        "check": "핵심 본문을 HTML로 제공",
+        "passed": true,
+        "evidence": {
+          "text_length": 3155
+        }
+      },
+      {
+        "check": "고유 ID·내부 앵커 연결",
+        "passed": true,
+        "evidence": {
+          "ids": 35,
+          "anchors": 11
+        }
+      },
+      {
+        "check": "설명 있는 실제 링크",
+        "passed": true,
+        "evidence": 38
+      },
+      {
+        "check": "페이지·인물·전시장 구조화 데이터",
+        "passed": true,
+        "evidence": [
+          "WebSite",
+          "WebPage",
+          "Person",
+          "AutoDealer",
+          "FAQPage"
+        ]
+      },
+      {
+        "check": "연락처·위치·담당자 일치",
+        "passed": true,
+        "evidence": {
+          "name": "백경재",
+          "phone": "+82-10-8308-9819",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "이태원로 249",
+            "addressLocality": "용산구",
+            "addressRegion": "서울특별시",
+            "addressCountry": "KR"
+          }
+        }
+      },
+      {
+        "check": "보이는 FAQ와 구조화 데이터 일치",
+        "passed": true,
+        "evidence": {
+          "visible": 5,
+          "schema": 5
+        }
+      },
+      {
+        "check": "실제 SNS 계정 연결",
+        "passed": true,
+        "evidence": [
+          "https://blog.naver.com/back03278",
+          "https://www.youtube.com/@bmw_gjbaek",
+          "https://www.instagram.com/bmw_gjbaek/"
+        ]
+      },
+      {
+        "check": "Open Graph 공유 정보",
+        "passed": false,
+        "evidence": {
+          "og:title": [
+            "당신의 BMW, 좋은 만남에서 시작됩니다. | 백경재 대리"
+          ],
+          "og:description": [
+            "도이치모터스 BMW 한남 전시장 백경재 대리. 모델 선택부터 시승, 신차 구매 상담까지 직접 연결하세요."
+          ],
+          "og:url": [
+            "https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/"
+          ],
+          "og:image": [],
+          "og:image:alt": []
+        }
+      },
+      {
+        "check": "공유 카드 정보",
+        "passed": false,
+        "evidence": {
+          "twitter:card": [
+            "summary"
+          ],
+          "twitter:title": [
+            "BMW 백경재 대리 | 도이치모터스 한남 전시장"
+          ],
+          "twitter:description": [
+            "당신의 BMW, 좋은 만남에서 시작됩니다. 백경재 대리와 BMW 신차·시승 상담."
+          ],
+          "twitter:image": [],
+          "twitter:image:alt": []
+        }
+      },
+      {
+        "check": "기본 로딩 최적화",
+        "passed": true,
+        "evidence": "지연 JS·대표 이미지 우선·하단 이미지 lazy·초기 iframe 없음; Core Web Vitals 실측은 별도"
+      },
+      {
+        "check": "브라우저 글자 가독성·가로 넘침",
+        "passed": false,
+        "evidence": {
+          "viewport_width": 1280,
+          "scroll_width": 1280,
+          "minimum_supporting_font_px": 10,
+          "body_font_px": 16,
+          "source": "Browser DOM measurement of original v2 served at localhost:4182. Playlist category was 10px; category section headings ranged 38–44px at this width."
+        }
+      }
+    ]
+  },
+  "after": {
+    "label": "자체 로컬 SEO·공유·기본 UX 구현 체크리스트",
+    "not_lighthouse": true,
+    "scope": "출판/공개 URL·색인·검색순위·실사용 성능·콘텐츠 전문성은 점수에서 제외; 별도 필수 점검",
+    "passed": 25,
+    "total": 25,
+    "score": 100,
+    "checks": [
+      {
+        "check": "HTML5·한국어·UTF-8",
+        "passed": true,
+        "evidence": "문서 기본 언어/인코딩"
+      },
+      {
+        "check": "고유한 페이지 제목",
+        "passed": true,
+        "evidence": "BMW 백경재 대리 | 도이치모터스 한남 전시장 · 신차·시승 상담"
+      },
+      {
+        "check": "설명 메타데이터",
+        "passed": true,
+        "evidence": [
+          "BMW 도이치모터스 한남 전시장 백경재 대리. BMW 신차 구매, 모델 비교, 시승과 출고 일정까지 직접 상담하세요. 010-8308-9819 · 서울 용산구 이태원로 249."
+        ]
+      },
+      {
+        "check": "상담 목적이 드러나는 단일 H1",
+        "passed": true,
+        "evidence": "BMW 구매 상담, 백경재 대리와 시작하세요."
+      },
+      {
+        "check": "제목 계층",
+        "passed": true,
+        "evidence": [
+          1,
+          2,
+          3,
+          3,
+          3,
+          3,
+          4,
+          2,
+          3,
+          2,
+          3,
+          3,
+          3,
+          2,
+          2,
+          2,
+          3,
+          3,
+          2
+        ]
+      },
+      {
+        "check": "모바일 viewport",
+        "passed": true,
+        "evidence": [
+          "width=device-width,initial-scale=1,viewport-fit=cover"
+        ]
+      },
+      {
+        "check": "페이지 수집 허용 지시",
+        "passed": true,
+        "evidence": [
+          "index,follow,max-image-preview:large"
+        ]
+      },
+      {
+        "check": "단일 절대 canonical",
+        "passed": true,
+        "evidence": "https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/ (실제 공개 응답 검증은 별도)"
+      },
+      {
+        "check": "사이트맵과 canonical 일치",
+        "passed": true,
+        "evidence": [
+          "https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/"
+        ]
+      },
+      {
+        "check": "robots.txt 수집 및 사이트맵",
+        "passed": true,
+        "evidence": "User-agent: *\nAllow: /\n\nSitemap: https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/sitemap.xml"
+      },
+      {
+        "check": "로컬 리소스 존재",
+        "passed": true,
+        "evidence": {
+          "references": 10
+        }
+      },
+      {
+        "check": "로컬 HTTP 정상 응답",
+        "passed": true,
+        "evidence": 200
+      },
+      {
+        "check": "이미지 대체 텍스트 속성",
+        "passed": true,
+        "evidence": {
+          "images": 16,
+          "decorative_empty_alt_allowed": true
+        }
+      },
+      {
+        "check": "이미지 크기 명시",
+        "passed": true,
+        "evidence": 16
+      },
+      {
+        "check": "핵심 본문을 HTML로 제공",
+        "passed": true,
+        "evidence": {
+          "text_length": 3045
+        }
+      },
+      {
+        "check": "고유 ID·내부 앵커 연결",
+        "passed": true,
+        "evidence": {
+          "ids": 37,
+          "anchors": 11
+        }
+      },
+      {
+        "check": "설명 있는 실제 링크",
+        "passed": true,
+        "evidence": 40
+      },
+      {
+        "check": "페이지·인물·전시장 구조화 데이터",
+        "passed": true,
+        "evidence": [
+          "WebSite",
+          "WebPage",
+          "Person",
+          "AutoDealer",
+          "FAQPage"
+        ]
+      },
+      {
+        "check": "연락처·위치·담당자 일치",
+        "passed": true,
+        "evidence": {
+          "name": "백경재",
+          "phone": "+82-10-8308-9819",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "이태원로 249",
+            "addressLocality": "용산구",
+            "addressRegion": "서울특별시",
+            "addressCountry": "KR"
+          }
+        }
+      },
+      {
+        "check": "보이는 FAQ와 구조화 데이터 일치",
+        "passed": true,
+        "evidence": {
+          "visible": 5,
+          "schema": 5
+        }
+      },
+      {
+        "check": "실제 SNS 계정 연결",
+        "passed": true,
+        "evidence": [
+          "https://blog.naver.com/back03278",
+          "https://www.youtube.com/@bmw_gjbaek",
+          "https://www.instagram.com/bmw_gjbaek/"
+        ]
+      },
+      {
+        "check": "Open Graph 공유 정보",
+        "passed": true,
+        "evidence": {
+          "og:title": [
+            "BMW 구매·시승 상담 | 도이치모터스 백경재 대리"
+          ],
+          "og:description": [
+            "도이치모터스 BMW 한남 전시장 백경재 대리. 모델 선택부터 시승, 신차 구매 상담까지 직접 연결하세요."
+          ],
+          "og:url": [
+            "https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/"
+          ],
+          "og:image": [
+            "https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/assets/baek-gyeongjae.webp"
+          ],
+          "og:image:alt": [
+            "BMW 도이치모터스 한남 전시장 백경재 대리"
+          ]
+        }
+      },
+      {
+        "check": "공유 카드 정보",
+        "passed": true,
+        "evidence": {
+          "twitter:card": [
+            "summary"
+          ],
+          "twitter:title": [
+            "BMW 백경재 대리 | 도이치모터스 한남 전시장"
+          ],
+          "twitter:description": [
+            "도이치모터스 BMW 한남 전시장. 백경재 대리에게 신차 견적과 시승 일정을 문의하세요."
+          ],
+          "twitter:image": [
+            "https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/assets/baek-gyeongjae.webp"
+          ],
+          "twitter:image:alt": [
+            "백경재 대리 프로필"
+          ]
+        }
+      },
+      {
+        "check": "기본 로딩 최적화",
+        "passed": true,
+        "evidence": "지연 JS·대표 이미지 우선·하단 이미지 lazy·초기 iframe 없음; Core Web Vitals 실측은 별도"
+      },
+      {
+        "check": "브라우저 글자 가독성·가로 넘침",
+        "passed": true,
+        "evidence": {
+          "viewport_width": 320,
+          "scroll_width": 320,
+          "minimum_supporting_font_px": 12,
+          "body_font_px": 16,
+          "source": "Browser DOM measurement at localhost:4173. Header subtitle, social description, playlist category and video help all 12px. Major section headings all 32px. Additional breakpoints checked separately."
+        }
+      }
+    ]
+  }
+}
