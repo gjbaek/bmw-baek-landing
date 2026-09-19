@@ -12,6 +12,8 @@
 - `dist/privacy.html`: 개인정보·외부 서비스 이용 안내
 - `dist/assets`: 최적화한 실제 BMW 사진, 제공된 프로필과 로고
 - `update-seo.py`: 본문의 FAQ를 읽어 구조화 데이터와 검색 파일을 갱신
+- `vercel.json`: Vercel에서 `dist`만 공개하고 설치·빌드를 생략하는 배포 설정
+- `GITHUB-DEPLOYMENT.md`: GitHub 파일 변경만으로 기존 Vercel 배포를 수정하는 방법
 - `audit-seo.py`: 25개 항목의 로컬 구현 검사 (공식 SEO 점수 아님)
 - `REVIEW.md`: 디자인·문구·SEO·법적 표시 검토 결과와 남은 공개 검증 항목
 
@@ -56,7 +58,7 @@
 
 공유 이미지와 Twitter 카드 정보도 포함합니다. 자체 25개 구현 항목은 수정 전 84/100에서 100/100으로 개선됐습니다. Lighthouse나 실제 공개 사이트 SEO 점수는 측정하지 않았습니다. 검사 범위·근거·공개 전 필요한 작업은 `REVIEW.md`에 명시했습니다.
 
-실제 공개 전 도메인을 확정하고 `update-seo.py`의 ORIGIN을 바꾼 뒤 `python3 update-seo.py`를 실행하세요. 비공개 또는 인증이 필요한 사이트는 검색엔진이 정상 수집할 수 없습니다. 공개 후 소유자 계정으로 Google Search Console과 네이버 서치어드바이저의 사이트 소유권 인증 및 사이트맵 제출이 필요합니다. 인증 토큰은 제공되지 않아 임의로 추가하지 않았습니다.
+현재 대표 도메인은 `https://bmw-baek-landing.vercel.app`으로 맞췄습니다. 도메인을 변경하면 `update-seo.py`의 ORIGIN을 바꾼 뒤 `python3 update-seo.py`를 실행하세요. 비공개 또는 인증이 필요한 사이트는 검색엔진이 정상 수집할 수 없습니다. 공개 후 소유자 계정으로 Google Search Console과 네이버 서치어드바이저의 사이트 소유권 인증 및 사이트맵 제출이 필요합니다. 인증 토큰은 제공되지 않아 임의로 추가하지 않았습니다.
 
 상위 노출은 경쟁도, 사이트 신뢰, 콘텐츠 품질과 축적, 운영 이력, 검색 플랫폼의 정책 등 영향을 받으므로 보장할 수 없습니다. FAQ 구조화 데이터가 검색결과의 FAQ 확장 표시를 보장하지도 않습니다.
 
@@ -79,7 +81,11 @@
 
 프로젝트 폴더에서 `python3 -m http.server 4173 --bind 127.0.0.1 --directory dist`를 실행하고 http://127.0.0.1:4173/ 를 엽니다.
 
-## Sites 연결
+## Vercel 배포
+
+저장소 최상위의 `vercel.json`이 배포 폴더를 `dist`로 지정합니다. Vercel과 연결된 운영 배포 브랜치에 커밋하면 자동 배포가 시작됩니다. 기존 이미지·CSS·JS는 유지하며, 별도 빌드 명령이나 패키지 설치가 필요하지 않습니다. 적용 순서는 `GITHUB-DEPLOYMENT.md`를 참고하세요.
+
+## 이전 Sites 연결 기록
 
 기존 Site ID는 `.openai/hosting.json`에 보존되어 있습니다. 게시를 재개할 때 새 Site를 만들지 말고 이 ID를 재사용하세요. 기본 비공개 범위를 공개로 바꾸려면 별도 공개 요청이 필요합니다.
 

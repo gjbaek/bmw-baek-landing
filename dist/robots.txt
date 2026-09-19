@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/sitemap.xml
+Sitemap: https://bmw-baek-landing.vercel.app/sitemap.xml

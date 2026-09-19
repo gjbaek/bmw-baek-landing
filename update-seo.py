@@ -6,7 +6,7 @@ import json
 import re
 
 ROOT = Path(__file__).parent
-ORIGIN = 'https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site'
+ORIGIN = 'https://bmw-baek-landing.vercel.app'
 
 class FAQParser(HTMLParser):
     def __init__(self):

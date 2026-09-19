@@ -15,7 +15,7 @@
 - 전시장 전화: 02-749-7301
 
 ## 페이지
-- [상담 안내](https://bmw-baek-gyeongjae.glassy-candy-6334.chatgpt.site/): 모델 상담, 담당자, 전시장 안내 및 자주 묻는 질문
+- [상담 안내](https://bmw-baek-landing.vercel.app/): 모델 상담, 담당자, 전시장 안내 및 자주 묻는 질문
 - [카카오톡 상담](https://open.kakao.com/o/stXSvxki): 백경재의 오픈채팅 상담
 - [네이버 블로그](https://blog.naver.com/back03278): 백경재의 블로그
 - [인스타그램](https://www.instagram.com/bmw_gjbaek/): 백경재의 인스타그램
