@@ -5,6 +5,7 @@ from urllib.request import urlopen
 from concurrent.futures import ThreadPoolExecutor
 from fontTools import subset
 from fontTools.ttLib import TTFont
+from hashlib import sha256
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -70,7 +71,9 @@ def build_fonts():
     css_path = DIST / 'styles.css'
     css = re.sub(r'@font-face\{[^}]*\}\s*', '', css_path.read_text())
     css = css.replace('font-family:Pretendard,', 'font-family:"Hannam Sans",')
-    faces = ''.join(f'@font-face{{font-family:"Hannam Sans";src:url("/assets/fonts/hannam-{w}.woff2") format("woff2");font-weight:{w};font-display:swap}}\n' for w in WEIGHTS)
+    # Text changes alter the subset; let returning visitors fetch the matching glyphs.
+    versions = {w: sha256((OUT / f'hannam-{w}.woff2').read_bytes()).hexdigest()[:12] for w in WEIGHTS}
+    faces = ''.join(f'@font-face{{font-family:"Hannam Sans";src:url("/assets/fonts/hannam-{w}.woff2?v={versions[w]}") format("woff2");font-weight:{w};font-display:swap}}\n' for w in WEIGHTS)
     css_path.write_text(faces + css)
     total = sum(p.stat().st_size for p in OUT.glob('*.woff2'))
     print(f'Fonts: {original_size:,} → {total:,} bytes ({100 * (1 - total/original_size):.1f}% smaller); {len(codepoints)} codepoints requested.')
