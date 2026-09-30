@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+research/
+.DS_Store
+qa/current/
+.env
+.env.*
+!.env.example
+.vercel/

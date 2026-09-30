@@ -6,31 +6,6 @@
     return `sms:${phone}${isiOS ? '&' : '?'}body=${encodeURIComponent(message)}`;
   };
   document.querySelectorAll('[data-sms]').forEach(link => { link.href = smsUrl(link.dataset.sms); });
-  const familyChoices = [...document.querySelectorAll('[data-family]')];
-  const familyPanel = document.getElementById('family-panel');
-  const modelOptions = [...document.querySelectorAll('.family-options [data-model]')];
-  let activeFamily = null;
-  function closeFamily() {
-    familyPanel.hidden = true;
-    familyChoices.forEach(button => button.setAttribute('aria-expanded', 'false'));
-    const previousFamily = activeFamily;
-    activeFamily = null;
-    return previousFamily;
-  }
-  familyChoices.forEach(button => button.addEventListener('click', () => {
-    const wasOpen = activeFamily === button;
-    closeFamily();
-    if (wasOpen) return;
-    activeFamily = button;
-    button.setAttribute('aria-expanded', 'true');
-    document.getElementById('family-label').textContent = `${button.dataset.familyLabel} 모델`;
-    modelOptions.forEach(model => { model.hidden = model.dataset.category !== button.dataset.family; });
-    familyPanel.hidden = false;
-  }));
-  document.getElementById('close-family').addEventListener('click', () => {
-    const previous = closeFamily();
-    if (previous) previous.focus({preventScroll: true});
-  });
   const dialog = document.getElementById('consult-dialog');
   let trigger = null;
   document.querySelectorAll('[data-model]').forEach(button => button.addEventListener('click', () => {
@@ -52,12 +27,13 @@
     if (trigger) trigger.focus({preventScroll: true});
   });
   const quickBar = document.querySelector('.quick-contact');
-  if ('IntersectionObserver' in window) {
+  const quickBarTrigger = document.querySelector('.launch-actions, .hero-actions');
+  if (quickBar && quickBarTrigger && 'IntersectionObserver' in window) {
     const observer = new IntersectionObserver(entries => {
       quickBar.classList.toggle('visible', !entries[0].isIntersecting);
     }, {threshold: 0});
-    observer.observe(document.querySelector('.hero-actions'));
-  } else { quickBar.classList.add('visible'); }
+    observer.observe(quickBarTrigger);
+  } else { quickBar?.classList.add('visible'); }
   let toastTimer;
   const showToast = text => {
     const toast = document.getElementById('toast');

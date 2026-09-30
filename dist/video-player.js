@@ -1,8 +1,8 @@
 'use strict';
 (() => {
-  const items = [...document.querySelectorAll('.playlist-item')];
+  let items = [...document.querySelectorAll('.playlist-item')];
   if (!items.length) return;
-  const videos = items.map(item => ({
+  let videos = items.map(item => ({
     id: item.dataset.videoId,
     title: item.querySelector('strong').textContent,
     category: item.querySelector('.playlist-copy > span').textContent,
@@ -21,6 +21,79 @@
   let apiPromise;
   let generation = 0;
   let readyTimer;
+  let interacted = false;
+  let refreshing = false;
+  let updated = false;
+  const feedStatus = document.getElementById('video-feed-status');
+  const dateFormatter = new Intl.DateTimeFormat('ko-KR', {timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit'});
+
+  async function refreshVideos() {
+    if (!feedStatus || refreshing || interacted || document.hidden) return;
+    refreshing = true;
+    try {
+      const response = await fetch('/api/videos', {signal: AbortSignal.timeout(15000)});
+      if (!response.ok) throw new Error('Feed unavailable');
+      const data = await response.json();
+      if (data.status !== 'live' || data.channelId !== 'UCam_yvB4qEmWmAWfT8uy3SQ' || !Array.isArray(data.videos)) throw new Error('Feed unavailable');
+      const seen = new Set();
+      const latest = data.videos.filter(video => {
+        if (!/^[\w-]{11}$/.test(video.id || '') || typeof video.title !== 'string' || !video.title.trim() || seen.has(video.id)) return false;
+        if (!video.publishedAt || !Number.isFinite(Date.parse(video.publishedAt)) || Date.parse(video.publishedAt) > Date.now()) return false;
+        seen.add(video.id);
+        return true;
+      }).sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt)).slice(0, 12).map(video => ({
+        id: video.id, title: video.title.trim().slice(0, 300),
+        category: `${dateFormatter.format(new Date(video.publishedAt))} 업로드`,
+        thumbnail: `https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`
+      }));
+      if (!latest.length) throw new Error('Empty feed');
+      // A response arriving after a click must never interrupt playback or move keyboard focus.
+      if (interacted) return;
+      const list = document.querySelector('.playlist-items');
+      const nodes = latest.map((video, position) => {
+        const li = document.createElement('li');
+        const button = document.createElement('button');
+        button.className = 'playlist-item';
+        button.type = 'button';
+        button.dataset.videoId = video.id;
+        button.dataset.videoIndex = position;
+        const number = document.createElement('span');
+        number.className = 'playlist-number';
+        number.textContent = String(position + 1).padStart(2, '0');
+        const image = document.createElement('span');
+        image.className = 'playlist-image';
+        const thumbnail = document.createElement('img');
+        thumbnail.src = video.thumbnail;
+        thumbnail.width = 480;
+        thumbnail.height = 270;
+        thumbnail.alt = '';
+        thumbnail.loading = 'lazy';
+        image.appendChild(thumbnail);
+        const copy = document.createElement('span');
+        copy.className = 'playlist-copy';
+        const date = document.createElement('span');
+        date.textContent = video.category;
+        const title = document.createElement('strong');
+        title.textContent = video.title;
+        copy.append(date, title);
+        button.append(number, image, copy);
+        button.addEventListener('click', () => choose(position));
+        li.appendChild(button);
+        return li;
+      });
+      videos = latest;
+      list.replaceChildren(...nodes);
+      items = [...list.querySelectorAll('.playlist-item')];
+      document.getElementById('video-count').textContent = `${videos.length} VIDEOS`;
+      selectVideo(0);
+      updated = true;
+      feedStatus.textContent = '최근 업로드 순 · 채널과 자동으로 연결됩니다.';
+    } catch {
+      if (!interacted) feedStatus.textContent = updated
+        ? '마지막으로 불러온 목록입니다. 최신 영상은 채널에서도 확인할 수 있습니다.'
+        : '저장된 영상 목록입니다. 최신 영상은 채널에서 확인해 주세요.';
+    } finally { refreshing = false; }
+  }
 
   function setStatus(message) {
     status.textContent = `${message} · ${index + 1} / ${videos.length}`;
@@ -75,6 +148,7 @@
   }
 
   async function play() {
+    interacted = true;
     errorPanel.hidden = true;
     if (ready && player) {
       cover.hidden = true;
@@ -153,4 +227,11 @@
     starting = false;
     play();
   });
+  if (feedStatus) {
+    // Keep focused controls stable when navigating the playlist with a keyboard.
+    document.querySelector('.playlist').addEventListener('focusin', () => { interacted = true; });
+    refreshVideos();
+    window.setInterval(refreshVideos, 10 * 60 * 1000);
+    document.addEventListener('visibilitychange', () => { if (!document.hidden) refreshVideos(); });
+  }
 })();

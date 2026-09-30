@@ -4,6 +4,9 @@
   "buildCommand": "",
   "installCommand": "",
   "outputDirectory": "dist",
+  "functions": {
+    "api/videos.js": { "maxDuration": 20 }
+  },
   "headers": [
     {
       "source": "/(.*)",

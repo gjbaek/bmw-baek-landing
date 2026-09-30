@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-09-22",
+  "validFrom": "2026-09-01",
+  "validThrough": "2026-09-30",
+  "benefits": [
+    {
+      "modelSlug": "5-series",
+      "name": "BMW 5시리즈",
+      "source": "https://www.bmw.co.kr/ko/finance/special-offer/financial-promotion/5-series-promotion.html",
+      "items": [
+        {
+          "label": "할부 구매 고객",
+          "monthlyMax": 30,
+          "months": 5,
+          "totalMax": 150
+        },
+        {
+          "label": "스마트 리스 이용 고객",
+          "monthlyMax": 50,
+          "months": 10,
+          "totalMax": 500
+        }
+      ],
+      "note": "할부·리스의 지원은 서로 다른 프로그램입니다. 대상 트림, 지원 방식과 다른 혜택의 중복 적용은 상담 시 확인합니다."
+    },
+    {
+      "modelSlug": "i5",
+      "name": "BMW i5",
+      "source": "https://www.bmw.co.kr/ko/finance/special-offer/financial-promotion/special-offer-bmw-i-smart.html",
+      "items": [
+        {
+          "label": "할부 구매 고객",
+          "monthlyMax": 20,
+          "months": 5,
+          "totalMax": 100
+        },
+        {
+          "label": "스마트 리스 이용 고객",
+          "monthlyMax": 52,
+          "months": 10,
+          "totalMax": 520
+        }
+      ],
+      "note": "공식 월 납입금 예시에는 지원금이 이미 반영되어 있습니다. 견적에서 지원금을 한 번 더 빼는 혜택으로 보시면 안 됩니다."
+    }
+  ]
+}

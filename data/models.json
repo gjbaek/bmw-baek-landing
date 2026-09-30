@@ -1,0 +1,1244 @@
+[
+  {
+    "slug": "1-series",
+    "name": "BMW 1시리즈",
+    "category": "컴팩트",
+    "tagline": "도심에서 다루기 좋은 해치백",
+    "description": "작은 차체와 뒷문 활용성을 함께 살펴보세요. 120과 M135 xDrive는 구동 구성과 주행 성격이 달라 같은 1시리즈 안에서도 선택 기준이 달라집니다.",
+    "variants": [
+      {
+        "id": "51ge",
+        "name": "BMW 120",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/1-series/bmw-1-series/bmw-1-series.html",
+        "image": "/assets/models/51ge.webp",
+        "sideImage": "/assets/models/51ge-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%2595ABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q5r2YDafaejjmqn1%25HJDyLOEfgqqTJIs10yL3uBrET2JdSeZsNEuzVMRr0MSkNh56rKVA0ogYLcNF4HvmFo0Kc%252NG84Wxfj0SKcP81D4PkxbUEqcbV89GsLx99UiprJ8VGGw6ZuUNfptYRSGP667m5VpFxYCygN6MimlTv0JlwyX324uFlTQdjcSUk3azDxVBDdnkq8NewzOALU0MHkIFJG4dUABKup95aFeWS6iHdKMPVYwi0WhbNmtrgPo90ys6IbHi4TrBB9%25wc3ZqiiftxdRTBw178z7QltECUkCo87slGAl5uCrXpFX2WlZQ6KQPxXRaYWanyQ5nmPnR0agOybOJynvIT9jgCO2B3iDvMIjedwq2xBDMztKGweqhrhPeEQm2awpfQ53jx4f9coKGEWKw1pCRPmvhTAcIHFy2Dqgpn0WNR10m7illZyQjKrPXYuq4Fo9%25UnpqyBLayV3WJYw1pC4L9Q48E5lkboM44aVTTQLDrg2jCil6JV0nAbH8blqd6YQmSQoOOcagd087uw8javEM",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYBxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25VJ4WxfjfZccP81D2vGxbUEqjN889GsLDybUiprJq94Gw6ZuLmqptYRSJyR67m5VKJXYCygNWU3mlTv0PlgyX324mAzTQdjcy6X3azDxTa7dnkq83nYzOALUdOOkIFJGzYAABKupkmjFeWS6AaKKMPVYFldWhbNmKRIPo90yGoBbHi4Tplo9%25wc36k7iftxdYrxw178zmZBtECUkyRv7slGATwkCrXpFOVflZQ6KIvwXRaYWBIyQ5nmPeJNagOybLKsnvIT9JrrO2B3iu8IIjedwS9rBDMztM%25oeqhk7hgzMLoACoVphJHFlH4Qou%25KX%25adHSfWQf1b%25V1Pa1SyfNEbnEGb10s9OcNhE4riIx0RscZwB84drxRteXABZ85J5aZq%25P4fBFj%25VicdTjO3gXAsRhBDFhSaP059C3svlb4x8NF1yQmSLOqkIVFHGO6AustzMcPrTRI2zBy2oDNeg89RpfBcmfsil6J4KAffyojjmBOtXanpx65eo%25Tu4Ws46Iq5gmvhmK331yXq%25sGM8snyQiA"
+      },
+      {
+        "id": "21ge",
+        "name": "BMW M135 xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-m-135/bmw-m135.html",
+        "image": "/assets/models/21ge.webp",
+        "sideImage": "/assets/models/21ge-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG7bXABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9v2YDafagLjmqn1nMbDyLOEf%25uqTJIs10yL3uBrET2JdSeZsNEuzVMRr0MSkNh5Z4lVA0ogYZWNF4HvmJx0Kc%252yV34WxfjTEucP81D46GxbUEqcNP89GsLx9FUiprJ8i0Gw6ZuUwUptYRSG0667m5Vp4EYCygN69mmlTv0YWUyX324motTQdjcSQ73azDxVWQdnkq8NpFzOALU0MLkIFJG4hIABKupczXFeWS6iUaKMPVYwvOWhbNmtfNPo90y71AbHi4TC7x9%25wc3l5jiftxdXIgw178z5FotECUkgoo7slGAvSCCrXpF2kNlZQ6KQInXRaYWa16Q5nmPnj0agOybOLinvIT9IwpO2B3iBezIjedwe28BDMztMNzeqhk7JDaMLoACuq%25hJHFlSLpou%25KX9mKHSfgfwHRIdLBlyrIjAJpUr7G19mRi9lZya2wdqfkPGhEbzLuSDye8ix2Z8dQCnnvzIJ9gwO30SUb17sYeySzoVBzcAiN3lZyaUV7IU6RjnWt1%25VUBPKkIVugDLJaCnTNU8ePtE6tnSFT3Id4I1MSpBDF86Q0l6JBqR%25",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUD36kxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25O04WxfjfNUcP81D1RnxbUEqj2p89GsLDybUiprJq94Gw6ZuLmqptYRSJyR67m5VuToYCygNWuQmlTv0PGdyX324bYiTQdjc9qp3azDxTKAdnkq83mazOALUdOlkIFJGzIyABKupkBkFeWS6AyKKMPVYFTqWhbNmKOPPo90yWQkbHi4TPge9%25wc36%25MiftxdYQ%25w178zmFltECUkyRU7slGAT5sCrXpF3tHlZQ6KIkfXRaYWB0EQ5nmPejmagOybMDCnvIT9hMdO2B3ioVcIjedwHsNBDMztVlgeqhk7NggMLoAC06hhJHFl47mou%25KX%25s1HSfWQfDK%25V1Pa1cyfNEbnEUI10s9OsBFE4riIrZtscZwBZ4zrxRteRmtZ857MGxfRUgChp825Gvlo6UFgp2XHOPXv6jNjBvSswUrobJscCGFkJMADOP52foubf4Bw8j7aA5qntUp6xbZzId4VMSWhcbEmMTP05XK%25Gwgk2hLKozL1uxHD672yroGdr5CnTNU9Porz0VJdoMXOBeypTjHrsk0Ui5UThSjDdqfd9AhRzOSs5m%2565ezICP"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "첫 BMW를 찾으신다면 차 크기보다 운전석에 앉았을 때의 편안함부터 봐주세요. 1시리즈는 도심에서 쓸 모습을 떠올리며 고르기 좋은 차예요."
+  },
+  {
+    "slug": "2-active-tourer",
+    "name": "BMW 2시리즈 액티브 투어러",
+    "category": "컴팩트",
+    "tagline": "공간을 먼저 생각하는 BMW",
+    "description": "짐을 싣고 내리는 일이 잦다면 액티브 투어러를 살펴보세요. 2시리즈 그란 쿠페와 달리 실내와 적재공간을 중심으로 비교할 모델입니다.",
+    "variants": [
+      {
+        "id": "81bx",
+        "name": "BMW 220i 액티브 투어러",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/2-series/2-series-active-tourer/bmw-2-series-active-tourer.html",
+        "image": "/assets/models/81bx.webp",
+        "sideImage": "/assets/models/81bx-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG7bXABNXTaAxgqO30WiyXq2FgXAXHXy6v6jQ%25Q9h2YDafagZjmqn1njIDyLOEf%25uqTJIs10yL3uBrETtJdSeZsNEuzVMRr0cSkNh5Z4lVA0ogYLcNF4HvmFH0Kc%252y154Wxfj0pUcP81D4VWxbUEqcbA89GsLx9NUiprJ8VGGw6ZuUNfptYRSGoP67m5VpFxYCygN6MimlTv0YOkyX324mkETQdjcSKX3azDxVGAdnkq8NeqzOALU0MOkIFJG4dlABKup98QFeWS6ignKMPVYw%25VWhbNmtfkPo90y7tcbHi4TCR29%25wc3lO5iftxdRfcw178z53utECUkCaX7slGAlHUCrXpFXgSlZQ6KQjPXRaYWab8Q5nmPnOTagOybO54nvIT9IuTO2B3iDXIIjedwq4NBDMztLjQeqhk7Wr0MLoZobMsayjnt61agdD8c1ixHWpsPWtE6l5by2o3FxB%25KTjqLv6O4P05E4yCwXXRTaDWZbQmSLcKHifGO6LTeJnTNdPumtE6lcJiacUsgXA9HhccnN33aJqZvjDlwXYuk44x9%25U9XLzYmayVaHIIxnvz4UCStUDn2sh",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUD36kxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHbK0Kc%252%25O54WxfjfNucP81D1csxbUEqj2p89GsLDybUiprJq9eGw6ZuLmqptYRSJy367m5VuToYCygNWU3mlTv0PlvyX324bDVTQdjcyFk3azDxTYQdnkq83nCzOALUdOmkIFJGzYAABKupkmjFeWS6AgaKMPVYFldWhbNmKRIPo90yWE7bHi4TP7q9%25wc36XHiftxdYACw178zmZ8tECUkyRE7slGATwoCrXpFOz%25lZQ6KIN1XRaYWB2YQ5nmPej7agOybMe3nvIT9hS4O2B3ioEVIjedwSj3BDMztVipeqhk7hfHMLoACovkhJHFlHN6ou%25KX%25caHSfWQfnz%25V1Pa1E9fNEbnEVT10s9Osp9E4riIxHsscZwB8TmrxRteUc%25Z857MQJyRUgugnRLfbc1eKDfNwxz3DIdvQFr5oeqKoVnb4gildr2X9c8U0KETayVJILABNK%25pIYFSr7khxbZ35BjkeTjHq0MvUi561exy1rwXYucWF11THDDyeI7QnO68YgMJffEcPrcYBLgvy2oyWddETQLfrphUrOTawF"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "BMW다운 파란색을 찾으신다면 포르티마오 블루를 눈여겨보세요. 제가 보기에도 매력이 많은 컬러입니다.",
+    "advisorCommentSource": {
+      "type": "video-editorial",
+      "time": "02:49–03:10",
+      "label": "백경재 대리의 모델 안내 영상에서 정리",
+      "reviewedAt": "2026-09-30"
+    },
+    "additionalVariants": [
+      {
+        "name": "BMW 220i 액티브 투어러 럭셔리",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/content/dam/bmw/marketKR/bmw_co_kr/Pricelist/PRICELIST_JUNE2026.pdf.asset.1781249167044.pdf",
+        "note": "럭셔리와 M 스포츠 디자인의 적용 옵션을 비교해 보세요.",
+        "checkedAt": "2026-09-30",
+        "sourcePeriod": "2026년 7월 공식 가격표"
+      },
+      {
+        "name": "BMW 220i 액티브 투어러 M 스포츠 디자인",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/content/dam/bmw/marketKR/bmw_co_kr/Pricelist/PRICELIST_JUNE2026.pdf.asset.1781249167044.pdf",
+        "note": "원하는 실내·외 색상과 패키지 구성을 함께 확인합니다.",
+        "checkedAt": "2026-09-30",
+        "sourcePeriod": "2026년 7월 공식 가격표"
+      }
+    ]
+  },
+  {
+    "slug": "2-gran-coupe",
+    "name": "BMW 2시리즈 그란 쿠페",
+    "category": "컴팩트",
+    "tagline": "네 개의 문, 쿠페의 실루엣",
+    "description": "뒷좌석을 함께 쓰면서 쿠페 형태를 원할 때 비교할 모델입니다. 220과 M235 xDrive를 살펴보고 승하차와 뒷좌석 공간을 직접 확인해 보세요.",
+    "variants": [
+      {
+        "id": "61gg",
+        "name": "BMW 220",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/2-series/gran-coupe/bmw-2-series-gran-coupe.html",
+        "image": "/assets/models/61gg.webp",
+        "sideImage": "/assets/models/61gg-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG7bXABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q5r2YDafaejjmqn1%25HJDyLOEfgqqTJIs10yL3uBrET2JdSeZsNEuzVMRr0MSkNh56q4VA0ogYAhNF4HvmST0Kc%252NG84Wxfj0SKcP81D4PkxbUEqcbV89GsLx99UiprJ8VGGw6ZuUNfptYRSGAc67m5Vpe9YCygNLCimlTv0JACyX324u8zTQdjcSIj3azDxVBadnkq8NT7zOALU03tkIFJGbxXABKup95aFeWS6iHSKMPVYw%25zWhbNmtw4Po90y7ZvbHi4TCnR9%25wc3ZmeiftxdRMMw178z5JttECUkgdS7slGAlnQCrXpFX%25GlZQ6KQvVXRaYWaDbQ5nmPn9UagOybOI3nvIT9IgcO2B3iBS3Ijedwq2XBDMztLjoeqhk7JDUMLoACP67hJHRH9hrnTDO7YEnvzqUxEw8%25P6rbP7sYXg9TjHdK8efW3DLJ2YIcb4gscTltQQ53nqPR9ayVJxW%25w1pIYJ3MuO30zbSy7sYXxuwnxGrvQFi%25oxxO0ddnuLR2DqXtQmSPcIfifGiQJkmynTNn%25BB8O2kcGlV7GqOjro",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUD36kxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25VJ4WxfjfZccP81D2vGxbUEqjN889GsLDybUiprJq94Gw6ZuLmqptYRSJyR67m5VK8TYCygNWC5mlTv0P69yX324mAzTQdjcy6X3azDxTa7dnkq83nYzOALUdOOkIFJGzYAABKupkmjFeWS6AC3KMPVYFZOWhbNmUhIPo90yGChbHi4Tpzt9%25wc36sciftxdYrfw178zm9MtECUkyie7slGAndHCrXpFOVflZQ6KIv6XRaYWB2tQ5nmPeBTagOybMu0nvIT9h1SO2B3iuPZIjedwSRRBDMztVGeeqhk7Nw6MLoACo1%25hJHFlH2Aou%25KX%250YHSfWQfxn%25V1Pa1OkfNEbnEsi10s9OsN3E4riIr6iscZwB84HrxRteUcgZ857MGxkRUgChaKM5GvSvO5J19xEMWq10t8kdqBz2aKZgHMLWHNO9cvwXzZjQixUG4Ws3nTNuBJFe0Wf6BmKVZCAo89RdgeDAM3D%25L4h2GwgYEM8TEZtQmSxPKEE3%25qqTMBCaOIYUmvh01dbxbZxmeJv2TjHTPzzs3aJ1Z6oGZI3ntK"
+      },
+      {
+        "id": "31gg",
+        "name": "BMW M235 xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/m235-xdrive-gran-coupe/bmw-m235-xdrive-gran-coupe.html",
+        "image": "/assets/models/31gg.webp",
+        "sideImage": "/assets/models/31gg-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%259gABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9v2YDafagLjmqn1nMbDyLOEf%25uqTJIs10yL3uBrET2JdSeZsNEuzVMRr0MSkNh5Z4lVA0ogYLcNF4HvmST0Kc%252y1J4Wxfj0pUcP81D4VWxbUEqcbA89GsLx9NUiprJ8i8Gw6ZuUNpptYRSG0167m5VpFxYCygN6MimlTv0JlwyX324uFlTQdjcSUk3azDxVBDdnkq8NenzOALU03CkIFJG4d7ABKup98QFeWS6ignKMPVYw%25VWhbNmtfkPo90y7tcbHi4TCR29%25wc3lO5iftxdRAhw178z5hhtECUkgu77slGAvzVCrXpFXOalZQ6KQfpXRaYWa2NQ5nmPnq9agOybOiGnvIT9IBdO2B3iBvxIjedweVdBDMztLjQeqhk7JDHMLoACuqGhJHFlb2tou%255%25ioZO3qICmsO2kLG8stUfbYZ9bCrmQvi3D%25zWUM1PdqJujmBx9cvrx3X7aagdOLb5inTNu8PftE6BmudhSId4k9VTCrmQ8StO8pZ2aKwfHSZcWYzOSJ5jqLQ7ayV7xB1w1pwauAyTO30OfeeUIjAxpXNCpLIDZH",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYexbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25O04WxfjfNUcP81D1RnxbUEqj2p89GsLDybUiprJq94Gw6ZuLmqptYRSJyR67m5VuToYCygNWU3mlTv0P69yX324bDGTQdjcyFk3azDxTYQdnkq83nCzOALUdOmkIFJGzIzABKupkmFFeWS6AyDKMPVYFldWhbNmKRIPo90yGoBbHi4Tplo9%25wc36k7iftxdYrxw178zmZ1tECUkyih7slGATwMCrXpFOz%25lZQ6KIN1XRaYWB2YQ5nmPej7agOybMe3nvIT9hS4O2B3ioEVIjedwSC5BDMztV55eqhk7NpMMLoAC0tYhJHFlHEfou%25KX%25jFHSfWQf4m%25V1Pa18OfNEbnEIA10s9OsrwE4riIr0dscZwBZYwrxRteUc%25Z857MGxvRUgChp8A5Gvlon4egp2V2IguEi8shPLE47UAzLekjnWRv%25hJP%250Iix2tQkRDaw8GpcPrdO30SeuKM4P1YeyWNRlFHUi5zvMqFhdqfJcojptvmshU3sR7ayV8bWh71NgL3helnIBmGy2oGEz989R8yMu2j3D%253bkkrdnuERYHpRBdO7W"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "쿠페의 모습이 좋지만 뒷좌석도 포기하기 어렵다면 살펴보세요. 사진보다 직접 타고 내릴 때 내 생활에 맞는지 감이 옵니다.",
+    "additionalVariants": [
+      {
+        "name": "BMW 228 xDrive 그란 쿠페 M 스포츠",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/content/dam/bmw/marketKR/bmw_co_kr/Pricelist/PRICELIST_JUNE2026.pdf.asset.1781249167044.pdf",
+        "note": "공식 가격표 등재 구성 · 현재 판매 사양은 상담 시 확인",
+        "checkedAt": "2026-09-30",
+        "sourcePeriod": "2026년 7월 공식 가격표"
+      }
+    ]
+  },
+  {
+    "slug": "2-coupe",
+    "name": "BMW 2시리즈 쿠페",
+    "category": "컴팩트",
+    "tagline": "운전자 중심의 두 도어",
+    "description": "M240i xDrive 쿠페는 운전석에서의 경험을 중요하게 보는 분께 비교할 선택지입니다. 같은 2시리즈라도 그란 쿠페·액티브 투어러와 차체 구성이 다릅니다.",
+    "variants": [
+      {
+        "id": "51cm",
+        "name": "BMW M240i xDrive 쿠페",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-2-series-m-models/bmw-m2-coupe.html#bmw-m240i-xdrive",
+        "image": "/assets/models/51cm.webp",
+        "sideImage": "/assets/models/51cm-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25XOABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikascZwBwAsrxRtetQsZ857MBDxRUgChe845GvloMUegp2XHhDMv6jQ%25oqQ2YDafHLbjmqn1%25JNDyLOExguqTJIs8egL3uBrq0PJdSeZLj3uzVMRJzmSkNh5ukDVA0ogSjINF4HvVYA0Kc%252Nl74Wxfj0XkcP81D4RSxbUEqc6N89GsLxz8UiprJ2iWGw6Zuj3iptYRSD0y67m5VqQ5YCygNLaWmlTv0JnbyX324uY%25TQdjcSmj3azDxVyEdnkq8NT7zOALU03tkIFJGbtOABKup9ouFeWS6iHdKMPVYw%25vWhbNmtjrPo90y7tcbHi4TCR29%25wc3lO5iftxdXCyw178z5TWtECUkg377slGAvW%25CrXpF2%25%25lZQ6KjNXXRaYWaBOQ5nmPnEYagOybOD4nvIT9IJwO2B3iBt6IjedweMkBDMztMjUeqhk7h0fMLoACo47hJHFlSIoou%25KXVG8HSfWQiyW%25VicdTjO3gXAqQXBDFhSaP059C3svlb4x8NF1yQmSDyPMIooub%25cXJaHWp8TlgO2k1F8brUfbYiQGWBDFhTUO%25TzqVo7ngRTTrHB9%25UxJN4chIoKGYyxPnvzno8wKW%25P6%25pLr5fNwyzMpBzcf0qR",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCkWxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7fL3uBrBCLJdSeZe%25LuzVMRrxdSkNh5ZzTVA0ogRkZNF4Hv5xR0Kc%252g8%254WxfjvUncP81D2GmxbUEqdNp89GsLzZNUiprJ8yaGw6ZuUciptYRSGtP67m5Vp7xYCygN6csmlTv0YWCyX324moMTQdjcyH73azDxTS6dnkq83KmzOALUdtzkIFJG4IQABKupciIFeWS6xybKMPVY8%25VWhbNmUfQPo90yG1nbHi4TpW29%25wc36PciftxdYbqw178zm9MtECUkyie7slGAneECrXpFOgplZQ6KIvwXRaYWB20Q5nmPecJagOybMe3nvIT9hS4O2B3ioEVIjedwHhbBDMztV9Qeqhk7NiMMLoAC0Q2hJHFl422ou%25KXcmHHSfWQfrE%25V1Pa1qWfNEbnExT10s9OsGBE4riIreKscZwBZR7rxRteRckZ857M5yjRUgChgTM5Gvlo6sggp2XHYAzv6jQ%25IbQ2YI3w9cEiNHCLS5rxl56fayVOhiL0onTdzmlDb%25P6UE87sYlvAEKCpLetR3aJ9Ss4trb4gxmZNzOSFjr3PjLIoKGTXCjjtWzcPrEeHf1FdKVZg2E0TQLTKs8VNP05PRBtlbH82LARzL1b%25IC"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "두 도어의 멋이 마음에 드셨다면, 뒷좌석을 얼마나 자주 쓰는지도 같이 생각해 주세요. 좋아하는 모습과 평소 쓰임이 맞아야 오래 만족하니까요."
+  },
+  {
+    "slug": "3-series",
+    "name": "BMW 3시리즈 세단",
+    "category": "세단",
+    "tagline": "매일 타는 스포츠 세단",
+    "description": "출퇴근과 주말 드라이브를 한 대로 해결하려면 3시리즈를 비교해 보세요. 가솔린·디젤·M340i 중 평소 주행 환경에 맞는 구성을 살펴볼 수 있습니다.",
+    "variants": [
+      {
+        "id": "11ff",
+        "name": "BMW 320i",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/3-series/bmw-3-series-sedan/bmw-3-series-sedan.html",
+        "image": "/assets/models/11ff.webp",
+        "sideImage": "/assets/models/11ff-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%259gABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafag8jmqn1nMdDyLOEfNmqTJIs1RyL3uBrENRJdSeZs3EuzVMRr0sSkNh5Z4UVA0ogYZWNF4HvmJx0Kc%252yKH4WxfjTtacP81D46lxbUEqcNP89GsLx9FUiprJ8i0Gw6ZuUNfptYRSGP667m5VpFxYCygN6K7mlTv0YheyX324motTQdjcyTw3azDxTi7dnkq83wdzOALU0OXkIFJG49OABKupcmPFeWS6xHSKMPVY8%257WhbNmUfhPo90yG1nbHi4TpW29%25wc36PciftxdYb3w178zm9BtECUkaB17slGAn5GCrXpFOgilZQ6KIvNXRaYWB4LQ5nmPeBTagOybMu0nvIT9h1SO2B3ioMPIjedwSH5BDMztV95eqhk7NiMMLoAC0vvhJHFl4Yoou%25KXcPdHSfWQfrE%25V1Pa1qWfNEbnExT10s9OsadE4riIrpescZwBZMWrxRteR5yZ857M5glRUgChg8F5GvlovU5gp2XH2dXv6jQ%25jzJ2YDafDk%25jmqn1TWFDyLOEMw1qTJxJoq45lYg1tN5GambWN%25PuMw4hM10trUol6JQBPjSeXYyTptvKhFU0KlsfZZ8X5mMxoRCzTWeu%25VivtTXD3gXAahdC10trW3%255W94GZIHuLWWgAQQ53yxpYmrfZ7dyK4YHS9HZTn7C5lk5ut2PgpnK9sz19mg64L",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYexbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNzcP81D1RwxbUEqjmP89GsLDSbUiprJqmSGw6ZuLiqptYRSJyL67m5VuTkYCygNWuQmlTv0PGdyX324bXvTQdjc9ef3azDxTKodnkq83mazOALUdOlkIFJGzIyABKupkmjFeWS6AaKKMPVYFldWhbNmKXMPo90yW5ZbHi4TPge9%25wc3b9Biftxd9IMw178ziBwtECUkyEH7slGATOECrXpF3PalZQ6Kdv6XRaYWz2MQ5nmPkj5agOybAD1nvIT9FQ4O2B3iKa3IjedwWniBDMztPOreqhk7frDMLoAC1VAhJHFlENIou%25KXs0mHSfWQrTU%25V1PaZr9fNEbnRpy10s9O5D6E4riIgRascZwB6vVrxRteYOVZ857MmIRRUgChy005GvloTWggp2XH3awv6jQ%25jJq2YDafD8Qjmqn1qd9DyLOELfwqTJIsJFZL3uBruRQJdSeZSVbuzVMRVNoSkNh5NzlVA0og0kVNF4Hv4wH0Kc%252ctG4Wxfjx72cP81D9QlxbUEqRBD89GdGg8TVoWNDemVAfPnQm2apRBcUJDyeJkgoKG%25rac6ZHWb9Fe0X5lk32TIjAeSw27BzcEOLPoxQUjYODXYuyFqp9%25UtNDPlNcfZ7dWMBNNXummlD2ERgvtb7Gq2VfgWhcW7jTGpl6JlMUa0XRTVcwL9cvX5fB"
+      },
+      {
+        "id": "51ft",
+        "name": "BMW M340i",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-3-series-m-models/bmw-m3-sedan.html",
+        "image": "/assets/models/51ft.webp",
+        "sideImage": "/assets/models/51ft-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%2595ABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafai2jmqn1nvRDyLOEO8GqTJIs10yL3uBrE5TJdSeZs3muzVMRrdsSkNh5Z4rVA0ogRcXNF4Hv5xp0Kc%252y5b4WxfjTSUcP81D3PvxbUEqdCO89GsLzZ6UiprJkReGw6ZuUTnptYRSGxw67m5Vp7bYCygN6C8mlTv0YxryX324mwTTQdjcybp3azDxT9Qdnkq83fYzOALUd1%25kIFJGzEQABKupkoPFeWS6AX0KMPVYF0VWhbNmKwjPo90yWaIbHi4TPnu9%25wc3bO9iftxdYfhw178zmaftECUkyKX7slGAT5GCrXpF3gBlZQ6KdvZXRaYWz2%25Q5nmPklNagOybAXynvIT9FQsO2B3iKaEIjedwHE2BDMzt%25uzeqhk7fSnMLoAC1V6hJHFlEmxou%25KXsEPHSfWQrUY%25V1PaZ2GfNEbnRrX10s9OGQEE4riIpMSscZwB6SSrxRteYAZZ857MmBKRUgChyX95Gvlovqjgp2XH2clv6jQ%25jTP2YDafDH9jmqn1qksDyLOELrlqTJIsJuWL3uBruSMJdSeZS37uzVMRVduSkNh5N9xVA0og0i5NF4HvWCt0Kc%252sl%254WxyxZ4YJeAuvOpJdoFXCp5l8snYrsv6OD3Zekxh1lNUEMAKWzOS7rt367ejgqqTMJFsyZLB9WCE85GaSOWM0PuMworbBv6ODCP5JCQYdqfR8cCCuwhhJPKyzAFDgqIbw7YyRUQRqWHIBJeiJ9m%25BuzH7Qj9vQFukYc",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYBxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfI4cP81D10SxbUEqEzA89GsLDybUiprJqV9Gw6ZuLiPptYRSJwL67m5VuTJYCygNS3HmlTv0VdFyX324bVnTQdjc96k3azDxia0dnkq8whEzOALUtuKkIFJG7SZABKupk91FeWS6AdBKMPVYFMnWhbNmKhzPo90yWdJbHi4TPB99%25wc3bnFiftxd9O%25w178zijWtECUkwD27slGAtq%25CrXpF7galZQ6KCHyXRaYWlyYQ5nmPXBcagOybQfsnvIT9a1pO2B3inEOIjedwWj5BDMztPfjeqhk7bXHMLoAC9VAhJHFliNrou%25KXw0uHSfWQt42%25V1Pa7omfNEbnCHb10s9Ol%25LE4riIXfqscZwBvq4rxRte2ptZ857Mj61RUgChDYK5GvloqPdgp2XHLqav6jQ%25JkW2YDafu4Ajmqn1SJHDyLOEA%25qqTJIsFR6L3uBrK66JdSeZWCuuzVMRPrXSkNh5bHOVA0og08cNF4Hv43o0Kc%252c9a4WxfjxvOcP81D87LxbUEqUJo89GsLGpQUiprJp6RGw6Zu6iMptYRSYwp67m5VmOdYCygNyIVmlTv0QheyX324Lo2TQdbduTWGZCp0EFGwglHhFVozL1m3x0KExiuZ7d5DomkqRCXQtE6MJeiPVWfNwEUnVI19m2%25clZyh3NA%250MA8Kt4zQ53Op0lepmgqIbCs1ppM8FFe0V2LuSOXId48Gg2CrmCINWdzekxecvPzMLWGmncQmSMJg1"
+      },
+      {
+        "id": "31fu",
+        "name": "BMW 320d",
+        "fuel": "디젤",
+        "source": "https://www.bmw.co.kr/ko/all-models/3-series/bmw-3-series-sedan/bmw-3-series-sedan.html",
+        "image": "/assets/models/31fu.webp",
+        "sideImage": "/assets/models/31fu-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%259gABNXTaAxgqO30WiyXq2FgXAXHXy6v6jQ%25Q9h2YDafagbjmqn1nMdDyLOEfNmqTJIs1RyL3uBrENRJdSeZs3EuzVMRr0sSkNh5Z4UVA0ogYZWNF4HvmJx0Kc%252yKH4WxfjTtacP81D46lxbUEqcNP89GsLx9FUiprJ8i0Gw6ZuUNfptYRSGP667m5VpFxYCygN6K7mlTv0YheyX324motTQdjcyTw3azDxTi7dnkq83wdzOALU0PnkIFJG4IQABKupciIFeWS6xybKMPVY8%25VWhbNmUfCPo90yG1obHi4TpEO9%25wc36PjiftxdYbxw178zm9BtECUkaB17slGAn5GCrXpFOgilZQ6KIvNXRaYWB4LQ5nmPeBTagOybMu0nvIT9heWO2B3ioS3IjedwSH5BDMztV95eqhk7NiMMLoAC0vvhJHFl4Yoou%25KXcPdHSfWQfrE%25V1Pa1qWfNEbnExT10s9OsadE4riIrpescZwBZMWrxRteR5yZ857M5glRUgChg8F5GvlovU5gp2XH2dLv6jQ%25jzH2YDafyRjjmqn1TWFDyLOEMcKqTJxJoq45lYg1tN5GambWN%25PuMw4hM10trUol6JQBPjSeXYyTptvKhFU0KlsfZZ8X5mMxoRCzTWeu%25VivtTXD3gXAahdC10trW3%255W94GZIHuLWWgAQQ53yxpYmrfZ7dfK4uHS9HZTn7C5lk5utNCgpnK9sz19mg64L",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYexbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHbK0Kc%252%25O54WxfjfNncP81D1RwxbUEqjmP89GsLDSbUiprJqmSGw6ZuLiqptYRSJyL67m5VuTkYCygNWuQmlTv0PGdyX324bXvTQdjc9ef3azDxTKodnkq83mazOALUdOlkIFJGzIyABKupkmjFeWS6AaKKMPVYFldWhbNmKXMPo90yW5ZbHi4TPge9%25wc3b9Biftxd9IMw178ziBwtECUkya17slGATs%25CrXpF3IslZQ6KdbnXRaYWz2YQ5nmPkjhagOybADgnvIT9FqEO2B3iKacIjedwWndBDMztPOreqhk7frDMLoAC1VAhJHFlENIou%25KXs0mHSfWQrTU%25V1PaZr9fNEbnRpy10s9O5ZQE4riIg6iscZwB6vVrxRteYOVZ857MmIRRUgChy005GvloTWggp2XH3awv6jQ%25jJq2YDafD8Qjmqn1qd9DyLOELfwqTJIsJFZL3uBruRQJdSeZSVbuzVMRVNoSkNh5NzlVA0og0kVNF4Hv4wU0Kc%252ctv4WxfjbSccP81D9QlxbUEqR3X89GdGg8TVoWNDemVAfPnQm2apRBcUJDyeJkgoKG%25rac6ZHWb9Fe0X5lk32TIjAeSw27BzcEOLPoxQUjYODXYuyFqp9%25UtNDPlNcfZ7dWMBNNXummlD2ERgvtb7GqbVfMWhcW7jTGpl6JlMUHpXRTVcwL9cvX5fB"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "운전하는 시간이 즐거웠으면 좋겠다는 분께 먼저 이야기 나눠보고 싶은 모델이에요. 시승 때는 평소 자주 다니는 길을 떠올려 주세요."
+  },
+  {
+    "slug": "3-touring",
+    "name": "BMW 3시리즈 투어링",
+    "category": "투어링",
+    "tagline": "세단의 감각에 적재 활용성",
+    "description": "유모차·골프백·여행 가방을 자주 싣는다면 세단과 투어링의 적재 방식부터 비교해 보세요. 실제 쓰는 짐을 기준으로 공간을 확인하는 것이 좋습니다.",
+    "variants": [
+      {
+        "id": "61cy",
+        "name": "BMW 320i 투어링",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/3-series/bmw-3-series-touring/bmw-3-series-touring.html",
+        "image": "/assets/models/61cy.webp",
+        "sideImage": "/assets/models/61cy-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG7bXABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafag8jmqn1nMdDyLOEfNmqTJIs1RyL3uBrENRJdSeZs3EuzVMRr0sSkNh5Z4UVA0ogYLcNF4HvmFo0Kc%252ywQ4WxfjTEfcP81D46GxbUEqc2189GsLxjbUiprJ849Gw6ZuUwWptYRSGtc67m5Vp4EYCygN6K8mlTv0YWCyX324moMTQdjcyH73azDxT3tdnkq83wCzOALUdtzkIFJG4bOABKupcBaFeWS6xwBKMPVY8T9WhbNmUfNPo90yG1lbHi4TpEH9%25wc36sIiftxdYbDw178zm98tECUkaB17slGAn5GCrXpFOgilZQ6KIvNXRaYWB4LQ5nmPeBTagOybMu0nvIT9heWO2B3ioS3IjedwSH5BDMztV95eqhk7NiMMLoAC0vvhJHFl4Yoou%25KXcPdHSfWQfrE%25V1Pa1qWfNEbnExT10s9OsGBE4riIreKscZwBZRmrxRteR5CZ857M5xARUgChg8R5Gvlov3lgp2XH2dLv6jQ%25jzH2YDafyKAjmqn1eifDyLcLhD0RC65fwVRUQYPKVHWJei0MefNws8hCpLXIW2uBl6myGwgFMA8NFCE%25rrxlRYechZ7dyKBJHS9gwyljT5lkQM37fNw9zKPbuDSht5Q3T2YI2SiEhoNHCN6Mcn0KEQIJ7qIb0W3G",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUD36kxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNzcP81D1RwxbUEqjmP89GsLDSbUiprJqmSGw6ZuLiqptYRSJyL67m5VuTkYCygNWU3mlTv0PlgyX324bB%25TQdjc9qj3azDxTKAdnkq834DzOALUdcnkIFJGzTOABKupkBQFeWS6Ae3KMPVYFTqWhbNmKXzPo90yWQhbHi4TPgR9%25wc3bvMiftxd9iew178ziBhtECUkwet7slGATnECrXpF3rflZQ6KdBrXRaYWz9OQ5nmPkjmagOybADonvIT9FqvO2B3iKLsIjedwWnxBDMztPOzeqhk7frDMLoAC1VAhJHFlENIou%25KXs0mHSfWQrTU%25V1PaZr9fNEbnRpy10s9O5ZQE4riIg6iscZwB6vVrxRteYOVZ857MmIRRUgChy005GvloTWggp2XH3awv6jQ%25jJq2YDafD8Qjmqn1qd9DyLOELArqTJIsJZXL3uBruSPJdSeZSVhuzVMRVdCSkNh5NzSVA0og0ioNF4Hv4wU0Kc%252ctv4WxfjbXCcP81DZIjxbU3U5xyShKVjBYSk%25WaXYvQGZI48LjmBLz5hFUHsQ4proKPbABNlRCzTvyO2kBuivtId41nqWhcX826njl6JmADGbH8cLV04MOhFUlmDjagdahxiFKHWpH5A1T%25VimdeGId4%25NDZ"
+      },
+      {
+        "id": "21gl",
+        "name": "BMW M340i xDrive 투어링",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-3-series-m-models/bmw-m3-touring.html",
+        "image": "/assets/models/21gl.webp",
+        "sideImage": "/assets/models/21gl-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25IyABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafai2jmqn1nvRDyLOEO8GqTJIs10yL3uBrE5TJdSeZs3muzVMRrdsSkNh5Z4rVA0ogRcXNF4Hv5xp0Kc%252yu84WxfjTWgcP81D37nxbUEqdrp89GsLzZsUiprJkReGw6ZuUTmptYRSGLZ67m5VpJtYCygN6U7mlTv0YliyX324mXGTQdjcyUR3azDxT96dnkq83iazOALUd1mkIFJGzEfABKupksaFeWS6AHbKMPVYFQ4WhbNmK4NPo90yWtDbHi4TPnB9%25wc3bOSiftxd9Iiw178zm1otECUkyn17slGATWQCrXpF3gplZQ6KdveXRaYWz2RQ5nmPkjfagOybAX0nvIT9FQTO2B3iKarIjedwHE2BDMzt%25uzeqhk7fSnMLoAC1V6hJHFlEmxou%25KXsEPHSfWQrUY%25V1PaZ2GfNEbnRrX10s9OGQEE4riIpuuscZwB6krrxRteYIFZ857MmlbRUgChgD25Gvlov4Cgp2XH2yWv6jQ%25jd12YDafDE7jmqn1qLFDyLOELJBqTJIsJywL3uBruTLJdSeZSP4uzVMRVbZSkNh5FtiVA0og17oNF4Y4sNpqIzL5aUqTMkCtUZ7c1QpE15Ga2ysId4e%257SxfBzAF3aJwEiyGwIvRjjmBqk1YsDOPFtfcZ8XJaFBVKLB9MEWO5Ga2tKZqtlpTjHrc0ttL9eeqKAY3zk2RjnWtwJjrxlrjFhnOqIbqP6oOL3hwlvP5lkLdp0",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCPSxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfI4cP81D10SxbUEqEzA89GsLDybUiprJqV9Gw6ZuLiPptYRSJwL67m5VuTJYCygNS3HmlTv0VdFyX324bpzTQdjc9QN3azDxiM1dnkq8wJFzOALUtuLkIFJG7SZABKupk9PFeWS6AUuKMPVYFGeWhbNmKkMPo90yWoIbHi4TPHA9%25wc3bkSiftxd9OKw178ziIftECUkwDP7slGAtqjCrXpF7LflZQ6KCvnXRaYWl%25TQ5nmPXTmagOybQexnvIT9a1rO2B3inE6IjedwOsIBDMztPDgeqhk7b1DMLoAC9Q%25hJHFliNFou%25KXw0ZHSfWQt4S%25V1Pa7cjfNEbnCHy10s9Ol%259E4riIXfJscZwBvq4rxRte2ptZ857Mj61RUgChDYK5GvloqPdgp2XHLqav6jQ%25JkW2YDafu4Ajmqn1SJHDyLOEA%25qqTJIsFppL3uBrK7JJdSeZWsluzVMRPonSkNh5Nx4VA0og0ThNF4Hv4bQ0Kc%252cwD4WxfjxqMcP81D8UlxbUEqUGr89GsLGbBUiprJp9UGw6Zu6aTptYRSYnu67m5VleIYCygNDMgmlTWTLmF8stUVfk89R7hekuM3D%256y4VAf4bLswTZ2M6djrtClifGBqIbKuFHS9fxQun%25P6go07sYeySzoVBzcAiN3lZyaUV7IU6RjnWt1%25UUBckkIVugDLJaCnTNU8entE6tnSFT3Id4I05K3BDF86Q0l6JBqR%25"
+      },
+      {
+        "id": "21fz",
+        "name": "BMW 320d 투어링",
+        "fuel": "디젤",
+        "source": "https://www.bmw.co.kr/ko/all-models/3-series/bmw-3-series-touring/bmw-3-series-touring.html",
+        "image": "/assets/models/21fz.webp",
+        "sideImage": "/assets/models/21fz-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKGQEMABNXTaAxgqO30WiyXq2FgXAXHXy6v6jQ%25Q9h2YDafagbjmqn1nMdDyLOEfNmqTJIs1RyL3uBrENRJdSeZs3EuzVMRr0sSkNh5Z4UVA0ogYLcNF4HvmFo0Kc%252ywQ4WxfjTEfcP81D46GxbUEqc2189GsLxjbUiprJ849Gw6ZuUwWptYRSGtc67m5Vp4EYCygN6K8mlTv0YWCyX324moMTQdjcyH73azDxT3tdnkq83wCzOALUdtzkIFJG4bOABKupcBaFeWS6xwBKMPVY8T9WhbNmUfNPo90yG1lbHi4TpEH9%25wc36sIiftxdYbDw178zm98tECUkaB17slGAn5GCrXpFOgilZQ6KIvNXRaYWB4LQ5nmPeBTagOybMu0nvIT9heWO2B3ioS3IjedwSH5BDMztV95eqhk7NiMMLoAC0vvhJHFl4Yoou%25KXcPdHSfWQfrE%25V1Pa1qWfNEbnExT10s9OsGBE4riIreKscZwBZRmrxRteR5CZ857M5xARUgChg8R5Gvlov3qgp2XH2dov6jQ%25mZ22YDafyKAjmqn1e4FDyLcLhD0RC65fwVRUQYPKVHWJei0MefNws8hCpLXIW2uBl6myGwgFMA8NFCE%25rrxlRYechZ7dyKBJHS9gwyljT5lkQM37fNwsKTHRKb0UrOoJqKK5kXXRTmcG6Ys%25rt3KF0Mouboryat7RCzRJwvW5GaFbEdfbY5p0q",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDAQixbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHbK0Kc%252%25O54WxfjfNncP81D1RwxbUEqjmP89GsLDSbUiprJqmSGw6ZuLiqptYRSJyL67m5VuTkYCygNWU3mlTv0PlgyX324bB%25TQdjc9qj3azDxTKAdnkq834DzOALUdcnkIFJGzTOABKupkBQFeWS6Ae3KMPVYFTqWhbNmKXzPo90yWQhbHi4TPgR9%25wc3bvMiftxd9iew178ziBhtECUkwet7slGATnECrXpF3rflZQ6KdBrXRaYWz9OQ5nmPkjmagOybADonvIT9FqvO2B3iKLsIjedwWnxBDMztPOzeqhk7frDMLoAC1VAhJHFlENIou%25KXs0mHSfWQrTU%25V1PaZr9fNEbnRpy10s9O5ZQE4riIg6iscZwB6vVrxRteYOVZ857MmIRRUgChy005GvloTWggp2XH3awv6jQ%25jJq2YDafD8Qjmqn1qd9DyLOELArqTJIsJZXL3uBruSPJdSeZSVhuzVMRVdCSkNh5NzSVA0og0i8NF4Hv4wg0Kc%252Pu44WxfjbXCcP81DZTlxbU3U5xyShKVjBYSk%25WaXYvQGZI48LjmBLz5hFUHsQ4proKPbABNlRCzTvyO2kBuivtId41nqWhcX826njl6JmADGbH8wVjWCV4%25rt3KeIVVlJYYCjv1Z5gwPtUDVS%25AKM4Kt2yUGCpLCe8QNlZyS4iqb4glR%25I"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "세단이 좋은데 짐 때문에 SUV를 고민하셨나요? 그 사이에서 투어링을 한번 보세요. 평소 쓰는 가방을 기준으로 살펴보면 선택이 쉬워져요."
+  },
+  {
+    "slug": "4-coupe",
+    "name": "BMW 4시리즈 쿠페",
+    "category": "쿠페",
+    "tagline": "두 도어로 선명해지는 비율",
+    "description": "차의 실루엣과 운전석 경험이 중요하다면 쿠페를 살펴보세요. 420i와 M440i xDrive를 비교할 때 뒷좌석 사용 빈도도 함께 생각해 보세요.",
+    "variants": [
+      {
+        "id": "21da",
+        "name": "BMW 420i 쿠페",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/4-series/4-series-coupe/bmw-4-series-coupe.html",
+        "image": "/assets/models/21da.webp",
+        "sideImage": "/assets/models/21da-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25XOABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafag8jmqn1nMyDyLOEfNmqTJIs1RyL3uBrET1JdSeZsNEuzVMRr0CSkNh5Z4UVA0ogYZWNF4HvmJx0Kc%252yKH4Wxfj0pCcP81D4VWxbUEqcbA89GsLx9NUiprJ8V%25Gw6ZuUkiptYRSGBO67m5Vpe9YCygN6YbmlTv0Yz1yX324mbwTQdjcy9T3azDxVaCdnkq8NPazOALU06KkIFJG4hJABKupcowFeWS6xHeKMPVY8%25QWhbNmUFgPo90yGKObHi4TpWn9%25wc3lnHiftxdXrxw178zQZPtECUkaRu7slGAnVjCrXpFOnYlZQ6KIqSXRaYWBHLQ5nmPeIFagOybLKsnvIT9JWCO2B3iuPIIjedwSRRBDMztVGeeqhk7hfHMLoACovkhJHFlHN6ou%25KX%25CmHSfWQfxn%25V1Pa1OkfNEbnEsp10s9OsrwE4riIr0dscZwBZ4srxRteRmtZ857M5yjRUgChgTM5Gvlo6kdgp2XHOV9v6jNjBvSswUrobJscCGFkJMADOPSIOoubf4Bw8j7aA5qntUp6xbZzId4uzw%25h110tsGONBEiy6knDMLWZb6tgYrt3CImioubfkYMskKSc1QeD2kkaEo7sYpNxUGfh19mkzO8eqKe16l9iswTsyVgjrxlzK%25yoKGr8S2",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCkWxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNzcP81D1RbxbUEqjmP89GsLDSbUiprJq9DGw6ZuLmqptYRSJyh67m5VuTkYCygNWuQmlTv0PGdyX324bXvTQdjcyFh3azDxTYQdnkq83nCzOALUdOmkIFJGzY2ABKupk7IFeWS6ArEKMPVYFZOWhbNmKWnPo90yWtDbHi4TPnB9%25wc3bO9iftxdYfhw178zmaftECUkyKX7slGAT5GCrXpF3gBlZQ6KdvZXRaYWz2%25Q5nmPklNagOybAXEnvIT9FQ1O2B3io1vIjedwHJdBDMzt%25uaeqhk7fSpMLoAC1YchJHFlE1Wou%25KXs86HSfWQrvU%25V1PaZslfNEbnUXL10s9OGQhE4riIpasscZwB6SSrxRteYAZZ857M5jvRUgChg075GvlovmKgp2XH2hPv6jQ%25jd12YDafDE7jmqn1qLFDyLOELJBqTJIsJywL3uBruTLJdSeZSPeuzVMRVbcSkNh5N9RVA0ogK7wNF4HvEYO0Kcmcr06LBkJgnGL3hAl7GRCxEaV4jgpnjTrBzcMfCV81ekFKdnutswTYR6Q53nqPR9ayVHX2ABN745UXgtUDpdvxKM4bJgAwJVh19mkOaJJyiKGwgRHErZbF9cvJL3skIVk956cxw8jw2oXntE6LVP2KVZtsha"
+      },
+      {
+        "id": "81da",
+        "name": "BMW M440i xDrive 쿠페",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html",
+        "image": "/assets/models/81da.webp",
+        "sideImage": "/assets/models/81da-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25XOABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafai2jmqn1nvRDyLOEO8GqTJIs10yL3uBrE5TJdSeZs3muzVMRrdsSkNh5Z4rVA0ogRcXNF4Hv5xp0Kc%252y5b4WxfjTSUcP81D3PvxbUEqdrp89GsLzZBUiprJ8yaGw6ZuUciptYRSGtP67m5Vp7xYCygN6csmlTv0YWCyX324moMTQdjcyH73azDxTBAdnkq83tuzOALUduLkIFJGzP5ABKupkCQFeWS6AlDKMPVYFXKWhbNmUhIPo90yGChbHi4Tpzt9%25wc36sciftxdYraw178zmZ1tECUkyRM7slGATwJCrXpF3tHlZQ6Kd7oXRaYWBoZQ5nmPejmagOybMDCnvIT9hqxO2B3ioUVIjedwHokBDMzt%2508eqhk7fZ4MLoAC1%25whJHFl4tOou%25KXc7HHSfWQxOq%25V1Pa8qqfNEbnU3110s9Os5ZE4riIru9scZwBZGzrxRteRIAZ857M5moRUgChgH95Gvlov2dgp2XH2jav6jQ%25jpP2YDafD62jmqn1qASDyLOELF1qTJIshbIL3u8uHLcgXmvE70gpny9P0fbShtcohE47ZGHXYuaebDVMQmT3672WoKG4WXr1RRUQgyh8H5lk3PMSfNw273QqdvQFnozlE47ZPdfgPicpRB%25SJPPvFaagdT86myZ1RCzIWhY%25Vi%25R3OClgXAgkxquv6OWirkEiyvYcJ",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCkWxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfI4cP81D10SxbUEqEzA89GsLDybUiprJqV9Gw6ZuLiPptYRSJwL67m5VuTJYCygNS3HmlTv0VdFyX324bVnTQdjc96k3azDxia0dnkq8wJFzOALUturkIFJGzbfABKupk3IFeWS6AeaKMPVYFMdWhbNmK3LPo90yWQhbHi4TPgR9%25wc3bvMiftxd9rCw178zieptECUkwpU7slGAtaVCrXpF7h%25lZQ6KCoxXRaYWlHXQ5nmPk5sagOybAh5nvIT9FteO2B3iKL3IjedwWJfBDMztPuDeqhk7bSRMLoAC9BGhJHFlievou%25KXwMgHSfWQrgu%25V1PaZcPfNEbnRxh10s9O58dE4riIgkYscZwBvg7rxRte2yzZ857MjuTRUgChD2B5GvloTeEgp2XH3Mvv6jQ%25dE82YDafz88jmqn1kiDDyLOELVuqTJIsJpOL3uBruAtJdSeZSsCuzVMRVPgSkNh5NvOVA0og04wNF4Hv4cf0Kc%252cFa4WxfjxK4cP81D8C6xbUEqUlD89GsL5nsUipzpvU3NHP0qMyNF1bOayjn65exGuqTMuAvHWpfZnxYR%25P9iKM4QgXAdj3BDFMVtjCekxsIJbH8aGDmIqQmSTKL6ifG70qbX0x1RCzPhe00QSyyXqjs5v279CpLdNFgPoxPCD3p6XYuXJEIMQ53NxtJix2Qg1e"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "4시리즈는 제가 특히 좋아하는 라인업입니다. 멋스러운 차를 찾는 분들께 꼭 소개하고 싶은 모델이에요.",
+    "advisorCommentSource": {
+      "type": "video-editorial",
+      "time": "04:24–04:28",
+      "label": "백경재 대리의 모델 안내 영상에서 정리",
+      "reviewedAt": "2026-09-30"
+    }
+  },
+  {
+    "slug": "4-gran-coupe",
+    "name": "BMW 4시리즈 그란 쿠페",
+    "category": "쿠페",
+    "tagline": "일상까지 생각한 그란 쿠페",
+    "description": "쿠페의 형태를 좋아하면서 뒷문이 필요한 분께 비교할 차체입니다. 세단과 함께 타 보고 뒷좌석 승하차, 트렁크 여닫는 방식을 확인해 보세요.",
+    "variants": [
+      {
+        "id": "41fb",
+        "name": "BMW 420i 그란 쿠페",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/4-series/4-series-gran-coupe/bmw-4-series-gran-coupe.html",
+        "image": "/assets/models/41fb.webp",
+        "sideImage": "/assets/models/41fb-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%2595ABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafag8jmqn1%25VYDyLOEfZmqTJIs1yfL3uBrEV1JdSeZsNxuzVMRpD0SkNh56kMVA0ogYPFNF4Hvm9g0Kc%252NG74Wxfj0SKcP81D4PkxbUEqcbV89GsLxdbUiprJ8OaGw6ZuUXVptYRSGjM67m5Vp6PYCygN6dfmlTv0YPiyX324mbyTQdjcSFX3azDxVaCdnkq8NPazOALU06KkIFJG4hJABKupcowFeWS6xHeKMPVY8%25QWhbNmUFgPo90yGKabHi4TCD19%25wc3lsciftxdXrWw178zQZJtECUkaS27slGAna6CrXpFODulZQ6KIoqXRaYWBOAQ5nmPqesagOybLKsnvIT9JWOO2B3iuZZIjedwSUBBDMztM%25oeqhk7hgzMLoACoVphJHFlH4Qou%25KX%25adHSfWQf1b%25V1Pa1SyfNEbnEVf10s9Osp9E4riIr6gscZwBZYIrxRteXLKZ85J5aZq%25P4fBFj%25VicdTjO3gXAqQXBDFhSaP059C3svlb4x8NF1yQmSDyPMIooub%25cXJaHWp8TlgO2k1F8brUfbYiQGWBDFhTUO%25TzqVo7ngRTTfY99%25UxJN4chIoKG9yqKnvzno8wKW%25P6%25pLtWfNwyzMpBzcf0qR",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYBxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNzcP81D2YWxbUEqjuP89GsLDbjUiprJqYDGw6ZuLmdptYRSFxy67m5VK7RYCygNWalmlTv0PONyX324mAMTQdjcy6X3azDxTa7dnkq83nYzOALUdwnkIFJGzEfABKupkHYFeWS6AcRKMPVYFKaWhbNmKwjPo90yWaIbHi4TPnb9%25wc36lHiftxdYfhw178zmaftECUkyKX7slGAT5GCrXpF3gBlZQ6KdvZXRaYWz2%25Q5nmPklNagOybAXfnvIT9hxDO2B3ioL3IjedwHJQBDMzt%25uGeqhk7f64MLoAC1fKhJHFlExpou%25KXsg8HSfWQrEC%25V1Pa8ZLfNEbnUXL10s9OGQEE4riIpuuscZwB6krrxRteR2gZ857M5NtRUgChgYF5GvlovT%25gp2XH2fwv6jQ%25jDn2YDafD6bjmqn1qYjDyLOELFOqTJIsJKNL3uBruWsJdSeZHUXuzVGVfu82aTjrlc2YI3w9cEiNHCLS5rxl56fayVOhiL0onTdzmlDb%25P6UE87sYlvAEKCpLetR3aJ9Ss4trb4gxmZNzOSFjr3PjLIoKGTXCjjbgccPrEeHf1FdKVZc2IVTQLTKs8VNP05PRBUNbH82LARzL1b%25IC"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "4시리즈 색상 중에서는 케이프 요크 그린이 제 눈에 가장 매력적입니다. 색상까지 고민하고 계시다면 꼭 한번 살펴보세요.",
+    "advisorCommentSource": {
+      "type": "video-editorial",
+      "time": "05:06–05:15",
+      "label": "백경재 대리의 모델 안내 영상에서 정리",
+      "reviewedAt": "2026-09-30"
+    }
+  },
+  {
+    "slug": "4-convertible",
+    "name": "BMW 4시리즈 컨버터블",
+    "category": "쿠페",
+    "tagline": "루프를 열면 달라지는 드라이브",
+    "description": "오픈 드라이빙을 일상에 더하고 싶을 때 살펴볼 모델입니다. 지붕을 열고 닫았을 때의 적재공간과 실내 소음을 각각 확인해 보세요.",
+    "variants": [
+      {
+        "id": "21db",
+        "name": "BMW 420i 컨버터블",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/4-series/4-series-cabrio/bmw-4-series-convertible.html",
+        "image": "/assets/models/21db.webp",
+        "sideImage": "/assets/models/21db-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG7bXABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafag8jmqn1nMfDyLOEfNmqTJIs1RyL3uBrENRJdSeZs3EuzVMRr0sSkNh5Z4UVA0ogYLcNF4HvmFo0Kc%252ymH4Wxfj0SKcP81D4PkxbUEqcbV89GsLxdbUiprJ8OaGw6ZuUIPptYRSGQN67m5Vp6PYCygN6d4mlTv0Yz1yX324mbwTQdjcy9T3azDxVaCdnkq8NPazOALU0MLkIFJG4hiABKupcoBFeWS6xHXKMPVY8A5WhbNmUFnPo90yGKabHi4TCao9%25wc3lsciftxdXrWw178zQZJtECUkaS27slGAna6CrXpFODulZQ6KIoqXRaYWBOAQ5nmPqesagOybLKsnvIT9JWOO2B3iuZZIjedweHhBDMztM5deqhk7hSGMLoACo0XhJHFlHQ3ou%25KX%25f8HSfWQf1b%25V1Pa1SyfNEbnEVf10s9Osp9E4riIr6gscZwBZYIrxRteXABZ85J5aZq%25P4fBFj%25VicdTjO3gXAqQXBDFhSaP059C3svlb4x8NF1yQmSDyPMIooub%25cXJaHWp8TlgO2k1F8brUfbYiQGWBDFhTUO%25TzqVo7ngRTTfY99%25UxJN4chIoKGTyXKnvzno8wKW%25P6%25pLtWfNwyzMpBzcf0qR",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUD36kxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNzcP81D1RjxbUEqjmP89GsLDSbUiprJqmSGw6ZuLiqptYRSJyL67m5VuTkYCygNWU3mlTv0PlgyX324bPvTQdjcy6X3azDxTa7dnkq83nYzOALUdwnkIFJGzEfABKupksaFeWS6A%25mKMPVYFKaWhbNmKwTPo90yWtDbHi4TPnB9%25wc3bO9iftxdYfhw178zmaftECUkyRU7slGAT5ICrXpF3grlZQ6KdvHXRaYWzCVQ5nmPkl1agOybAXfnvIT9hfgO2B3ioL3IjedwHJQBDMzt%25uGeqhk7f64MLoAC1fKhJHFlExpou%25KXsg8HSfWQrEC%25V1Pa8ZLfNEbnUXL10s9OGQEE4riIpuuscZwBZv5rxRteRVwZ857M56ARUgChgyH5Gvlov%25igp2XH2jzv6jQ%25jDn2YDafD6bjmqn1qYjDyLOELFOqTJIsJKNL3uBruWsJdSeZHCruzVGVfu82aTjrlc2YI3w9cEiNHCLS5rxl56fayVOhiL0onTdzmlDb%25P6UE87sYlvAEKCpLetR3aJ9Ss4trb4gxmZNzOSFjr3PjLIoKGTXCjjbgccPrEeHf1FdKVZj2YVTQLTKs8VNP05PRBUNbH82LARzL1b%25IC"
+      },
+      {
+        "id": "71db",
+        "name": "BMW M440i xDrive 컨버터블",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-4-series-m-models/bmw-m4-convertible.html",
+        "image": "/assets/models/71db.webp",
+        "sideImage": "/assets/models/71db-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%259ZABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafagZjmqn1nxUDyLOEfNmqTJIs1RyL3uBrETYJdSeZs3EuzVMRr0sSkNh5Z4lVA0ogRcGNF4HvmJx0Kc%252yK54WxfjTy%25cP81D3sGxbUEqdrI89GsLx0bUiprJ8iKGw6ZuUw4ptYRSGAw67m5VpeIYCygN6MimlTv0YndyX324mIxTQdjcyiL3azDxTFUdnkq83KZzOALUdtlkIFJGz72ABKupkCAFeWS6xenKMPVY8teWhbNmU3iPo90yG10bHi4TpEX9%25wc36s%25iftxdYrBw178zm9qtECUkyih7slGATwMCrXpFOMslZQ6KIv6XRaYWB2tQ5nmPej4agOybMxunvIT9hMdO2B3ioVcIjedwHsNBDMzt%25o9eqhk7NiMMLoAC0vvhJHFlHEfou%25KX%25jFHSfWQf4m%25V1Pa18OfNEbnEIA10s9Osr6E4riIrZtscZwBZ4zrxRteRcrZ857M5yjRUgChgTM5GvSvO5J19xEMWq10t8kdqBz2aKJnaMLWHNO9cvwXzZjQixUG4Ws3nTNL39oe%25%25Vi18aSOfbYGdQ2BDFsWGiRpEiytn6bMLWFmdkAj5DOPEt6KZ8XZDKoOILB9LbYM3JdotX2bgXAJz64",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYOxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNucP81D1dkxbUEqjmP89GsLDSbUiprJq9WGw6ZuLiqptYRSJyL67m5VuToYCygNS3AmlTv0PGdyX324bXVTQdjc9b23azDxiLAdnkq8wJszOALUdynkIFJGzIXABKupkBTFeWS6ACBKMPVYFZsWhbNmKRIPo90yW1wbHi4TPsd9%25wc3bIUiftxd9lkw178ziXutECUkweo7slGAtM4CrXpF7hClZQ6KdZ1XRaYWzeZQ5nmPkiIagOybADynvIT9FqHO2B3iKL2IjedwWJrBDMztPO8eqhk7bI5MLoAC9BRhJHFlERLou%25KXs0KHSfWQr4e%25V1PaZcTfNEbnRdp10s9O5RwE4riIgY3scZwBvLmrxRte2gOZ857MmIRRUgChy005Gvlovqjgp2XH2clv6jQ%25jTP2YDafDzEjmqn1qsCDyLOELJKqTJIsJueL3uBruTtJdSeZS3JuzVMRVbcSkNh5N9RVA060EVGDOdqRQ8Dyez7w8rt4fXuNvRUQvmEO30BHtuc%25IdkATQLi19mprGlZyQjKrPXYuhCgzOSwNZxCRix2UT54ABNSvqJunlO30iU5V7sY7OVK3dBzcB4gADeqKUYa4XYueL5f"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "4시리즈는 제가 특히 좋아하는 라인업입니다. 멋스러운 차를 찾는 분들께 꼭 소개하고 싶은 모델이에요.",
+    "advisorCommentSource": {
+      "type": "video-editorial",
+      "time": "04:24–04:28",
+      "label": "백경재 대리의 모델 안내 영상에서 정리",
+      "reviewedAt": "2026-09-30"
+    }
+  },
+  {
+    "slug": "5-series",
+    "name": "BMW 5시리즈 세단",
+    "category": "세단",
+    "tagline": "출퇴근부터 긴 여정까지",
+    "description": "가솔린·디젤·플러그인 하이브리드를 비교할 수 있는 세단입니다. 엔진만 고르기보다 주행 거리, 충전 가능 여부, 자주 사용하는 옵션부터 정리해 보세요.",
+    "variants": [
+      {
+        "id": "51fj",
+        "name": "BMW 530i xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/5-series/sedan/bmw-5-series-sedan-overview.html",
+        "image": "/assets/models/51fj.webp",
+        "sideImage": "/assets/models/51fj-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25IzABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafai2jmqn1nvcDyLOEf%25uqTJIs10yL3uBrET2JdSeZsNEuzVMRr0MSkNh56rKVA0ogYLcNF4HvmFo0Kc%252yVI4WxfjT3dcP81D3sSxbUEqcYp89GsLxjtUiprJ849Gw6ZuUwGptYRSG0O67m5Vp4XYCygN6a3mlTv0YOFyX324mJ%25TQdjcyAN3azDxTF3dnkq83wdzOALU0bnkIFJG4YWABKupcoBFeWS6xkQKMPVY8AXWhbNmt2IPo90y710bHi4TCEF9%25wc3lsqiftxdXJgw178zQXGtECUka2L7slGAnMjCrXpF2OflZQ6KjkfXRaYWD11Q5nmPq4aagOybLWxnvIT9IheO2B3iBZTIjedweJ8BDMztMVCeqhk7hlyMLoACoHKhJHFlHL6ou%25KX%25xKHSfWQf8X%25V1Pa06GfNEbn4VM10s9OcNZE4riIx03scZwBlTIrxRLRQrDHW0%25IA2HS943y2nT5lkDXlIjAMuQWNRb7TEgCP0cxVAfmXYujmWeOhhJPH4lLQoKGxyC5nvzfAxPs8%25P69XUKIjAzpy3dgrvQFz9U2E47EvkeQajnWj%25AD8Dye975KZ7dDTUV",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCP4xbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfI4cP81D103xbUEqj2p89GsLDybUiprJq94Gw6ZuLmqptYRSJyR67m5VKJXYCygNWU3mlTv0PlgyX324bYsTQdjc9iw3azDxiL6dnkq83WFzOALUdcekIFJGzTOABKupkBAFeWS6AyEKMPVYFTHWhbNmKfiPo90yWElbHi4TPG29%25wc3bCmiftxd9liw178ziBwtECUkyn17slGATWQCrXpF3grlZQ6Kd7%25XRaYWzCHQ5nmPe4sagOybMDynvIT9hqlO2B3ioL8IjedwHGNBDMzt%25HAeqhk7f4UMLoAC1RchJHFl4Ejou%25KXc7jHSfWQxDD%25V1Pa8TffNEbnUQd10s9Os5ZE4riIru9scZwBZGzrxRteRYhZ857M5obRUgChgvX5GvlovUKgp2XH2dXv6jQ%25jzH2YDafyKAjmqn1TYRDyLOE3muqTJIsdyiL3uBro9sJdSUS%25JxvQy2sC4v6OTib419Vo7quRscCRp%25QmSnM9qNhay3dYCjPHWp81xtE6Cgk1F7GqBwZTQLbuE0wsP05cYrVdnuLR2DqXtQmSLcraifGiQJkmynTNnPuOsO2kcGlV7GqOjro"
+      },
+      {
+        "id": "51fl",
+        "name": "BMW 523d xDrive",
+        "fuel": "디젤",
+        "source": "https://www.bmw.co.kr/ko/all-models/5-series/sedan/bmw-5-series-sedan-overview.html",
+        "image": "/assets/models/51fl.webp",
+        "sideImage": "/assets/models/51fl-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25IzABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafagbjmqn1%25HJDyLOEfNmqTJIs1yvL3uBrEV1JdSeZsNeuzVMRpsFSkNh56q4VA0ogYAhNF4HvmSO0Kc%252yT%254WxfjTEucP81D46GxbUEqcNP89GsLx98UiprJ8VaGw6ZuUNfptYRSGAw67m5VpakYCygN6qomlTv0YzmyX324mbyTQdjcSKX3azDxVGAdnkq8NenzOALU03CkIFJG4d7ABKup95aFeWS6iHSKMPVYw%25zWhbNmtf2Po90y7DZbHi4TC7x9%25wc3l5jiftxdXIgw178z5QotECUkg3o7slGAvHHCrXpF2VllZQ6KjA0XRaYWaBOQ5nmPnEYagOybOD4nvIT9IJwO2B3iBt6IjedweMkBDMztMjUeqhk7h0tMLoACuqnhJHFlSLfou%25KXVJ6HSfWQigX%25V1v1t%255BzJeXTZBDFu6GZCpEiy5wiXRTnjtzL1Abpos9kJSVqTMUw8jRUzalOO2kBuivtId4VG9ECrmMTVkHNekxFw0dXRTnGNCBGY5DOP7EfGGexAABNSvqJunlO30xU5O7sY7OVK3dBzcBEQhpeqKUYa4XYueL5f",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCP4xbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNncP81D2vGxbUEqjmP89GsLDb0UiprJqYDGw6ZuLmZptYRSFLl67m5VK8TYCygNWC5mlTv0P6EyX324b92TQdjc9qp3azDxTKAdnkq83mazOALUdOzkIFJGzYfABKupkmjFeWS6ACBKMPVYFf7WhbNmK8gPo90yWtPbHi4TPnb9%25wc36XHiftxdYACw178zmZ1tECUkyih7slGATwMCrXpFOVflZQ6KIv6XRaYWB2tQ5nmPej4agOybMxunvIT9hMdO2B3ioVcIjedwHsNBDMztV%25geqhk7NigMLoAC0vvhJHFl4Yoou%25KXcCyHSfWQfrE%25V1Pa1qWfNEbnExT10s9OsGBE4riIreKscZwBZR7rxRteRckZ857M5yeRUgChp815Gvlo6Ujgp2XHYGKv6jQ%25INH2YD0De2VrtGZH9urxlpKAuhFqIbgj1HS91cetUDCnFgLO7G6Y89RkBzcNhVPox9syh3b4gQWfptvAjoJWHkJES8%25qYCjTZHpzZglO30GibZZkEuuzHhQIeMT63D%25Erl3GwgG3oVDqzL1zimFRkIVrgyfYgMkBlb"
+      },
+      {
+        "id": "81fj",
+        "name": "BMW 530e xDrive",
+        "fuel": "플러그인 하이브리드",
+        "source": "https://www.bmw.co.kr/ko/all-models/5-series/sedan/bmw-5-series-sedan-phev-overview.html",
+        "image": "/assets/models/81fj.webp",
+        "sideImage": "/assets/models/81fj-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKGQEXABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q5x2YDafHoLjmqn1%25VYDyLOEfmgqTJIs1SfL3uBrEVBJdSeZGEAuzVMRpD0SkNh56kMVA0ogYunNF4Hvmy10Kc%252y1J4Wxfj0pUcP81D4vixbUEqcNP89GsLx98UiprJ8VaGw6ZuUNCptYRSGXy67m5VpakYCygN6qomlTv0YzSyX324mkyTQdjcyXh3azDxTiQdnkq83wgzOALUdtzkIFJGzWyABKupciIFeWS6xybKMPVY8%25MWhbNmUFnPo90yGKabHi4Tpe29%25wc3lqMiftxdXrxw178zQZPtECUkaRu7slGAnVjCrXpFOnYlZQ6KIqSXRaYWBHLQ5nmPe%25YagOybLMrnvIT9JWrO2B3iuZZIjedwSUBBDMztVipeqhk7hfHMLoACovkhJHFlHN6ou%25KX%25KmHSfWQfxn%25V1Pa1OkfNEbnEsi10s9OsN3E4riIxyYscZwB84HrxRteUcgZ857MGxkRUgChaKM5GvSvO5J19xEMWq10t8kdqBz2aKJnaMLWHNO9cvwXzZjQixUG4Ws3nTNL39oe%25%25Vi18aSOfbYGdQ2BDFsWGiRpEiytn6bMLWHdpB1dAJ0%25lI2gddEyww1pUS4x8He%25P6C3JfIjAI%25G7Pb19m1apEvE473AoYMA8EcJg",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDAQkxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Vd4WxfjvgUcP81D2YWxbUEqjPN89GsLD6jUiprJqYrGw6ZuAqCptYRSFxy67m5VK7RYCygNWp1mlTv0PbDyX324bDGTQdjcyFk3azDxT0Idnkq83mazOALUdOzkIFJGzYfABKupkmhFeWS6AHbKMPVYFf7WhbNmK8gPo90yWt6bHi4TP7b9%25wc3bH5iftxd9I%25w178ziBNtECUkwet7slGAtQbCrXpF3IslZQ6KdbnXRaYWz2RQ5nmPkl1agOybAXfnvIT9FZ4O2B3io8RIjedwHJdBDMzt%25uaeqhk7fSpMLoAC1YchJHFlE1Wou%25KXs86HSfWQrvU%25V1PaZ2WfNEbnURJ10s9OGQJE4riIpuuscZwB6krrxRteYIFZ857M5jvRUgChg075GvlovmKgp2XH2XPv6jQ%25jd12YDafDE7jmqn1qLIDyLOELmiqTJIsdbWL3uBrzTvJdSeZk3NuzVMRAd7SkNh5fXRVA060EVGDOdqRQ8Dyez7w8rt4fXuNvRUQvmEO30BHtuc%25IdkATQLi19mprGlZyQjKrPXYuhCgzOSwNZxCRix2UT54ABNWqRz9que%25P6daXqqi2889RrhfEsWkP05pDebdnudPZG049cv9yRiQifGDuKgAusi1eX"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "5시리즈는 어떤 트림이 제일 좋냐보다, 어디에 얼마나 타실지부터 여쭤보고 싶어요. 출퇴근 거리와 충전 환경을 알면 선택이 훨씬 쉬워집니다."
+  },
+  {
+    "slug": "7-series",
+    "name": "BMW 7시리즈 세단",
+    "category": "세단",
+    "tagline": "앞좌석과 뒷좌석을 함께 보는 선택",
+    "description": "운전할 때와 뒷좌석에 앉을 때를 각각 경험해 보세요. 가족·업무 동승 비중과 주차 환경을 기준으로 필요한 편의 구성을 고르는 것이 좋습니다.",
+    "variants": [
+      {
+        "id": "31eh",
+        "name": "BMW 740i xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/7-series/7-series-sedan/bmw-7-series-sedan.html",
+        "image": "/assets/models/31eh.webp",
+        "sideImage": "/assets/models/31eh-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25IMABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikascZwBwA%25rxRtetFrZ857M7sZRUgChCm95GvloMejgp2XHhGMv6jQ%25oqh2YDafHLajmqn1%25JsDyLOExynqTJIs80zL3uBrU5kJdSeZGl4uzVMRpLZSkNh56JmVA0ogSZWNF4HvVJA0Kc%252NK%254Wxfj0LCcP81D4JAxbUEqcA889GsLxFIUiprJ8CYGw6ZuUXPptYRSGQ667m5VpakYCygN6nVmlTv0YLvyX324mkyTQdjcyXO3azDxTQjdnkq83wgzOALU0bnkIFJG4hIABKupczCFeWS6xkvKMPVYw%25VWhbNmtfkPo90y71jbHi4TCqR9%25wc3lr9iftxdXlUw178zQvqtECUkae27slGAvdHCrXpF2VllZQ6KjmpXRaYWaBOQ5nmPnEYagOybOD4nvIT9IJwO2B3iBt6IjedweMkBDMztMjUeqhk7Jx4MLoACuqnhJHFlbYCoub0TmvayRCzjlCO2keJXKVZPty157WN4cSk%25Yl6J2YKBnMMLWo0CqXhFUcm7Ragd%25kcWExHWpbl8FO2kemxaom3juMwQRrmmthOPox4qSN0enMA8nYFbQ53QMc9AFoKGoCxfyHS9Y3BUO30HVjr",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCPixbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7fL3uBrBC2JdSeZelJuzVMRMLuSkNh5hPOVA0ogRZcNF4Hv5AR0Kc%252g854WxfjvUfcP81D2GLxbUEqdb189GsLzytUiprJkV7Gw6ZuAoTptYRSFUu67m5VKGPYCygN6uQmlTv0YGCyX324mX2TQdjcyUh3azDxTGCdnkq83CzzOALUdlskIFJGzhWABKupkHaFeWS6A%25KKMPVYFf7WhbNmK1YPo90yWU0bHi4TP7b9%25wc3bHEiftxd9%25cw178ziBNtECUkyn17slGAT5sCrXpF3thlZQ6Kd70XRaYWB2YQ5nmPej7agOybMDcnvIT9h8SO2B3ioJOIjedwHokBDMzt%2508eqhk7fZ4MLoAC0wvhJHFl4Yoou%25KXcPFHSfWQfrE%25V1Pa1qWfNEbnExT10s9OsGBE4riIreKscZwBZR7rxRteRckZ857MGdTRUgChp815GvlonWhgpny9P0fbShtDJZE47ZGHXYuaebDVMQmT3672WoKGxfcw1p75zfAtUDIiryXqPJ1NiEWNR46sS3aJkvEyKvDnMA8mCtvvUF30KEfIhH%25kTAusTgS4mlDmA1cuSKVZKpEb2WhcgDzr3D%25Wont"
+      },
+      {
+        "id": "21ej",
+        "name": "BMW 740d xDrive",
+        "fuel": "디젤",
+        "source": "https://www.bmw.co.kr/ko/all-models/7-series/7-series-sedan/bmw-7-series-sedan.html",
+        "image": "/assets/models/21ej.webp",
+        "sideImage": "/assets/models/21ej-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25XQABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikascZwBwA%25rxRtetEkZ857M7YbRUgCheB25GvloMUegp2XHhDMv6jQ%25oqQ2YDafHLEjmqn1cmaDyLOExNdqTJIs8RzL3uBrUC0JdSeZGqruzVMRpLYSkNh5urKVA0ogSLkNF4HvVFH0Kc%252Nq74Wxfj0LkcP81D4kxxbUEqcAO89GsLx76UiprJ8l3Gw6ZuUXJptYRSGjR67m5Vp36YCygN675mlTv0JACyX324uOXTQdjcSm93azDxVyrdnkq8WeqzOALUPMykIFJGbhRABKup9g1FeWS6i9NKMPVYws5WhbNmtQrPo90ys6IbHi4TrD99%25wc3Z84iftxdtXCw178z7hxtECUkCRJ7slGAlvKCrXpFXWclZQ6KQamXRaYWaZNQ5nmPvSJagOybzcPnvzqUxEw8%25P6rbP7sYXg9TjHdK8efW3DLJ2YIcb4gscTltQQ53nqPR9ayVJxW%25w1pIYJ3MuO30zbSy7sYXxuwnxGrvQFi%25oExVKIdnuLR2DqXtQmSxcyaifGiQJkmynTNnPuOHO2kcGlV7GqOjro",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCkAxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7fL3uBrBC2JdSeZeq7uzVMRMWnSkNh5Zr4VA0ogRkZNF4Hv5xR0Kc%252g8%254WxfjvUqcP81D3PfxbUEqdmw89GsLzStUiprJkhyGw6ZuA8JptYRSFUW67m5VpJXYCygN6U7mlTv0YlvyX324m8MTQdjcyU73azDxT7ddnkq83CEzOALUdMKkIFJGzoiABKupkHGFeWS6AcSKMPVYFiKWhbNmKMVPo90yGChbHi4TpEH9%25wc36POiftxdYbJw178zQZ8tECUkaRb7slGAn5SCrXpFONDlZQ6KIOmXRaYWBLVQ5nmPe%25JagOybLKsnvIT9JxOO2B3iuzTIjedweHhBDMztM5deqhk7hSGMLoACo0XhJHFlHQ3ou%25KX%25fPHSfWQfum%25V1Pa06GfNEbnt3a10t8kdqBz2aKZgHMLWHNO9cvwXzZjQixUG4Ws3nTNuBJFe0Wf6BmKVZCAo89RdgeDAM3D%25L4h2GwgYEM8TEZtQmSxPKiEoVdqTMBCaOIYUmvhE12yxbZxmeJv2TjHT0M3W3aJ1Z6oGZI3ntK"
+      },
+      {
+        "id": "41eh",
+        "name": "BMW 750e xDrive",
+        "fuel": "플러그인 하이브리드",
+        "source": "https://www.bmw.co.kr/ko/all-models/7-series/7-series-sedan/bmw-7-series-sedan.html",
+        "image": "/assets/models/41eh.webp",
+        "sideImage": "/assets/models/41eh-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%259gABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIiGiscZwBO5LrxRteJxwZ857Mu81RUgChSrM5GvloVZ0gp2XHNasv6jQ%25g6h2YDafvsAjmqn12zGDyLOEjk1qTJIsDyOL3uBr%25AWJdSeZfFduzVMR1LXSkNh5xPTVA0og8YwNF4HviR30Kc%252wqz4WxfjtzzcP81D7sWxbUEqioz89GsLwbNUiprJt9YGwglHhFVozL1WJL0KExiuZ7d5DomkqRCXQtE6MJeiKMZcN889RGlLbuUrOQhqzVAf6EQRyapRBgJnr0KExhaVGh%25Ww8jSz3hhDU05GaXbtClxN8sn5MrgSk%25S8QvsrGZIGLapdptvM%25cO0%25lp7W3",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYexbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsIAIL3uBrEVUJdSeZGdBuzVMRpzDSkNh56JRVA0ogYuyNF4HvmfL0Kc%252NK54Wxfj0LCcP81D4tAxbUEqc7D89GsLxbEUiprJ2CQGw6ZujlwptYRSDUH67m5Vda9YCygNzWBmlTv0ISiyX324B8tTQdjcett3azDxMLQdnkq8IgtzOALUBnmkIFJGeOWABNov5lYgtUDPidyXqdIpuMwVxgP78ShH%25eqKRGZIaYQjmBqk1YsDOP423oub5imC2yRCzXeTt%25ViEFyoZFPN8snhLDFFOr%25lZyY4Up6EHswTlAtXhJPhsmQwtZ7dZByRqRUQAP13%25P6RGND"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "직접 운전하는 시간과 뒷좌석에 앉는 시간을 나눠 생각해 보세요. 함께 타는 분의 편안함도 견적만큼 중요한 기준이에요."
+  },
+  {
+    "slug": "8-coupe",
+    "name": "BMW 8시리즈 쿠페",
+    "category": "쿠페",
+    "tagline": "길게 이어지는 쿠페의 선",
+    "description": "M850i xDrive 쿠페의 두 도어 차체와 운전석 구성을 살펴보세요. 장거리 여행과 일상 주차에서 필요한 조건을 함께 확인해 보세요.",
+    "variants": [
+      {
+        "id": "bc41",
+        "name": "BMW M850i xDrive 쿠페",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models.html",
+        "image": "/assets/models/bc41.webp",
+        "sideImage": "/assets/models/bc41-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25IyABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikEscZwBwOmrxRteIcNZ857MBvIRUgChe2C5GvloMj%25gp2XHNLDv6jQ%250Zq2YDaf4RAjmqn1cmADyLOExBKqTJIs8ewL3uBrq2TJdSeZLgbuzVMRJK0SkNh5uPRVA0ogSmfNF4HvVsR0Kc%252N1%254WxfjR6KcP81D5w1xbUEqgtb89GsLv7kUiprJ2C8Gw6Zuj8KptYRSDUF67m5VdQ5YCygNzaUmlTv0knfyX324AEMTQdjcFBp3azDxKFwdnkq8WwHzOALUoclkIFJGHxAABKup%25maFeWS6faaKMPVY1vHWhbNmE4LPo90ysclbHi4TiCt9%25wc3we4iftxdtrqw178z75AtECUkCF07slGAlXjCrXpFXQYlZQ6KQrVXRaYWaZMQ5nmPnRQagOybOJMnvIT9jlOO2B3iD0VIjedwFEdBDFu6GZCpEiy5wiXRTnjtzL1Abpos9kJSVqTMUw8jRUzalOO2kBuivtId4VG9ECrmMTVkHNekxFw0dXRTnGNCBGY5DOP7EfGGzIXABNSvqJunlO30vvnP7sY7OVK3dBzcBighpeqKUYa4XYueL5f",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCPSxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7qL3uBrBEPJdSeZs3muzVMRr0sSkNh5Z4hVA0ogRc2NF4HvmUx0Kc%252yu84WxfjTSCcP81D3PCxbUEqdrX89GsLzZBUiprJ849Gw6ZuUNnptYRSGXy67m5VpaSYCygN6PjmlTv0YLSyX324mD2TQdjcSKX3azDxVBDdnkq8NenzOALU0M7kIFJG4hzABKupczXFeWS6xklKMPVYw%25VWhbNmtfkPo90y71jbHi4TCqR9%25wc3lrFiftxdXlBw178zQBvtECUkg3o7slGAvdCCrXpF2PflZQ6KjffXRaYWD0vQ5nmPqTUagOybL3onvIT9IheO2B3iBZTIjedweJ8BDMztMVCeqhk7hlyMLoACoHchJHFlH%25Wou%25KX%25JYHSfWQfuR%25V1Pa1S%25fNEbnEGR10s9OcoEE4riIxyYscZwBlqwrxlpKAuhFqIbgj1HS91cetUDCnFgLO7G6Y89RkBzcNhVPox9syh3b4gQWfptvAjoJWHkJES8%25qYCjTZHpzZglO30GibZZLdYuzHhQIeMT63D%25QQT0GwgG3oVDqzL1zxXFRkIVrgyfYgMkBlb"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "이 차가 눈에 들어오셨다면 디자인을 좋아하는 이유부터 듣고 싶어요. 원하는 감성과 평소 주행 환경을 함께 맞춰보면 좋겠습니다."
+  },
+  {
+    "slug": "8-gran-coupe",
+    "name": "BMW 8시리즈 그란 쿠페",
+    "category": "쿠페",
+    "tagline": "여럿이 함께하는 그랜드 투어링",
+    "description": "M850i xDrive 그란 쿠페는 동승자와 함께 차를 사용하는 방식까지 비교할 모델입니다. 8시리즈 쿠페와 문 구성·뒷좌석 접근성을 나란히 살펴보세요.",
+    "variants": [
+      {
+        "id": "gv81",
+        "name": "BMW M850i xDrive 그란 쿠페",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models.html",
+        "image": "/assets/models/gv81.webp",
+        "sideImage": "/assets/models/gv81-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG1xBABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikEscZwBwOmrxRteIcNZ857MBvIRUgChe2C5GvloMj%25gp2XHNLDv6jQ%250Zq2YDaf4RAjmqn1cmADyLOExBKqTJIs8ewL3uBrq0VJdSeZLEuuzVMRJsFSkNh5uqzVA0ogSjwNF4HvVbx0Kc%252Niv4Wxfj03scP81D4RnxbUEqc5289GsLxZsUiprJ8mDGw6Zuj3iptYRSDXR67m5VqQ7YCygNLaPmlTv0JnYyX324uYiTQdjcSm93azDxKBDdnkq8WemzOALUPMZkIFJGb5fABKup9HTFeWS6i9XKMPVYwXsWhbNmEpOPo90ys6bbHi4TrBB9%25wc3ZqEiftxdRUVw178z5GntECUkCaX7slGAlHUCrXpFXgSlZQ6KQjPXRaYWab8Q5nmPnOJagOybOI3nvIT9IgcO2B3iBv%25Ijedwe2IBDMztMN%25eqhk7JnMMLoACu8chJHFlbYFoub0TmvayRCzjlCO2keJXKVZPty157WN4cSk%25Yl6J2YKBnMMLWo0CqXhFUcm7Ragd%25kcWExHWpbl8FO2kemxaom3juMwQRrmmKhOPox4qSN0enMA8ttowQ53QMc9AFoKGoCDCPHS9Y3BUO30HVjr",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDXvbxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7qL3uBrBEPJdSeZs3muzVMRr0sSkNh5Z4hVA0ogRc2NF4HvmUx0Kc%252yu84WxfjTSCcP81D3PCxbUEqdrX89GsLzZBUiprJ8yYGw6ZuUqpptYRSGLl67m5Vp8tYCygN6cBmlTv0YndyX324mI0TQdjcyiL3azDxTS1dnkq83V4zOALUduLkIFJGzPxABKupciIFeWS6xHSKMPVY8%25MWhbNmUfaPo90yG1WbHi4TpWI9%25wc36POiftxdXrxw178zQZPtECUkaRu7slGAnVjCrXpFOv9lZQ6KIOHXRaYWBHLQ5nmPqFEagOybLKnnvIT9JrrO2B3iu8qIjedwSkYBDMztVA1eqhk7hfHMLoACovkhJHFlHN6ou%25KX%25caHSfWQfnz%25V1Pa1EGfNEbnEsi10s9OsN3E4riIr02scZwBZ4srxRteRm2Z857MG1RRUgChpz35GvlonWlgpny9P0fbShtDJZE47ZGHXYuaebDVMQmT3672WoKGxfcw1p75zfAtUDIiryXqPJ1NiEWNR46sS3aJkvEyKvDnMA8mCtvvVF30KEfIhH%25kTAusUUK8mlDmA1cuSKVZKpOp0WhcgDzr3D%25Wont"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "긴 여행을 누구와 함께할지 떠올려 보세요. 그란 쿠페의 매력은 운전석뿐 아니라 함께 타는 분의 자리까지 볼 때 더 잘 보입니다."
+  },
+  {
+    "slug": "z4",
+    "name": "BMW Z4 로드스터",
+    "category": "쿠페",
+    "tagline": "두 사람을 위한 오픈 드라이빙",
+    "description": "로드스터를 찾는다면 sDrive20i와 M40i를 비교해 보세요. 탑승 인원, 짐의 양, 주차 장소를 먼저 정하면 일상에 맞는지 판단하기 쉽습니다.",
+    "variants": [
+      {
+        "id": "hf71",
+        "name": "BMW Z4 sDrive20i 로드스터",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/z-series/z4-roadster/bmw-z4-roadster.html",
+        "image": "/assets/models/hf71.webp",
+        "sideImage": "/assets/models/hf71-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25YMABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikEscZwBwmVrxRteIjcZ857MB2oRUgChe8B5GvloMjegp2XHhDXv6jQ%250Zq2YDaf4YQjmqn1c4aDyLOExp9qTJIsDvyL3uBrq36JdSeZLd2uzVMRJvnSkNh5uyVVA0ogSQTNF4HvVYA0Kc%252Nl74Wxfj0XkcP81D4wBxbUEqcCB89GsLxY0UiprJ8kUGw6ZujwPptYRSDdw67m5Vq4TYCygNL9BmlTv0JnvyX324uObTQdjcSIi3azDxVyEdnkq8NTxzOALU03tkIFJGbxXABKup95hFeWS6iHSKMPVYw%25zWhbNmtf2Po90y7DZbHi4TC7O9%25wc3lO5iftxdRXhw178z5ThtECUkg3P7slGAvdCCrXpF2%25%25lZQ6KjmxXRaYWaBOQ5nmPnEYagOybOD4nvIT9IJwO2B3iBt6IjedweMNBDMztMhAeqhk7hDGMLoACo4AhJHFlHcEou%25KXVBHHSfWQNpU%25V1Paw6QfNwxz3DIdvQFLaQeqKoVnb4gildr2X9c8U0KETayVqTbhBHHS9fxQun%25P6U3XvIjAEKU9ZG19mwapPeqKo3GIf3kLNHCOv533O%25FifG8u0cxoBHWp4RxCO2kOHUtWPfbYf6JQx10tTkh6ekx14L5",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCJixbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7qL3uBrBPYJdSeZsc3uzVMRr4gSkNh5ZzrVA0ogRcZNF4Hv5xH0Kc%252yu84WxfjTW%25cP81D3TfxbUEqdFO89GsLx0bUiprJ8iKGw6ZuUw4ptYRSG0167m5VpbYYCygN6%259mlTv0YWCyX324moMTQdjcyH73azDxTBrdnkq83hrzOALUdWykIFJGz7kABKupcBaFeWS6xwBKMPVY8T9WhbNmUOrPo90yG10bHi4TpEn9%25wc36sIiftxdYbqw178zm9dtECUkyie7slGAndHCrXpFOV5lZQ6KIv6XRaYWB2tQ5nmPej4agOybMxunvIT9hMEO2B3ioEVIjedwSH5BDMztV95eqhk7NiaMLoAC0whhJHFl422ou%25KXcPdHSfWQfrE%25V1Pa1qWfNEbnExT10s9OsGBE4riIreKscZwBZRmrxRteR5CZ857M5xARUgChgTC5Gvlov3qgp2XHYrvv6jQ%25mFk2YDafBK%25jmBdtixsw0%25lJVgZ8XgY1nTNIowJ4HO3zkyXq9fbYGsUCrmX2FsWl6JM75dnuiVrc7Z9cv8yR0kIVKDZdbDJBHWp3QlDD3PSxbZsM%251EKzWNRfCEp3aJ3WrUN0b4gb5emE9%25UjJF5kJE9fBl"
+      },
+      {
+        "id": "hf91",
+        "name": "BMW Z4 M40i 로드스터",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/z4-m40i/bmw-z4-m40i-roadster.html",
+        "image": "/assets/models/hf91.webp",
+        "sideImage": "/assets/models/hf91-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25IyABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikEscZwBwKGrxRteIjcZ857MBx0RUgChe8B5GvloMjegp2XHhDXv6jQ%25oqP2YDaf4RLjmqn1c4aDyLOExBuqTJIs86iL3uBrq2TJdSeZLdYuzVMRJzjSkNh5u2OVA0ogSTNNF4HvVa30Kc%252NmF4Wxfj0XCcP81D4QAxbUEqcte89GsLxkRUiprJ8XMGw6ZuUycptYRSGFp67m5Vq79YCygNLk7mlTv0JxdyX324uwMTQdjcSIj3azDxVBidnkq8NetzOALU03rkIFJG4dUABKupczCFeWS6iUaKMPVYwleWhbNmtfNPo90y71AbHi4TCED9%25wc3lL5iftxdXlBw178zQBvtECUkg3o7slGAvdbCrXpF2zllZQ6KjffXRaYWDy8Q5nmPneIagOybOsmnvIT9IqcO2B3iButIjedwe7YBDMztMh0eqhk7hoFMLoACoqphJHFlHcEou%25KXVBHHSfWQNpU%25V1Paw6PfNwxz3DIdvQFLaQeqKoVnb4gildr2X9c8U0KETayVqTbhBHHS9fxQun%25P6U3XvIjAEKU9ZG19mwapPeqKo3GIf3kLNHCOv533O%25FifG8u0cxoBHWp4RNCO2kOHUtWPfbYf6JQx10tTkh6ekx14L5",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCPSxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7qL3uBrBXAJdSeZsc3uzVMRrdySkNh5ZzrVA0ogRcZNF4Hv5xH0Kc%252g8a4WxfjTSUcP81D3TfxbUEqdrp89GsLzKIUiprJ849Gw6ZuUwWptYRSGtc67m5Vp4EYCygN69mmlTv0YfiyX324mPlTQdjcyHh3azDxT%25Cdnkq83eZzOALUd7SkIFJGzHRABKupkb3FeWS6AlFKMPVY8MOWhbNmU7MPo90yGdwbHi4TpBR9%25wc36sciftxdYrIw178zmZetECUkyiJ7slGATwkCrXpF3thlZQ6KIkfXRaYWBoZQ5nmPejmagOybMDCnvIT9hqxO2B3ioUVIjedwHorBDMzt%25r0eqhk7NigMLoAC0wnhJHFl4toou%25KXcjjHSfWQxbz%25V1Pa1ZsfNEbnELP10s9Os83E4riIrpescZwBZMWrxRteR5yZ857M5glRUgChg8F5Gvlov3qgp2XHYrvv6jQ%25mFk2YDafBKajmBdtixsw0%25lJVgZ8XgY1nTNIowJ4HO3zkyXq9fbYGsUCrmX2FsWl6JM75dnuiVrc7Z9cv8yR0kIVKDZdbDJBHWp3QlDD3PSxbZsM%251EKzWNRfCHp3aJ3WrUN0b4gb5emE9%25UjJF5kJE9fBl"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "운전의 재미를 느껴보고 싶다고 말씀하시면, 저는 Z4를 적극적으로 추천드립니다.",
+    "advisorCommentSource": {
+      "type": "video-editorial",
+      "time": "11:16–11:22",
+      "label": "백경재 대리의 모델 안내 영상에서 정리",
+      "reviewedAt": "2026-09-30"
+    }
+  },
+  {
+    "slug": "x1",
+    "name": "BMW X1",
+    "category": "SUV",
+    "tagline": "도심 생활에 맞춰 보는 SUV",
+    "description": "주차와 일상 승하차를 중요하게 보는 분께 비교할 SUV입니다. 가솔린·디젤·M35i 구성과 순수 전기 iX1을 함께 살펴볼 수 있습니다.",
+    "variants": [
+      {
+        "id": "51ee",
+        "name": "BMW X1 xDrive20i",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x1/bmw-x1.html",
+        "image": "/assets/models/51ee.webp",
+        "sideImage": "/assets/models/51ee-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25RkABNXTaAxgqO30WiyXq2FgXAXHXy6v6jQ%25Q9h2YDafagbjmqn1n%25iDyLOEf%25uqTJIs10yL3uBrET2JdSeZsNEuzVMRr0cSkNh5Z4lVA0ogYLcNF4HvmFo0Kc%252y1%254Wxfj0pUcP81D4VWxbUEqcbA89GsLx9NUiprJ8VGGw6ZuUNfptYRSGoP67m5VpFxYCygN6MimlTv0YLdyX324mkETQdjcSKX3azDxVGAdnkq8NeqzOALU0MOkIFJG4dlABKup98QFeWS6ignKMPVYw%25VWhbNmtfkPo90y7tcbHi4TCR29%25wc3lO5iftxdRyMw178z5hhtECUkgu77slGAvzVCrXpFXOalZQ6KQfpXRaYWa2NQ5nmPnq9agOybOiGnvIT9IBdO2B3iBvxIjedwqQBBDMztLc0eqhk7JDaMLoACuq%25hJHFlSLpou%25KX95lHSfgfwHRIdLBlyrIjAJpUr7G19mRi9lZya2wdqfkPGhEbzLuSDye8ix2Z8dQCnnvzIJ9gwO30SUb17sYeySzoVBzcAiN3lZyaUV7IU6RjnWt1%25UUBckkIVugDLJaCnTNu83EtE6tnSFT3Id4I05GkBDF86Q0l6JBqR%25",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCIcxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHbK0Kc%252%25O54WxfjfNncP81D12IxbUEqj2p89GsLDybUiprJq94Gw6ZuLmqptYRSJy367m5VuToYCygNWU3mlTv0PlgyX324bD2TQdjcyFk3azDxTYQdnkq83nCzOALUdOmkIFJGzYAABKupkmjFeWS6AgaKMPVYFldWhbNmKRIPo90yWUwbHi4TP7q9%25wc36XHiftxdYACw178zmZ8tECUkyRE7slGATwoCrXpFOz%25lZQ6KIN1XRaYWB2YQ5nmPej7agOybMe3nvIT9hS4O2B3ioEVIjedwSbRBDMztV55eqhk7NpMMLoAC0tYhJHFlHEfou%25KX%25jFHSfWQf4m%25V1Pa18OfNEbnEIA10s9OsrwE4riIr0dscZwB8%25rrxRteU3yZ857MGxfRUgChp825Gvlo6UFgp2XHOVov6jNjBvSswUrobJscCGFkJMADOP52foubf4Bw8j7aA5qntUp6xbZzId4VMSWhcbEmMTP05XK%25Gwgk2hLKozL1uxHD672yroGdr5CnTNU9Prrz1JJdoMXOBeypTjHMsDiUi5UThSjDdqfd%25lZJzOSs5m%2565ezICP"
+      },
+      {
+        "id": "11ef",
+        "name": "BMW X1 M35i xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/x1-m35i/bmw-x1-m35i-xdrive-suv.html",
+        "image": "/assets/models/11ef.webp",
+        "sideImage": "/assets/models/11ef-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25YrABNXTaAxgqO30WiyXq2FgXAXHXy6v6jQ%25Q9h2YDafagIjmqn1n%25iDyLOEf%25uqTJIs10yL3uBrET2JdSeZsNEuzVMRr0cSkNh5Z4lVA0ogYLcNF4HvmfL0Kc%252y1%254Wxfj0pUcP81D4VWxbUEqcbA89GsLx9NUiprJ8VGGw6ZuUNfptYRSGoP67m5VpFxYCygN6MimlTv0YOkyX324mJzTQdjcyAs3azDxVWQdnkq8NpFzOALU0MLkIFJG4hIABKupczXFeWS6iUaKMPVYwvOWhbNmtfNPo90y71AbHi4TC7x9%25wc3l5jiftxdXIgw178z5FotECUkgoo7slGAvSCCrXpF2kNlZQ6KQInXRaYWa16Q5nmPnj0agOybOLinvIT9IwpO2B3iBezIjedwe28BDMztMNzeqhk7Jx4MLoACuqnhJHFlSLfou%25KXVJ6HSfWQNuC%25V1PawTPfNwxz3DIdvQFLaQeqKoVnb4gildr2X9c8U0KETayVqTbhBHHS9fxQun%25P6U3XvIjAEKU9ZG19mwapPeqKo3GIf3kLNHCOv533llHifG8u0cxoBHWp8TPcO2kOHUtWPfbYfvsix10tTkh6ekx14L5",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCJnxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHbK0Kc%252%25O54WxfjfNscP81D12IxbUEqj2p89GsLDybUiprJq94Gw6ZuLmqptYRSJy367m5VuToYCygNWU3mlTv0PjUyX324bD2TQdjcyFk3azDxTYQdnkq83nCzOALUdOmkIFJGzYAABKupkmjFeWS6AgaKMPVYFldWhbNmKRIPo90yWE7bHi4TPGt9%25wc3bCLiftxdYQ%25w178zmFltECUkyRU7slGAT5sCrXpF3tHlZQ6KIkfXRaYWB0EQ5nmPejmagOybMDCnvIT9hMdO2B3ioVcIjedwHsNBDMztVlgeqhk7NggMLoAC06hhJHFl47mou%25KX%25s1HSfWQfDK%25V1Pa1cyfNEbnEUI10s9OsBFE4riIrZtscZwBZ4zrxRteRmtZ857MGdTRUgChp815Gvlo6Ujgp2XHYGKv6jQ%25mph2YDafB9ajmBdtixsw0%25lJVgZ8XgY1nTNIowJ4HO3zkyXq9fbYGsUCrmX2FsWl6JM75dnuiVrc7Z9cv8yR0kIVKDZdbDJBHWp3QlDD66WxbZsM%251EKzWNRsj013aJ3WrUN0b4gbQwxE9%25UjJF5kJE9fBl"
+      },
+      {
+        "id": "11eg",
+        "name": "BMW X1 sDrive18d",
+        "fuel": "디젤",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x1/bmw-x1.html",
+        "image": "/assets/models/11eg.webp",
+        "sideImage": "/assets/models/11eg-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25RkABNXTaAxgqO30WiyXq2FgXAXHXy6v6jQ%25Q9h2YDafagbjmqn1n%25iDyLOEf%25uqTJIs10yL3uBrET2JdSeZsNEuzVMRr0cSkNh5Z4lVA0ogYLcNF4HvmFo0Kc%252y1%254Wxfj0pUcP81D4VWxbUEqcbA89GsLx9NUiprJ8VGGw6ZuUNfptYRSGoP67m5VpFxYCygN6MimlTv0YLdyX324mkETQdjcSKX3azDxVGAdnkq8NeqzOALU0MOkIFJG4dlABKup98QFeWS6ignKMPVYw%25VWhbNmtfkPo90y7tcbHi4TCR29%25wc3lO5iftxdRyMw178z5hhtECUkgu77slGAvzVCrXpFXOalZQ6KQfpXRaYWa2NQ5nmPnq9agOybOiGnvIT9IBdO2B3iBvxIjedwqQBBDMztLc0eqhk7JDaMLoACuq%25hJHFlSLpou%25KX95lHSfgfwHRIdLBlyrIjAJpUr7G19mRi9lZya2wdqfkPGhEbzLuSDye8ix2Z8dQCnnvzIJ9gwO30SUb17sYeySzoVBzcAiN3lZyaUV7IU6RjnWt1%25UUBckkIVugDLJaCnTNu83EtE6tnSFT3Id4I05GkBDF86Q0l6JBqR%25",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCIcxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHbK0Kc%252%25O54WxfjfNncP81D12IxbUEqj2p89GsLDybUiprJq94Gw6ZuLmqptYRSJy367m5VuToYCygNWU3mlTv0PlgyX324bD2TQdjcyFk3azDxTYQdnkq83nCzOALUdOmkIFJGzYAABKupkmjFeWS6AgaKMPVYFldWhbNmKRIPo90yWUwbHi4TP7q9%25wc36XHiftxdYACw178zmZ8tECUkyRE7slGATwoCrXpFOz%25lZQ6KIN1XRaYWB2YQ5nmPej7agOybMe3nvIT9hS4O2B3ioEVIjedwSbRBDMztV55eqhk7NpMMLoAC0tYhJHFlHEfou%25KX%25jFHSfWQf4m%25V1Pa18OfNEbnEIA10s9OsrwE4riIr0dscZwB8%25rrxRteU3yZ857MGxfRUgChp825Gvlo6UFgp2XHOVov6jNjBvSswUrobJscCGFkJMADOP52foubf4Bw8j7aA5qntUp6xbZzId4VMSWhcbEmMTP05XK%25Gwgk2hLKozL1uxHD672yroGdr5CnTNU9Prrz1JJdoMXOBeypTjHMsDiUi5UThSjDdqfd%25lZJzOSs5m%2565ezICP"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "첫 SUV라고 무조건 크게 고르실 필요는 없어요. 주차 공간과 뒷좌석을 먼저 확인하고, 내 생활에 필요한 크기부터 찾아보세요."
+  },
+  {
+    "slug": "x2",
+    "name": "BMW X2",
+    "category": "SUV",
+    "tagline": "SUV에 더한 쿠페 실루엣",
+    "description": "차체 형태를 중요하게 본다면 X1과 X2를 함께 비교해 보세요. 뒷좌석 머리 공간과 적재 방식은 직접 앉고 짐을 넣어 보는 것이 좋습니다.",
+    "variants": [
+      {
+        "id": "41gm",
+        "name": "BMW X2 xDrive20i",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x2/bmw-x2-overview.html",
+        "image": "/assets/models/41gm.webp",
+        "sideImage": "/assets/models/41gm-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25YhABNXTaAxgqO30WiyXq2FgXAXHXy6v6jQ%25Q9h2YDafag4jmqn1n%25iDyLOEf%25uqTJIs10yL3uBrET2JdSeZsNEuzVMRr0cSkNh5Z4lVA0ogYZwNF4HvmJx0Kc%252yKH4WxfjTNdcP81D37nxbUEqcYp89GsLx0bUiprJ8iKGw6ZuUw4ptYRSG0667m5Vp4EYCygN6%259mlTv0YWUyX324motTQdjcyeW3azDxTFrdnkq8NPazOALU06KkIFJG4hJABKupcoBFeWS6xkQKMPVY8AXWhbNmtpOPo90y7jBbHi4TCE49%25wc3lsKiftxdXlUw178zQvqtECUkae27slGAvdHCrXpF2%25%25lZQ6KjNXXRaYWDF4Q5nmPneIagOybOsmnvIT9IqcO2B3iButIjedwe7YBDMztMhAeqhk7hDGMLoACo4AhJHFlSUxou%25KXVJIHSfWQiyX%25V1v1t%255BzJeXTZBDFu6GZCpEiy5wiXRTnjtzL1Abpos9kJSVqTMUw8jRUzalOO2kBuivtId4VG9ECrmMTVkHNekxFw0dXRTnGNCBGY5DOP7EfGGexAABNSvqJunlO30AUMz7sY7OVK3dBzcBEhVUeqKUYa4XYueL5f",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCJwxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHbK0Kc%252%25O54WxfjfNTcP81D12IxbUEqj2p89GsLDybUiprJq94Gw6ZuLmqptYRSJy367m5VuToYCygNWuBmlTv0PGdyX324bXvTQdjc9mw3azDxiM1dnkq83WFzOALUdynkIFJGzIXABKupkBTFeWS6AyKKMPVYFTqWhbNmK2OPo90yWQkbHi4TPge9%25wc3bZQiftxd9lJw178zmaftECUkyKX7slGAT5GCrXpF3grlZQ6Kd7%25XRaYWzCHQ5nmPeFEagOybMcrnvIT9hqTO2B3ioLXIjedwHokBDMzt%2508eqhk7fZ4MLoAC0wvhJHFl422ou%25KXcmHHSfWQxlT%25V1Pa1ZsfNEbnELP10s9Os83E4riIrpescZwBZMWrxRteR5CZ857M5xARUgChgTC5Gvlo6kdgp2XHYGsv6jQ%25IbH2YD0De2VrtGZH9urxlpKAuhFqIbgj1HS91cetUDCnFgLO7G6Y89RkBzcNhVPox9syh3b4gQWfptvAjoJWHkJES8%25qYCjTZHpzZglO30GibZZkEuuzHhQIeMT63D%25urALGwgG3oVDqzL1ziForkIVrgyfYgMkBlb"
+      },
+      {
+        "id": "81gm",
+        "name": "BMW X2 M35i xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/x2-m35i/bmw-x2-m35ixdrive-overview.html",
+        "image": "/assets/models/81gm.webp",
+        "sideImage": "/assets/models/81gm-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25IyABNXTaAxgqO30WiyXq2FgXAXHXy6v6jQ%25Q9h2YDafagIjmqn1nxNDyLOEf%25uqTJIs10yL3uBrET2JdSeZsNEuzVMRr0cSkNh5Z4lVA0ogYZwNF4HvmJx0Kc%252yV34WxfjTtacP81D3sSxbUEqcYp89GsLx0bUiprJ8iKGw6ZuUw4ptYRSG0667m5Vp4EYCygN6%259mlTv0YWUyX324motTQdjcyuk3azDxTFrdnkq8NPazOALU06KkIFJG4hJABKupcoBFeWS6xkQKMPVY8AXWhbNmtpOPo90y7jBbHi4TCE49%25wc3lsKiftxdXlUw178zQvqtECUkae27slGAvW%25CrXpF2%25%25lZQ6KjNXXRaYWDF4Q5nmPneIagOybOsmnvIT9IqcO2B3iButIjedwe7YBDMztMhAeqhk7hDGMLoACo4AhJHFlSLOou%25KXVJ1HSfWQNuY%25V1Pa0SlfNEbnt3b10sjsC1vMAShad5MLWVm65XYrt3v7tagdIqCAusKiY%25ZwFSN0Jdop7GqgpAOQBBDFMVtjCekx06wrXRTod0Ff4hFUW7ckagdI64XM6yvLB9lrE66hUKKM4NjJSVIQBzcbpoAlZylB0PzkMA8MrH0phJPpyOxayVhuvE",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCPSxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHbK0Kc%252%25O54WxfjfNscP81D1dmxbUEqj2p89GsLDybUiprJq94Gw6ZuLmqptYRSJy367m5VuToYCygNWuBmlTv0PGdyX324bYiTQdjc9ef3azDxiL6dnkq83WFzOALUdynkIFJGzIXABKupkBTFeWS6AyKKMPVYFTqWhbNmK2OPo90yWQkbHi4TPge9%25wc3bp7iftxd9lJw178zmaftECUkyKX7slGAT5GCrXpF3grlZQ6Kd7%25XRaYWzCHQ5nmPeFEagOybMcrnvIT9hqTO2B3ioLXIjedwHokBDMzt%2508eqhk7fZ4MLoAC0Q2hJHFl422ou%25KXcmHHSfWQxlT%25V1Pa1ZsfNEbnELP10s9Os83E4riIrpescZwBZMWrxRteR5CZ857M5xARUgChgTC5Gvlo6UEgp2XHYGDv6jQ%25mpW2YDafy6ojmqn1einDyLcLhD0RC65fwVRUQYPKVHWJei2qsfNws8hCpLXIW2uBl6myGwgFMA84H09%25UwZ3Hzix2nbEYCjKq%25SbfFSrNG1JyXqd5fYA52QBzc6ti55FrVVAfHnehodmzL14RKu6726z%250LJAusAtW%25RFe0R23Ey2oFMQi"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "무광 그레이가 주는 분위기를 좋아하신다면 이 X2를 살펴보세요. 저는 프로즌 퓨어 그레이의 색감이 참 아름답다고 생각합니다.",
+    "advisorCommentSource": {
+      "type": "video-editorial",
+      "time": "08:53–09:04",
+      "label": "백경재 대리의 모델 안내 영상에서 정리",
+      "reviewedAt": "2026-09-30"
+    }
+  },
+  {
+    "slug": "x3",
+    "name": "BMW X3",
+    "category": "SUV",
+    "tagline": "가족의 일상을 넓히는 SUV",
+    "description": "뒷좌석에 가족이 함께 타는 상황부터 생각해 보세요. 가솔린·디젤·M50 중 원하는 주행 성격을 고르고 주차·적재·승차감을 확인할 수 있습니다.",
+    "variants": [
+      {
+        "id": "41gp",
+        "name": "BMW X3 20 xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x3/bmw-x3.html",
+        "image": "/assets/models/41gp.webp",
+        "sideImage": "/assets/models/41gp-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%2595ABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafag8jmqn1%25HJDyLOEfgqqTJIs10yL3uBrET2JdSeZsNEuzVMRr0MSkNh56q4VA0ogYAhNF4HvmSO0Kc%252yr04WxfjTEucP81D3svxbUEqcYp89GsLxjEUiprJ849Gw6ZuUwoptYRSG0O67m5Vp4EYCygN6K8mlTv0YWCyX324mJ%25TQdjcyAT3azDxTi3dnkq8NnlzOALU0bnkIFJG4YWABKupcoBFeWS6xkQKMPVYwvHWhbNmtfNPo90y71AbHi4TC7x9%25wc3l5jiftxdXIgw178z5ThtECUkgu77slGAvzVCrXpFXOalZQ6KQfpXRaYWa2NQ5nmPnq9agOybOiGnvIT9IBdO2B3iBvxIjedweVdBDMztLc0eqhk7JDaMLoACuq%25hJHFlSLpou%25KX9mlHSfgfwHRIdLBlyrIjAJpUr7G19mRi9lZya2wdqfkPGhEbzLuSDye8ix2Z8dQCnnvzIJ9gwO30SUb17sYeySzoVBzcAiN3lZyaUV7IU6RjnWt1%25UUBckkIVugDLJaCnTNk8eStE6tnSFT3Id4I1XMGBDF86Q0l6JBqR%25",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYBxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNzcP81D2vGxbUEqjN889GsLDybUiprJq94Gw6ZuLmqptYRSJyR67m5VK8TYCygNWC5mlTv0P6EyX324bJyTQdjc9qp3azDxiL0dnkq83WFzOALUdcqkIFJGzTOABKupkBgFeWS6AyEKMPVYFTqWhbNmKXzPo90yWQhbHi4TPG29%25wc3bC9iftxd9Iiw178zm1otECUkyn17slGATWQCrXpF3grlZQ6Kd7%25XRaYWB0vQ5nmPejmagOybMDCnvIT9hMdO2B3ioVcIjedwHsNBDMztV95eqhk7NpMMLoAC0tYhJHFlHEfou%25KX%25jFHSfWQf4m%25V1Pa18OfNEbnEIA10s9OsrwE4riIr0dscZwBZYwrxRteU3yZ857MGxfRUgChp825Gvlo6UFgp2XHOPov6jNjBvSswUrobJscCGFkJMADOP52foubf4Bw8j7aA5qntUp6xbZzId4VMSWhcbEmMTP05XK%25Gwgk2hLKozL1uxHD672yroGdr5CnTNU9Prrz1JJdoMXOBeypTjHJskhUi5UThSjDdqfd9YAZzOSs5m%2565ezICP"
+      },
+      {
+        "id": "71gp",
+        "name": "BMW X3 M50 xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/x3-m50/bmw-x3-m50.html",
+        "image": "/assets/models/71gp.webp",
+        "sideImage": "/assets/models/71gp-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25RrABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafai2jmqn1nvRDyLOEfNmqTJIs1yvL3uBrEV1JdSeZsNeuzVMRr0CSkNh5Z4UVA0ogYLcNF4HvmSO0Kc%252yU84Wxfj0pUcP81D4VWxbUEqcbe89GsLxSHUiprJ8z0Gw6ZuUkiptYRSGQz67m5Vp36YCygN6dfmlTv0YPryX324mbyTQdjcSQ73azDxVWQdnkq8NpFzOALU0MOkIFJG4d5ABKup97IFeWS6iHSKMPVYw%25zWhbNmtw4Po90y7ZvbHi4TCnR9%25wc3ZmeiftxdRMMw178z5JttECUkgdS7slGAlnQCrXpFX%25GlZQ6KQvVXRaYWaDbQ5nmPn9UagOybOI3nvIT9IgcO2B3iDvlIjedwq2hBDMztLj8eqhk7JDiMLoACP6AhJHRH9hrnTDO7YEnvzqUxEw8%25P6rbP7sYXg9TjHdK8efW3DLJ2YIcb4gscTltQQ53nqPR9ayVJxW%25w1pIYJ3MuO30zbSy7sYXxuwnxGrvQFi%25oxxO0ddnuLR2DqXtQmSocIJifGiQJkmynTNnPuJ%25O2kcGlV7GqOjro",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCInxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfI4cP81D10SxbUEqjmP89GsLDb0UiprJqYDGw6ZuLmZptYRSJyh67m5VuTkYCygNWU3mlTv0P6EyX324bkzTQdjcyFk3azDxTYQdnkq83nZzOALUd6vkIFJGztyABKupk7IFeWS6A%25tKMPVYFiKWhbNmKwjPo90yWaJbHi4TPnb9%25wc36%25MiftxdYQ%25w178zmFltECUkyRE7slGATwVCrXpFOMslZQ6KIv6XRaYWB2tQ5nmPeBTagOybMu0nvIT9h1SO2B3iuPZIjedwSRRBDMztVGeeqhk7Nw6MLoACo1%25hJHFlH2Aou%25KX%250YHSfWQfxn%25V1Pa1OkfNEbnEsi10s9OsN3E4riIx0oscZwB845rxRteUczZ857MGxIRUgChaKC5GvSvO5J19xEMWq10t8kdqBz2aKZgHMLWHNO9cvwXzZjQixUG4Ws3nTNuBJFe0Wf6BmKVZCAo89RdgeDAM3D%25L4h2GwgYEM8TEZtQmSxPKEE3%25qqTMBCaOIYUmvhK1dexbZxmeJv2TjHT0MeP3aJ1Z6oGZI3ntK"
+      },
+      {
+        "id": "11gr",
+        "name": "BMW X3 20d xDrive",
+        "fuel": "디젤",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x3/bmw-x3.html",
+        "image": "/assets/models/11gr.webp",
+        "sideImage": "/assets/models/11gr-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%2595ABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafagbjmqn1%25HJDyLOEfgqqTJIs10yL3uBrET2JdSeZsNEuzVMRr0MSkNh56q4VA0ogYAhNF4HvmSO0Kc%252yrN4WxfjTEucP81D3svxbUEqcYp89GsLx0bUiprJ8ihGw6ZuUNfptYRSGAc67m5VpFtYCygN6dYmlTv0YPmyX324uXtTQdjcSKX3azDxVGAdnkq8NenzOALU03CkIFJGbtOABKup9ouFeWS6iHdKMPVYwi0WhbNmtrgPo90y7aZbHi4TrYB9%25wc3ZqiiftxdRTJw178z7QltECUkCo87slGAl5uCrXpFX2WlZQ6KQPxXRaYWanyQ5nmPnR0agOyb257nvIT9jgeO2B3iDvcIjedwFUiBDMsMWB1XYvQiG%25XRT2c0%25b4hFU1KFifG7ZWYgMyk4OoAmvjD5GaNKVZfNYt9CCrmX2FsWl6JD0AhbH8aGDmIqQmSTKL6ifG70qbX0x1RCzPhe00QSyyXqjs5v279CpLjNaWPoxPCD3p6XYuXhwn4Q53NxtJix2Qg1e",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYBxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNncP81D2vGxbUEqjN889GsLDybUiprJq94Gw6ZuLmqptYRSJyR67m5VK8TYCygNWC5mlTv0P6EyX324bJmTQdjc9qp3azDxiL0dnkq83WFzOALUdynkIFJGzI5ABKupkmjFeWS6AC3KMPVYFleWhbNmKwWPo90yWaPbHi4TpHe9%25wc36XHiftxdYACw178zmZ1tECUkyih7slGAneECrXpFOgplZQ6KIvwXRaYWBIyQ5nmPeJNagOybMfunvIT9JWrO2B3iu8IIjedwS9GBDMztM%25oeqhk7hgzMLoACoVphJHFlH4Qou%25KX%25adHSfWQf1b%25V1Pa1SyfNEbn4VM10s9OcNZE4riIx03scZwBlkIrxRLRQrDHW0%25IA2HS943y2nT5lkEZMIjAMuQWNRb7TEgCP0cxVAfmXYuqnDzOSAoUnpkJEwde4WsyZOvdImvhjVB5xbZG%25I4Y%25E9CpL0Fk%25%25mh22YInwlQaGcpRBnHyN0KE0pODR5YgMYF8TfmlDHEUexEamX9k"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "가족과 함께 탈 차라면 운전석만 보지 마세요. 카시트, 뒷좌석, 짐을 싣는 상황까지 하나씩 확인해 보면 결정이 편해집니다."
+  },
+  {
+    "slug": "x4",
+    "name": "BMW X4",
+    "category": "SUV",
+    "tagline": "쿠페 형태의 SUV를 찾는다면",
+    "description": "X4의 차체 형태가 마음에 든다면 뒷좌석과 적재공간도 함께 확인해 보세요. 현재 판매 차량과 출고 가능 여부는 상담 때 별도로 확인합니다.",
+    "variants": [
+      {
+        "id": "21dt",
+        "name": "BMW X4 xDrive20i",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models.html",
+        "image": "/assets/models/21dt.webp",
+        "sideImage": "/assets/models/21dt-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%259gABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikascZwBwAsrxRteIOgZ857MB1RRUgCheq85GvloMfUgp2XHhVuv6jQ%25opZ2YDafHLojmqn1c5JDyLOExA9qTJIsDNSL3uBrq2PJdSeZLj3uzVMRJzmSkNh5ukDVA0ogS6kNF4HvVCt0Kc%252N9O4Wxfj0wqcP81D4RnxbUEqcC989GsLxY0UiprJ8kKGw6ZuUAGptYRSDtb67m5VqztYCygNLc3mlTv0JnvyX324uOKTQdjcSIQ3azDxVBwdnkq8NTEzOALU03CkIFJGbxXABKup95hFeWS6irDKMPVYw%25VWhbNmtfkPo90y71jbHi4TCqR9%25wc3lCIiftxdXIgw178z7QltECUkCo87slGAl5uCrXpFX2WlZQ6KQPxXRaYWanLQ5nmPnOTagOybO54nvIT9IgnO2B3iBS3IjedweVHBDMztLaeeqhk7Jx4MLoACPZhhJPNyYgQmZ7d2C7nvzBLlFSrWwmfRtKV04uzH6CpLv6FIaeeqKhN7DlMA84YtZQ53Hz4K1coKGPCxAnvzBYcQhYT2JeiXZsg2AMdWhc0DuVNBaekxY67DXRTXe4bkAhFUh8j9Aoub6TI8nTNoS2s",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYexbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7fL3uBrBCLJdSeZsENuzVMRrDSSkNh5Z8zVA0ogRjkNF4Hv5Yp0Kc%252gFu4WxfjvUgcP81D3VGxbUEqdCO89GsLxm6UiprJ84aGw6ZuUciptYRSGtP67m5Vp7xYCygN6K7mlTv0YheyX324mOETQdjcyB83azDxTS1dnkq83hOzOALUdWykIFJGz7XABKupkCAFeWS6xenKMPVY8teWhbNmU3iPo90yG10bHi4TpEX9%25wc36s%25iftxdYrBw178zm9qtECUkyih7slGAndHCrXpFOV5lZQ6KIJxXRaYWB2YQ5nmPej7agOybMDcnvIT9h8SO2B3iohsIjedwHsNBDMztM%25oeqhk7hgzMLoACoVphJHFlH4Qou%25KX%25adHSfWQf1U%25V1Pa1E9fNEbnEVT10s9OsN1E4riIr6iscZwBZYvrxRteUfZZ857MGdTRUgChau55GambWN%25PuMwjLr10trUol6JQBPjSeXYyTptvKhFUc%254ifGtRd%25kw8jO9smlDWLfV91KVZ0pEuTQLzg1mFgjaekxY7wXauAqNF1%25OMoHzykJEg5GOYCjYkf4JuFSrFsncuKM45jdsTjHKhaw"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "현재 판매·배정 가능 여부는 개별 확인",
+    "advisorComment": "SUV에서도 쿠페의 모습을 찾는 분께 비교를 권하고 싶어요. 뒷좌석을 자주 쓰신다면 그 자리의 편안함부터 확인해 주세요."
+  },
+  {
+    "slug": "x5",
+    "name": "BMW X5",
+    "category": "SUV",
+    "tagline": "장거리와 가족 사용을 함께",
+    "description": "가족과 이동할 때 필요한 공간과 운전할 때의 감각을 함께 비교할 SUV입니다. 주로 타는 인원, 짐의 양, 주차 가능 크기를 기준으로 살펴보세요.",
+    "variants": [
+      {
+        "id": "21eu",
+        "name": "BMW X5 xDrive40i",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x5/bmw-x5.html",
+        "image": "/assets/models/21eu.webp",
+        "sideImage": "/assets/models/21eu-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%2595ABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikascZwBwA%25rxRtetFrZ857M7sZRUgChCbN5GvloMejgp2XHh1Gv6jQ%25oL12YDafH6ojmqn1%25JHDyLOEfurqTJIs1SqL3uBrU0VJdSeZGjNuzVMRpD9SkNh56kMVA0ogYuyNF4HvmfH0Kc%252NG84Wxfj0g%25cP81D4vWxbUEqcNX89GsLx0bUiprJ8TBGw6ZuUNnptYRSG0l67m5VpQTYCygN6nAmlTv0YLHyX324mJVTQdjcyqW3azDxTF0dnkq83aazOALUdtvkIFJGz7kABKupciIFeWS6xybKMPVY8%25VWhbNmUfCPo90yG1obHi4TpWq9%25wc3lnHiftxdX2Vw178zQZ8tECUkaRb7slGAn5SCrXpFONDlZQ6KIOmXRaYWBLVQ5nmPe%25JagOybLKsnvIT9JWOO2B3iuZZIjedwSUBBDMztVCdeqhk7NlZMLoACo1%25hJHFlH2Aou%25KX%250YHSfWQfxn%25V1Pa1OkfNEbnEsp10s9OsrwE4riIr0dscZwBZYIrxRteXVBZ8X6WFSoKLB9NeB%25ViExM7GqlOKvJICpYmUi5AekxVA71HsscCZ6B4Mrt3mFILoub5imC2yRCzXeTt%25ViEFyoZFPN8snhLDFF2iclZyY4Up6EHswTFAtLhJPhsmQwtZ7dZL8oORUQAP13%25P6RGND",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYBxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7fL3uBrBC2JdSeZelJuzVMRMLuSkNh5hnmVA0ogRZcNF4Hv5DA0Kc%252gUD4WxfjvKgcP81D2GvxbUEqjpJ89GsLD68UiprJkyYGw6ZuAcmptYRSFxO67m5VK7RYCygNWpbmlTv0PjvyX324mAzTQdjcyN23azDxT0Qdnkq83mHzOALUdynkIFJGz9rABKupkm1FeWS6AyoKMPVYF%259WhbNmK1CPo90yWUvbHi4TPGY9%25wc3b8Qiftxd9lyw178zifftECUkwe07slGAtM7CrXpF3IslZQ6KdbnXRaYWz2YQ5nmPkjhagOybADgnvIT9FQ8O2B3io1vIjedwH4YBDMzt%25uzeqhk7fSnMLoAC1V6hJHFlEmxou%25KXsEPHSfWQrUY%25V1PaZ2GfNEbnUXL10s9OGQEE4riIpuuscZwB6krrxRteYhwZ857MmouRUgChgD25Gvlov4Cgp2XH2yWv6jQ%25jd12YDafDE7jmqn1qLFDyLOELJBqTJIsJywL3uBruWsJdSeZHYruzHKQl6gXUrO0xq2YIqdRMA8oEX0GshFWPkIVCZ7dygmnvzIJ9gwO30faDKM4lxvpa2CpLYkjUPoxiS2K7S0HswTFBOSSax1672gfrR5iWw8jSuUBFe0Fwvm8U7Gq7BsK3Crmu09DP05CZHO"
+      },
+      {
+        "id": "31eu",
+        "name": "BMW X5 M60i xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-x5-m/bmw-x5-m-models.html",
+        "image": "/assets/models/31eu.webp",
+        "sideImage": "/assets/models/31eu-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25IzABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikascZwBw7drxRtet5BZ857MBTkRUgChe845GvloMUegp2XHhDMv6jQ%25oq12YDaf4uLjmqn1c5JDyLOExy%25qTJIs8jGL3uBrUMVJdSeZGheuzVMRpoCSkNh5uxMVA0ogSZwNF4HvVRo0Kc%252N5F4Wxfj0SzcP81D4VlxbUEqcNP89GsLxyIUiprJ8VaGw6ZuUNCptYRSGQz67m5VpW2YCygN6qomlTv0YLSyX324mDKTQdjcyA43azDxTQjdnkq83aazOALUdtzkIFJG4YWABKupcouFeWS6xHtKMPVY8A2WhbNmt3IPo90y71AbHi4TCEj9%25wc3lsqiftxdXJhw178zQRWtECUkaQp7slGAnjJCrXpFOhDlZQ6KIorXRaYWDA1Q5nmPqFaagOybLssnvIT9JnxO2B3iuz6IjedwS73BDMztVCreqhk7hNUMLoACoqphJPNyYgQmZ7d2C7nvzBLlFSrWwmfRtKV04uzH6CpLv6FIaeeqKhN7DlMA84YtZQ53Hz4K1coKGPCxAnvzBYcQhYT2JeiXZsCYVwHWhc0DuVNBaekxa6AZXRTXe4bkAhFUhdmLPoub6TI8nTNoS2s",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCP4xbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7fL3uBrBMwJdSeZeVruzVMRr97SkNh5ZzTVA0ogRkZNF4Hv5xR0Kc%252g8D4WxfjTpUcP81D3VGxbUEqdb289GsLzcAUiprJkRYGw6ZuA5ZptYRSFgh67m5VpdRYCygN6uBmlTv0YSgyX324mVlTQdjcy6t3azDxTYodnkq83mazOALUdbskIFJGzYfABKupkmhFeWS6A%25tKMPVYFQ4WhbNmK8gPo90yWU6bHi4TPxX9%25wc3bCTiftxd9%25cw178zifftECUkwet7slGATWQCrXpF3gplZQ6KdveXRaYWzC4Q5nmPeisagOybMDCnvIT9hqcO2B3ioL8IjedwHG5BDMzt%25SQeqhk7f%25FMLoAC1cGhJHFlE5xou%25KXsgJHSfWQxCD%25V1Pa8lffNEbnULL10s9OG1dE4riIptKscZwB6MirxRteYhJZ857M5mkRUgChg8F5GambWN%25PuMwjLr10trUol6JQBPjSeXYyTptvKhFUc%254ifGtRd%25kw8jO9smlDWLfV91KVZ0pEuTQLzg1mFgjaekxY7wpgo8WNF1%25OMoHzykJEy5u7YCjYkf4JuFSrFqvB0KM45jdsTjHKhaw"
+      },
+      {
+        "id": "11ev",
+        "name": "BMW X5 xDrive30d",
+        "fuel": "디젤",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x5/bmw-x5.html",
+        "image": "/assets/models/11ev.webp",
+        "sideImage": "/assets/models/11ev-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKGzRAABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikascZwBwA%25rxRtetEkZ857M7PjRUgCheB25GvloMfggp2XHh1Gv6jQ%25oph2YDafHLojmqn1%25JjDyLOExVuqTJIs8vSL3uBrU2PJdSeZGj3uzVMRpKbSkNh56JmVA0ogY%25ZNF4HvVUx0Kc%252N5H4Wxfj0gKcP81D4VSxbUEqcNX89GsLx0bUiprJ8TBGw6ZuUNnptYRSG0l67m5VpQTYCygN6nAmlTv0YLHyX324mJVTQdjcyeM3azDxTF0dnkq83aazOALUdtckIFJGz7kABKupciIFeWS6xybKMPVY8%25VWhbNmUfCPo90yG1obHi4TpWq9%25wc3lnHiftxdX2Vw178zQZ8tECUkaRb7slGAn5SCrXpFONDlZQ6KIOmXRaYWBLVQ5nmPe%25JagOybMf5nvIT9JwyO2B3iutEIjedweHhBDMztM5deqhk7hSGMLoACo0XhJHFlHQ3ou%25KX%25f8HSfWQf1b%25V1Pa1SyfNEbnEGa10s9OcoEE4riIxyYscZwBlkGrxlpKAuhFqIbVBIHS91cetUDCnFgLO7G6Y89RkBzcSktfoEE47rpI0eswTYAOqhJPR9Y7vmZ7dlBywHS91AmhrAWVxEaMqjAAv94Crm608Gp1oEiy6kwRMLWMEYXiwrt3rIN5FZ8XkWfTHWpZUVj",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUD4IxxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7fL3uBrBC2JdSeZeq7uzVMRMacSkNh5Zr4VA0ogRjNNF4Hv5DA0Kc%252gF54WxfjvUgcP81D2GcxbUEqdYp89GsLz06UiprJk4aGw6ZuAciptYRSFXn67m5VKGPYCygNW2umlTv0YkdyX324mVvTQdjcyNX3azDxTY6dnkq83mHzOALUdynkIFJGz9rABKupkm1FeWS6AyoKMPVYF%259WhbNmK1CPo90yWUvbHi4TPGY9%25wc3bZRiftxd9lyw178zifftECUkwe37slGAtM7CrXpF3IslZQ6KdbnXRaYWz2YQ5nmPkjhagOybADgnvIT9FQ8O2B3io1vIjedwH4YBDMzt%25uzeqhk7fSnMLoAC1V6hJHFlEmxou%25KXsEPHSfWQrUY%25V1PaZ2GfNEbnRjV10s9OGBbE4riIpeqscZwBZv5rxRteRVwZ857M56ARUgChgyH5Gvlov%25igp2XH2jzv6jQ%25jDn2YDafD6bjmqn1qAfDyLOE3gqqTJIsdbWL3uBro7AJdoFXCp5l8snNcDv6OD3Zekxh1lNUEMAKWzOS7rt3m5YagdOLb5inTN%25QjFe0CcgGQv7Gq6z28Whc9uvFtuNoEiyAInuuQcfptv5%25sZR9Kix25J8CABNAigYx8tUDtdHlS7sYJNbjWNR7ron"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "가족 여행이 잦다면 실제로 들고 다니는 짐을 기준으로 봐주세요. 큰 차를 고르는 이유가 내 생활에서 분명하면 만족도도 달라집니다.",
+    "additionalVariants": [
+      {
+        "name": "BMW X5 xDrive50e",
+        "fuel": "플러그인 하이브리드",
+        "source": "https://www.bmw.co.kr/ko/all-models/edrive/X5/2019.html",
+        "note": "외부 충전이 가능한 플러그인 하이브리드 구성",
+        "checkedAt": "2026-09-30",
+        "sourcePeriod": "BMW 공식 모델 안내"
+      },
+      {
+        "name": "BMW X5 xDrive40d M 스포츠 프로",
+        "fuel": "디젤",
+        "source": "https://www.bmw.co.kr/content/dam/bmw/marketKR/bmw_co_kr/Pricelist/PRICELIST_JUNE2026.pdf.asset.1781249167044.pdf",
+        "note": "공식 가격표 등재 구성 · 온라인 판매 일정과 배정은 개별 확인",
+        "checkedAt": "2026-09-30",
+        "sourcePeriod": "2026년 7월 공식 가격표"
+      }
+    ]
+  },
+  {
+    "slug": "x6",
+    "name": "BMW X6",
+    "category": "SUV",
+    "tagline": "존재감 있는 SUV 쿠페",
+    "description": "X5와 X6를 함께 보면 원하는 차체 형태가 더 분명해집니다. 뒷좌석 사용과 적재공간, 운전석에서의 시야를 직접 비교해 보세요.",
+    "variants": [
+      {
+        "id": "31ex",
+        "name": "BMW X6 xDrive40i",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x6/bmw-x6.html",
+        "image": "/assets/models/31ex.webp",
+        "sideImage": "/assets/models/31ex-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25IzABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafai2jmqn1nvjDyLOEO8dqTJIs1fSL3uBrE5TJdSeZs05uzVMRr0sSkNh5Z4SVA0ogY8cNF4HvmJx0Kc%252yu74WxfjTNdcP81D3s1xbUEqcYp89GsLxjEUiprJ8D9Gw6ZuUcnptYRSGxw67m5VpzhYCygN6cBmlTv0YxayX324mOzTQdjcyBW3azDxTS1dnkq83V4zOALUdu9kIFJGzPxABKupkIIFeWS6AlDKMPVYFXKWhbNmU7MPo90yGdwbHi4TpE49%25wc36sQiftxdYrfw178zm9utECUkaB17slGAnq4CrXpFOgplZQ6KIvwXRaYWB20Q5nmPecJagOybMe3nvIT9hS4O2B3ioEVIjedwSbRBDMztV9eeqhk7NggMLoAC06hhJHFl4Q5ou%25KX%25s1HSfWQfDK%25V1Pa1cyfNEbnEUI10s9OsBFE4riIrZYscZwBZR7rxRteRckZ857M5yeRUgChpz35GvlonWhgp2V2IguEi8shPLE47UAzLekjnWuOnhJP%250Iix2tQkRDaw8GpcPrdO30JdiHMffNwEUnVI19mpzajeqKrPpw56swT7OY9hJP%25z6eEzFu4fXBjvzzsTttE6GVc8U%25MfbYMd9kBDFBfpCb9EiyEnSZkscCdFHmhFUsxuv",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCP4xbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfI4cP81D10cxbUEqEzw89GsLDj6UiprJqV9Gw6ZuLyVptYRSJyL67m5VuT6YCygNWz3mlTv0PGdyX324bpMTQdjc9mw3azDxiLDdnkq83WFzOALUdcqkIFJGzxOABKupk31FeWS6AdBKMPVYFt5WhbNmK3rPo90yWdfbHi4TPEt9%25wc3brQiftxd96Dw178ziYTtECUkwpO7slGAtadCrXpF7sslZQ6KCoxXRaYWlHXQ5nmPkMRagOybAwBnvIT9FqTO2B3iKL%25IjedwWJjBDMztPOpeqhk7frDMLoAC18ThJHFlENFou%25KXs0BHSfWQr4y%25V1PaZ3GfNEbnRZi10s9O56TE4riIgqYscZwB6nSrxRteYOZZ857MmNNRUgChyK55GvloT%25Vgp2XH2LDv6jQ%25jxX2YDafD3bjmqn1qksDyLOELrlqTJIsJuWL3uBruSMJdSeZS37uzVMRVbZSkNh5FtiVA0og1Q5NF4Y4sNpqIzL5aUqTMkCtUZ7c1QS025Ga2ysId4e%257SxfBzAF3aJwEiy6ZpXRTaDWZbQmSolvkIVt0R8l5w8jG3gcFe0PL5kiLSMfbYznQLLwjUUi5Zo1srPAb4gAqcJzOSzbRp4cix2iTh7Jw1pqSWvFSrwEMQ"
+      },
+      {
+        "id": "41ex",
+        "name": "BMW X6 M60i xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x6/bmw-x6.html",
+        "image": "/assets/models/41ex.webp",
+        "sideImage": "/assets/models/41ex-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKH7tyABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25QnW2YDafaq%25jmqn1%25rYDyLOEfK9qTJIs1y6L3uBrEV1JdSeZsN7uzVMRr0gSkNh56x4VA0ogYLcNF4HvmFR0Kc%252y184WxfjTEncP81D46GxbUEqc2189GsLxjbUiprJ84aGw6ZuUciptYRSGdM67m5Vp4XYCygN6nAmlTv0YbDyX324mJ%25TQdjcyuN3azDxTLPdnkq83aazOALUdtzkIFJG4YWABKupcouFeWS6xHtKMPVY8%25XWhbNmUFjPo90y7dBbHi4TCao9%25wc3lsKiftxdXrqw178zQZJtECUkaSH7slGAna6CrXpFODulZQ6KIoqXRaYWDA1Q5nmPqFaagOybLssnvIT9JxOO2B3iuO8IjedwSkYBDMztVCdeqhk7NlZMLoACo0GhJHFlHL6ou%255%25ioZO3qICmsO2kLG8stUfbYZ9bCrmQvi3D%25zWUM1PdqJujmBx9cvrx3X7aagdOLb5inTNu8PftE6BmudhSId4k9VTCrmQ8StO8pZ2aKwfH88I4zzOSJ5jqLQ7ayVzxTUw1pwauAyTO30OYUeUIjAxpXNCpLIDZH",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QU73TSxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%251Q4Wxfjf82cP81D2JWxbUEqjXO89GsLDbKUiprJqYDGw6ZuLmMptYRSJyN67m5VKdTYCygNWU3mlTv0PlSyX324bDzTQdjc9q13azDxTKAdnkq834DzOALUdcnkIFJGzTfABKupk3IFeWS6AwRKMPVYFTHWhbNmK1CPo90yWnxbHi4TPG29%25wc3bpmiftxd9Uaw178zifftECUkwet7slGATWQCrXpF3gplZQ6KdveXRaYWz2HQ5nmPklcagOybMwrnvIT9hfgO2B3ioLXIjedwHJ8BDMzt%25uGeqhk7f6vMLoAC1fKhJHFlExpou%25KXsg8HSfWQxCD%25V1Pa8lffNEbnULL10s9OGdEE4riIpEzscZwB67WrxRteYhwZ857MmouRUgChgyA5GvlovUKgp2V2IguEi8shPLE47UAzLekjnWRv%25hJP%250Iix2tQkRDaw8GpcPrdO30SeuKM4P1YeyWNRlFHUi5zvMqFhdqfJcojptvmshU3sR7ayV8bWssdfLL3helnIBmGy2oLEjr89R8yMu2j3D%253grkrdnuERYHpRBdO7W"
+      },
+      {
+        "id": "11ey",
+        "name": "BMW X6 xDrive30d",
+        "fuel": "디젤",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x6/bmw-x6.html",
+        "image": "/assets/models/11ey.webp",
+        "sideImage": "/assets/models/11ey-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG7bXABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafagbjmqn1nx3DyLOEf%25uqTJIs1RyL3uBrENRJdSeZsNEuzVMRr0uSkNh56x4VA0ogYLcNF4HvmJt0Kc%252yV34WxfjTEfcP81D46GxbUEqc2189GsLxjbUiprJ84aGw6ZuUciptYRSGdM67m5Vp4IYCygN6cQmlTv0YndyX324mIKTQdjcyuf3azDxTS0dnkq83dxzOALUdWckIFJGzOOABKupkCAFeWS6xwBKMPVY8T9WhbNmUfNPo90yG1lbHi4TpEH9%25wc36PLiftxdXO%25w178zQjNtECUkaRU7slGAn59CrXpFOgVlZQ6KI0qXRaYWBIyQ5nmPeJNagOybMfunvIT9JWrO2B3iuPIIjedwSRRBDMztVGeeqhk7NlZMLoACo1%25hJHFlH2Aou%25KX%250YHSfWQfxn%25V1Pa1OkfNEbnEsp10s9OsrwE4riIr0dscZwBZYIrxRteU3yZ857MQFeRUgugnRLfbc1eKDfNwxz3DIdvQFLaQeqKoVnb4gildr2X9c8U0KETayVqTbhBHHS9fxQun%25P6U3XvIjAEKU9ZG19mwapPeqKo3GIf3kLNHCOv5331miifG8u0cxoBHWp8TPqO2kOHUtWPfbYfQJsd10tTkh6ekx14L5",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUD36kxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNncP81D1dixbUEqj2p89GsLDSbUiprJqmSGw6ZuLmqptYRSJyp67m5VKdTYCygNWU3mlTv0PGeyX324bYiTQdjc9qj3azDxTKAdnkq834DzOALUdcnkIFJGzTfABKupk3IFeWS6AwRKMPVYFTsWhbNmK3%25Po90yW1wbHi4TPsX9%25wc3bpjiftxd96yw178ziwdtECUkwQ37slGAtEECrXpF7hClZQ6KdBrXRaYWz9OQ5nmPkjmagOybADonvIT9FqvO2B3iKaUIjedwHE2BDMzt%25cmeqhk7fSkMLoAC1VOhJHFlENYou%25KXsy8HSfWQrsb%25V1PaZGmfNEbnRjp10s9OGQJE4riIpasscZwB6SSrxRteYAZZ857MmouRUgChgD25Gvlov4Cgp2XH2yWv6jQ%25jd12YDafDE7jmqn1qLFDyLOELJBqTJIsJywL3uBruWsJdSeZkibuzVMR%25lZSkNpN1SUjn3DZXxjmBdtixsw0%25lJVgZ8XgY1nTNIowJ4HO3zkyXq9fbYGsUCrmX2FsWl6JM75dnuiVrc7Z9cv8yR0kIVKDZdbDJBHWp3QlDD9vxxbZsM%251EKzWNRsj0I3aJ3WrUN0b4gbmewq9%25UjJF5kJE9fBl"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "X6는 제가 개인적으로 굉장히 좋아하는 쿠페형 SUV입니다. 제 취향을 묻는다면 꼭 이야기하고 싶은 모델이에요.",
+    "advisorCommentSource": {
+      "type": "video-editorial",
+      "time": "10:02–10:14",
+      "label": "백경재 대리의 모델 안내 영상에서 정리",
+      "reviewedAt": "2026-09-30"
+    }
+  },
+  {
+    "slug": "x7",
+    "name": "BMW X7",
+    "category": "SUV",
+    "tagline": "모두의 자리를 생각하는 SUV",
+    "description": "여러 사람이 함께 이동하는 생활이라면 각 열의 좌석과 승하차를 살펴보세요. 좌석 구성과 짐을 싣는 공간은 선택 사양에 따라 확인이 필요합니다.",
+    "variants": [
+      {
+        "id": "21em",
+        "name": "BMW X7 xDrive40i",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x7/bmw-x7.html",
+        "image": "/assets/models/21em.webp",
+        "sideImage": "/assets/models/21em-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%2595ABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafai2jmqn1nvjDyLOEOpOqTJIs1fSL3uBrE5JJdSeZsg3uzVMRrdsSkNh5Z4rVA0ogRc2NF4Hv5xm0Kc%252yG84WxfjTSUcP81D3VlxbUEqdNP89GsLz7XUiprJkxLGw6ZuA8KptYRSFgL67m5VpdRYCygN6u5mlTv0YSCyX324mpGTQdjcy6h3azDxTYQdnkq83PEzOALUd6%25kIFJGzYMABKupkoPFeWS6A%25tKMPVYFx5WhbNmK8pPo90yWcbbHi4TP7y9%25wc3bCBiftxd9%25cw178ziBNtECUkwet7slGATOECrXpF3gplZQ6KdveXRaYWz2RQ5nmPklcagOybM%255nvIT9hNpO2B3ioL3IjedwHJQBDMzt%25uGeqhk7f64MLoAC1fKhJHFlExpou%25KXsg8HSfWQxy0%25V1Pa8O2fNEbnERr10s9OsJbE4riIrUdscZwBZ6MrxRteRhPZ857M5gTRUgChgvX5Gvlov3hgp2XHkhrv6jQ%25IbZ2YD0De2VrtGZH9urxlpKAuhFqIbVBIHS91cetUDCnFgLO7G6Y89RkBzcSktfoEE47rpI0eswTYAOqhJPR9Y7vmZ7dlBywHS91AmhrAWVxEaMqjAAZdCCrm608Gp1oEiyAkwtMLWMEYXiwrt3rIN5FZ8XkWfTHWpZUVj",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYBxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfI4cP81D10cxbUEqEFE89GsLDj6UiprJqVGGw6ZuLNiptYRSJwL67m5VuTJYCygNS34mlTv0VdPyX324bAzTQdjc96k3azDxiYodnkq8wmazOALUtMHkIFJG7dUABKupCzXFeWS6lNUKMPVYFwSWhbNmKpVPo90yW6hbHi4TPFA9%25wc3bK5iftxd9W%25w178ziaqtECUkwK27slGAtWRCrXpF7galZQ6KC2eXRaYWldVQ5nmPXzFagOybQ3nnvIT9aMbO2B3inhrIjedwO23BDMztIrmeqhk7BZeMLoAC9EqhJHFliNFou%25KXw0ZHSfWQt4S%25V1Pa7o3fNEbnR2V10s9O5mFE4riIgUiscZwBvG%25rxRte2pAZ857MjKTRUgChDjX5GvloqdFgp2XHLNzv6jQ%25dby2YDafzE4jmqn1qSJDyLOELGnqTJIsJkwL3uBruKRJdSeZS5auzVMRVN9SkNh5N0HVA0og0i5NF4Hv75J0Kc%252snu4WxyxZ4YJeAuvOpJdoFXCp5l8snNcDv6OD3Zekxh1lNUEMAKWzOS7rt3m5YagdOLb5inTN%25QjFe0CcgGQv7Gq6z28Whc9uvFtuNoEiyAInuu7qpptv5%25sZR9Kix2uJ8UABNAigYx8tUDtdHlS7sYJNbjWNR7ron"
+      },
+      {
+        "id": "31em",
+        "name": "BMW X7 M60i xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/x7-m60i/bmw-x7-m60i.html",
+        "image": "/assets/models/31em.webp",
+        "sideImage": "/assets/models/31em-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25xRABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafagbjmqn1nziDyLOEOB9qTJIs1TpL3uBrE5TJdSeZsbtuzVMRrdySkNh5ZzrVA0ogRcZNF4Hv5xj0Kc%252g8y4WxfjTpUcP81D3VGxbUEqdNX89GsLz9jUiprJkxFGw6ZuA5nptYRSFgR67m5VpJtYCygN6UBmlTv0YGCyX324m8nTQdjcyH73azDxTwJdnkq83dxzOALUdtzkIFJG49OABKupcouFeWS6xHtKMPVY8%25XWhbNmUfaPo90yGKmbHi4TCze9%25wc3lnHiftxdXrWw178zQZLtECUkaRu7slGAnV%25CrXpFOnYlZQ6KIqSXRaYWBHLQ5nmPe%25RagOybLKsnvIT9JWOO2B3iuZZIjedwSULBDMztVAmeqhk7hfaMLoACoQnhJHFlHY3ou%25KX%25c6HSfWQfnU%25V1Pa1OkfNEbn4h110sjsC1vMAShad5MLWVm65XYrt3v7tagdIqCAusKiY%25ZwFSN0Jdop7GqgpAOQBBDFMVtjCekx06wrXRTod0Ff4hFUW7ckagdI64XM6yvLB9lrE66hUKKM4NjJSVIQBzcQpkAlZylB0PzkMA8Mt2bphJPpyOxayVhuvE",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCvIxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNncP81D1tIxbUEqErO89GsLD9FUiprJqV9Gw6ZuLneptYRSJwb67m5VutJYCygNS3umlTv0VdcyX324NzbTQdjc9Fk3azDxiYAdnkq8wmHzOALUtOckIFJG7dlABKupCV1FeWS6lNSKMPVYFGeWhbNmKkrPo90yWAhbHi4TPz19%25wc3bvMiftxd9BGw178ziwdtECUkwet7slGATOECrXpF3gplZQ6KdveXRaYWz2HQ5nmPkjfagOybAXPnvIT9htZO2B3io1vIjedwHJQBDMzt%25uUeqhk7fSpMLoAC1Y2hJHFlE1Wou%25KXs86HSfWQrvU%25V1PaZ2SfNEbnUXL10s9OGQEE4riIpuuscZwB6kUrxRteYCPZ857M5jfRUgChg%2515GvlovWigp2XH23Kv6jQ%25j1k2YDafDE7jmqn1T5DDyLcLhD0RC65fwVRUQYPKVHWJei2qsfNws8hCpLXIW2uBl6myGwgFMA84H09%25UwZ3Hzix2nbEYCjKq%25SbfFSrNG1JyXqd5fYA52QBzc6ti55FrVVAfHnehodmzL1mRJu6726z%250LJAusAUa4RFe0R23Ey2oFMQi"
+      },
+      {
+        "id": "21en",
+        "name": "BMW X7 xDrive40d",
+        "fuel": "디젤",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/x7/bmw-x7.html",
+        "image": "/assets/models/21en.webp",
+        "sideImage": "/assets/models/21en-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKGzRAABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9Z2YDafagbjmqn1nGnDyLOEfZqqTJIs1RyL3uBrET1JdSeZsNEuzVMRr0gSkNh56q4VA0ogYPiNF4HvmfR0Kc%252N5F4Wxfj0SucP81D4JixbUEqcaF89GsLxl8UiprJ8kUGw6Zuj3iptYRSDXR67m5VqQkYCygNLpVmlTv0kfayX324AoZTQdjcFI63azDxKBsdnkq8kWFzOALUAlqkIFJGFhZABKupK%25YFeWS6WmDKMPVYPbsWhbNmb94Po90y9rmbHi4TUDF9%25wnwp9QAuhFyqlABNov5lYgtUDQGUyXqdIpuMwVxgP78ShH%25eqKRGZIXRu3mzzOSAoUnpkJE%2558tYCjKq%25SbfFSrNG1JyXqd5fYA52QBzc6ti55FrVVAfHnehodmzL15RJW6726z%250LJAusAUaWgFe0R23Ey2oFMQi",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUD4IxxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Ou4WxfjfNncP81D1A1xbUEqju889GsLDSbUiprJq9DGw6ZuLmqptYRSJyN67m5VK8TYCygNWaImlTv0PjSyX324mVlTQdjcy6p3azDxTGIdnkq83flzOALUdozkIFJGz7kABKupciIFeWS6xHSKMPVY8%257WhbNmUFYPo90y7jfbHi4TCgu9%25wc3lsKiftxdXrLw178z7QltECUkCo87slGAl5uCrXpFX2WlZQ6KQPxXRaYWanLQ5nmPnOTagOybOJPnvIT9kxlO2B1BFO%25Cp5lb8oCrmg0VoWNekxaIwbH8wsFpRBYdNaMz65v2Z8XSAusfW%25cPr87DWLxEaT4igpnVIPh4bShtHZ9e2YIqlbgulamzL15UxllStooubWTkFKqvLB9lCeN5Ga5LP%25BeuMwuryNXSk%25CaDi2aKSAmx"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "탑승 인원이 많을수록 모든 좌석을 직접 확인하는 게 중요해요. 자주 앉을 분의 자리와 짐을 놓을 공간을 따로 봐주세요."
+  },
+  {
+    "slug": "ix1",
+    "name": "BMW iX1",
+    "category": "전기차",
+    "tagline": "전기로 시작하는 일상형 SUV",
+    "description": "X1 계열의 공간과 전기 구동을 함께 살펴볼 모델입니다. 집과 직장의 충전 여건을 먼저 정리하고 평소 이동 경로를 기준으로 상담해 보세요.",
+    "variants": [
+      {
+        "id": "11hm",
+        "name": "BMW iX1 eDrive20",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/bmw-i/ix1/bmw-ix1.html",
+        "image": "/assets/models/11hm.webp",
+        "sideImage": "/assets/models/11hm-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKGQEMABNXTaAxgqO30WiyXq2FgXAXHXhKv6jQ%25o6x2YDafHAPjmqn1%25JHDyLOEfuiqTJIsDvyL3uBrq7TJdSeZLp6uzVMRJd9SkNh5uzTVA0ogSYINF4HvVxL0Kc%252ZpF4WxfjRN2cP81D6JAxbUEqYtN89GsLm7BUiprJyCMGw6ZuToPptYRS3nR67m5VmdxYCygNyc8mlTv0TfryX3243xZTQdjcdX13azDxzhJdnkikVdb65XYcrW672QfHW0%25AusbSucPrUtV5lkvL%25TFJgXanCrmoShtPo584GGwg6QuiVpRBnHJA0KEmrng3OYgM2SIRcPrUHO06H1b7GqNAzHHYMvv6OaiCXQU4GZIaoE5NF1NGnjZR65e6O0QOYCjo18Bc1QYlbz",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDAQixbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvH5X0Kc%252gKd4WxfjvCacP81D2GvxbUEqjpI89GsLx0bUiprJ8M9Gw6ZuUFKptYRSGwO67m5Vpt9YCygN6WsmlTv0YdUyX324uFlTQdjcSm43azDxKGCdnkq8WemzOALUPMrkIFJGbhRABKup9gaFeWS6i1SKMPVYPwdWhbNmb3zPo90y9jJbHi4Tidu9%25wc3wHDiftxdt5Gw17I7YwnKVHW3JQKM4%25jvQy2CpL9tk3aJkeYVo70U29lGNHf1hJPg65eOynqTMJFsyZLB9xDz%25VivtTXD3gXAahdC10trW3%255W94GZIHuLWWgAQQ53yxpYmrfZ7dyKilHS9HZTn7C5lk53%25m3gpnK9sz19mg64L"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "전기차가 처음이라면 차 이야기 전에 충전할 장소부터 여쭤보고 싶어요. 집과 직장에서 충전이 편한지가 일상의 만족에 큰 영향을 줍니다."
+  },
+  {
+    "slug": "ix2",
+    "name": "BMW iX2",
+    "category": "전기차",
+    "tagline": "전기 SUV, 또 다른 실루엣",
+    "description": "iX1과 함께 비교하면 차체 형태에 따른 차이를 살펴보기 좋습니다. 충전 환경과 뒷좌석 사용 빈도를 기준으로 나에게 맞는 구성을 확인하세요.",
+    "variants": [
+      {
+        "id": "71gn",
+        "name": "BMW iX2 eDrive20",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/bmw-i/ix2/bmw-ix2-overview.html",
+        "image": "/assets/models/71gn.webp",
+        "sideImage": "/assets/models/71gn-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG7bXABNXTaAxgqO30WiyXq2FgXAXHXhPv6jQ%25ohq2YDafHS6jmqn1%25JHDyLOEfuVqTJIs1SwL3uBrU1PJdSeZGjNuzVMRpzeSkNh56krVA0ogY9lNF4Hvmfx0Kc%252y1a4Wxfj0pUcP81D4VWxbUEqcbA89GsLx9NUiprJ8V%25Gw6ZuUhWptYRSGBb67m5VpW2YCygN6q3mlTv0Yz1yX324mlMTQdjcy9R3azDxTA6dnkq8NPazOALU06KkIFJG4hJABKupcoBFeWS6xkQKMPVY8AXWhbNmUIgPo90y76IbHi4TCDe9%25wc3lsciftxdXrWw178zQXGtECUka2L7slGAnMjCrXpF2z%25lZQ6KjkiXRaYWD9EQ5nmPqEEagOybLcnnvIT9JnxO2B3iuz6IjedweHhBDMztM5deqhk7hSGMLoACoA6hJHFlHQ3ou%25KX%25fPHSfWQfum%25V1Pa0MffNEbn4Yp10s9OcNhE4riIx0RscZwB84nrxRteXOKZ85J5aZq%25P4fBFj%25VicdTjO3gXAqQXBDFhSaP059C3svlb4x8NF1yQmSDyPMIooub%25cXJaHWp8TlgO2k1F8brUfbYiQGWBDFhTUO%25TzqVo7ngRTTfY99%25UxJN4chIoKGRy1Envzno8wKW%25P6%25gE8dfNwyzMpBzcf0qR",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUD36kxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvH5a0Kc%252g584Wxfjv6KcP81D2GvxbUEqjpY89GsLD6BUiprJkDaGw6ZuAcmptYRSFtZ67m5VK7JYCygNWOomlTv0PjdyX324bDfTQdjcyFk3azDxTYQdnkq83nCzOALUdOmkIFJGzY2ABKupk5QFeWS6ArnKMPVYFQ4WhbNmK8iPo90yWtDbHi4TPoR9%25wc3bOSiftxd9CKw178zmaftECUkyKX7slGAT5GCrXpF3grlZQ6Kd7%25XRaYWzCHQ5nmPksNagOybMKsnvIT9hxZO2B3ioL3IjedwHJQBDMzt%25HAeqhk7f4UMLoAC1RchJHFl4t2ou%25KXc7IHSfWQxOq%25V1Pa8qqfNEbnU3110s9OG1dE4riIptKscZwBZv5rxRteRVwZ857M56ARUgChgCK5Gvlov%25igp2XH2jav6jQ%25jpP2YDafyRjjmqn1TWFDyLOE3m5qTJIsdySL3uBrzT1JdSeZHEXuzVGVfu82aTjrlc2YI3w9cEiNHCLS5rxl56fayVOhiL0onTdzmlDb%25P6UE87sYlvAEKCpLetR3aJ9Ss4trb4gxmZNzOSFjr3PjLIoKGTXCjjbgccPrEeHf1FdKVZC29iTQLTKs8VNP05PXisqbH82LARzL1b%25IC"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "전기차도 디자인 취향을 충분히 따져보셔도 돼요. iX1과 함께 놓고, 더 마음에 드는 모습과 필요한 공간을 찾아보세요."
+  },
+  {
+    "slug": "ix3",
+    "name": "BMW iX3",
+    "category": "전기차",
+    "tagline": "새로운 전기 SUV 경험",
+    "description": "공식 라인업에 안내된 iX3 50 xDrive를 살펴보세요. 판매 사양과 시승·출고 일정은 상담 시점에 확인하고 충전 동선을 함께 계획해 보세요.",
+    "variants": [
+      {
+        "id": "31hr",
+        "name": "BMW iX3 50 xDrive",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/x-series/ix3/bmw-ix3.html",
+        "image": "/assets/models/31hr.webp",
+        "sideImage": "/assets/models/31hr-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25RIABNXTaAxgqO30WiyXq2FgXAXHhpcv6jQ%25oup2YDafHAPjmqn1%25JHDyLOEfuVqTJIs1lZL3uBrU0VJdSeZGjNuzVMRpzeSkNh56JaVA0ogY%25qNF4Hvm8y0Kc%252NGF4Wxfj0SKcP81D4JhxbUEqcBo89GsLxnKUiprJ8lLGw6ZuUimptYRSGww67m5VpKEYCygN6WYmlTv0JlwyX324uFlTQdjcSIM3azDxVBwdnkq8NqEzOALU03RkIFJGbxLABKup988FeWS6iynKMPVYwvOWhbNmtfkPo90y712bHi4TCW99%25wc3lC8iftxdRTJw178z7FWtECUkCu07slGAlKjCrXpFXsSlZQ6K5IiXRaYWg2BQ5nmPvRtagOyb25BnvIT9jgeO2B1BFO%25Cp5lb8oCrmg0VoWNekx%25AkbH8wsFpRBYdNaMz65v2Z8XSAusHSpiPttE6Cgk1F7Gq2VzeWhcX826njl6JmADGbH8wVjWCV4%25rt3KeIVVlJYYCjv1Z5gwPtUDPScFKM4Kt2yUGCpLCz1GGlZyS4iqb4glR%25I",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCIPxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHv5F30Kc%252gpF4WxfjvCacP81D2GvxbUEqjpY89GsLDouUiprJkyYGw6ZuAcmptYRSFtZ67m5VKGfYCygNW28mlTv0PzbyX324mAlTQdjcy6X3azDxTG5dnkq83rgzOALUd1XkIFJGzoUABKupkIPFeWS6ABBKMPVYFXqWhbNmKQWPo90yGoBbHi4Tplo9%25wc36sRiftxdYrBw178zm8qtECUkyiS7slGAndUCrXpFOzzlZQ6KIb1XRaYWB0EQ5nmPej7agOybMD4nvIT9hQOO2B3iohzIjedwS9GBDMztMlQeqhk7hpyMLoACoXchJHFlHL6ou%25KXVsIHSfWQN4r%25V1Pa0SefNEbn4Vr10s9OcNZE4rDrlE2hFVonzghJPNyYgQmZ7dfsBnvzBLlFSrWwmfRtKV04uzH6CpLjQ23aJzMxQUdqf9TINF1Ysa5Tn65evuOZ4Ws8onNpofPtUDVkdoo6eggpnQ97lX80UrO0h1SVAfVUa2rZpRBpL9ZZ672hfxI4fX6CPd"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "새 모델은 기대되는 기능과 실제 국내 적용 사양을 구분해서 보는 게 좋아요. 궁금한 기능을 알려주시면 확인할 항목부터 함께 정리하겠습니다."
+  },
+  {
+    "slug": "ix",
+    "name": "BMW iX",
+    "category": "전기차",
+    "tagline": "공간과 전기 주행을 함께",
+    "description": "전기 SUV에서 실내 경험을 중요하게 본다면 iX를 비교해 보세요. 공식 라인업의 xDrive60과 M70 xDrive, 금융 안내의 예시 트림은 서로 다를 수 있습니다.",
+    "variants": [
+      {
+        "id": "51cf",
+        "name": "BMW iX xDrive60",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/bmw-i/ix/bmw-ix.html",
+        "image": "/assets/models/51cf.webp",
+        "sideImage": "/assets/models/51cf-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZq0zOSFbZWHkJEKG%259ZABNXTaAxgqO30WiyXq2FgXAXHhDMv6jQ%25oqJ2YDafHLEjmqn1%25JjDyLOExguqTJIs8vWL3uBrU3IJdSeZGg3uzVMRpLYSkNh561zVA0ogS8hNF4HvVJA0Kc%252NuQ4Wxfj0W2cP81D4JlxbUEqctO89GsLxgsUiprJ8RBGw6ZuUyqptYRSGTp67m5VptIYCygN6WsmlTv0YdUyX324uFlTQdjcSUk3azDxVBDdnkq8NeuzOALU0MOkIFJG4d7ABKupczgFeWS6xnRKMPVYw%25VWhbNmtfkPo90y71jbHi4TCqR9%25wc3lrFiftxdXlUw178zQvqtECUkae27slGAvdHCrXpFXOalZQ6KQfpXRaYWa2NQ5nmPnm4agOybOiGnvIT9IBdO2B3iBvxIjedwq2XBDMztLjoeqhk7JDUMLoACP8mhJHRH9hrnTDO7YEnvzqUxEw8%25P6rbP7sYXg9TjHdK8efW3DLJ2YIcb4gscTltQQ53nqPR9ayVJxW%25w1pIYJ3MuO30zbSy7sYXxuwnxGrvQFi%25oExTKAdnuLR2DqXtQmS0cLDifGiQJkmynTNnWuyTO2kcGlV7GqOjro",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25R4Ws86OG7c1QUDCYOxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHv5xR0Kc%252g8G4WxfjvUqcP81D2GcxbUEqdNp89GsLz0QUiprJkisGw6ZuANiptYRSFUW67m5VKDtYCygN6z5mlTv0YGCyX324mp%25TQdjcyQ43azDxTGodnkq83eEzOALUdNLkIFJGzSrABKupkb8FeWS6A9FKMPVYFesWhbNmKQLPo90yWwkbHi4Tplo9%25wc36k7iftxdYrxw178zmZptECUkyRE7slGATwMCrXpF3tNlZQ6Kd1SXRaYWB2YQ5nmPej7agOybMDcnvIT9h8SO2B3ioJlIjedwHokBDMzt%2508eqhk7fZ4MLoAC0wvhJHFlHEfou%25KX%25jFHSfWQf4m%25V1Pa1PTfNEbnEIA10s9OsrwE4riIr0dscZwB84HrxRteUcgZ857MGxkRUgChazP5GvSvO5J19xEMWq10t8kdqBz2aKZgHMLWHNO9cvwXzZjQixUG4Ws3nTNuBJFe0Wf6BmKVZCAo89RdgeDAM3D%25L4h2GwgYEM8TEZtQmSxPKiEjVuqTMBCaOIYUmvh%251BOxbZxmeJv2TjHTNM2j3aJ1Z6oGZI3ntK"
+      },
+      {
+        "id": "61cf",
+        "name": "BMW iX M70 xDrive",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/ix-m70/bmw-ix-m70.html",
+        "image": "/assets/models/61cf.webp",
+        "sideImage": "/assets/models/61cf-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZq0zOSFbZWHkJEKG%25XQABNXTaAxgqO30WiyXq2FgXAXHhDMv6jQ%25oqJ2YDafHLEjmqn1%25JjDyLOExguqTJIs8vWL3uBrU5TJdSeZGq6uzVMRpfeSkNh56HlVA0ogS8hNF4HvVJA0Kc%252NuQ4Wxfj0W2cP81D4JlxbUEqctO89GsLxgsUiprJ8RBGw6ZuUyqptYRSGTp67m5VptIYCygN6WsmlTv0YdUyX324uFlTQdjcSUk3azDxVBDdnkq8NeuzOALU0MOkIFJG4d7ABKupczgFeWS6xnRKMPVYw%25VWhbNmtfkPo90y71jbHi4TCqR9%25wc3lrFiftxdXlUw178zQvqtECUkae27slGAvdHCrXpFXOalZQ6KQfpXRaYWa2NQ5nmPnm4agOybOiGnvIT9IBdO2B3iBvxIjedwq2XBDMztLjoeqhk7JDUMLoACuqwhJHFlbRFoub0TmvayRCzjlCO2keJXKVZPty157WN4cSk%25Yl6J2YKBnMMLWo0CqXhFUcm7Ragd%25kcWExHWpbl8FO2kemxaom3juMwQRrvmKtiPox4qSN0enMA8CY4NQ53QMc9AFoKGo7XHZHS9Y3BUO30HVjr",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25R4Ws86OG7c1QUDCkAxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHv5xR0Kc%252g8G4WxfjvUqcP81D2GcxbUEqdNp89GsLz0QUiprJkV9Gw6ZuA8KptYRSFjZ67m5VKvoYCygN6z5mlTv0YGCyX324mp%25TQdjcyQ43azDxTGodnkq83eEzOALUdNLkIFJGzSrABKupkb8FeWS6A9FKMPVYFesWhbNmKQLPo90yWwkbHi4Tplo9%25wc36k7iftxdYrxw178zmZptECUkyRE7slGATwMCrXpF3tNlZQ6Kd1SXRaYWB2YQ5nmPej7agOybMDcnvIT9h8SO2B3ioJlIjedwHokBDMzt%2508eqhk7fZ4MLoAC0wvhJHFlHEfou%25KX%25jFHSfWQf4m%25V1Pa1PTfNEbnEIA10s9OsrwE4riIr0dscZwB84HrxRteUcgZ857MGxkRUgChp8B5GvlonSlgpny9P0fbShtDJZE47ZGHXYuaebDVMQmT3672WoKGxfcw1p75zfAtUDIiryXqPJ1NiEWNR46sS3aJkvEyKvDnMA8mCtQvVUx0KEfIhH%25kTAuspgfHmlDmA1cuSKVZKGYW7WhcgDzr3D%25Wont"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "전기 SUV를 고르실 때는 주행거리 숫자만 보지 않으셨으면 해요. 가족의 자리와 자주 떠나는 경로, 충전 계획까지 같이 봐드릴게요.",
+    "additionalVariants": [
+      {
+        "name": "BMW iX xDrive45 M 스포츠",
+        "fuel": "순수 전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/bmw-i/ix/bmw-ix.html",
+        "note": "xDrive60·M70과 함께 비교할 순수 전기 구성",
+        "checkedAt": "2026-09-30",
+        "sourcePeriod": "BMW 공식 모델 안내"
+      }
+    ]
+  },
+  {
+    "slug": "i4",
+    "name": "BMW i4 그란 쿠페",
+    "category": "전기차",
+    "tagline": "그란 쿠페 형태의 전기차",
+    "description": "내연기관 그란 쿠페와 전기차 사이에서 고민한다면 i4를 살펴보세요. 충전 여건을 확인한 뒤 뒷좌석과 트렁크 활용성을 함께 비교해 보세요.",
+    "variants": [
+      {
+        "id": "61hd",
+        "name": "BMW i4 eDrive40 그란 쿠페",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/bmw-i/i4/bmw-i4-gran-coupe.html",
+        "image": "/assets/models/61hd.webp",
+        "sideImage": "/assets/models/61hd-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25IMABNXTaAxgqO30WiyXq2FgXAXHhzKv6jQ%25oqh2YDafHLVjmqn1c5JDyLOExynqTJIs8UeL3uBrq0PJdSeZLjYuzVMRJDdSkNh5upzVA0ogS7qNF4HvVCt0Kc%252Nrd4Wxfj0T4cP81D5PAxbUEqgup89GsLv7sUiprJ2C5Gw6ZuTNPptYRS3Aw67m5Vd%259YCygNzd2mlTv0kPeyX324BVwTQdjcett3azDxMsddnkikVdb65XYcrW672QfHW0%25AusbSucPrUtV5lkvL%25TFJgXanCrmoShtPo584GGwg6QuiVpRBnHJA0KEmrng3OYgM2SIRcPrUHO06H1b7GqNAzHHYMvv6OaiCXQU4GZIuoE8NF1NGnjZR65e6Ary%25YCjo18Bc1QYlbz",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCPixbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHv5tX0Kc%252g854WxfjvUYcP81D3VGxbUEqdb189GsLzkZUiprJ8yaGw6ZuUcWptYRSGxw67m5VpFtYCygN6M8mlTv0YheyX324mJwTQdjcy9T3azDxVaCdnkq8NpFzOALU0MLkIFJG4hVABKup9maFeWS6iCBKMPVYw2OWhbNmtw4Po90y7aZbHi4TrYB9%25wc3ZeeiftxdRLww17I7YwnKVHW3JQKM4%25jvQy2CpL9tk3aJkeYVo70U29lGNHf1hJPg65eOynqTMJFsyZLB9xDz%25VivtTXD3gXAahdC10trW3%255W94GZIHuLWWgAQQ53yxpYmrfZ7dMKisHS9HZTn7C5lk5ut2PgpnK9sz19mg64L"
+      },
+      {
+        "id": "71hd",
+        "name": "BMW i4 M60 xDrive 그란 쿠페",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-i4-m60/bmw-i4-m60-xdrive-gran-coupe.html",
+        "image": "/assets/models/71hd.webp",
+        "sideImage": "/assets/models/71hd-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG1xZABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9n2YDafHS6jmqn1%25JHDyLOEfuVqTJIs1SwL3uBrEVcJdSeZGjNuzVMRpWbSkNh5uxiVA0ogSLkNF4HvVF30Kc%252NKJ4Wxfj0LMcP81D4TWxbUEqcaX89GsLxnKUiprJ8UFGw6ZuUinptYRSGFP67m5VpKEYCygN6WYmlTv0YdUyX324uXtTQdjcSKX3azDxVGAdnkq8NeqzOALU0M9kIFJG4hIABKupcolFeWS6xkRKMPVY8A6WhbNmUFQPo90yGBvbHi4TCao9%25wc3lsciftxdXrWw178zQZJtECUkaS27slGAna6CrXpFODulZQ6KIoqXRaYWBOAQ5nmPqFaagOybLwrnvIT9JrrO2B3iu8IIjedweHhBDMztM5deqhk7hSGMLoACoA6hJHFlHQ3ou%25KX%25fPHSfWQfum%25V1Pa1S%25fNEbnEGR10s9OspLE4riICyiscZqZXsjoKNHOkvoub0TmvayRCzjlCO2keJXKVZPty157WN4cSk%25Yl6J2YKBnMMLWo0CqXhFUcm7Ragd%25kcWExHWpbl8FO2kemxaom3juMwQRrmmHpPPox4qSN0enMA8rYdBQ53QMc9AFoKGoUDiFHS9Y3BUO30HVjr",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDXvOxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25O14Wxfjv6KcP81D2GvxbUEqjpY89GsLD6BUiprJqY3Gw6ZuAcmptYRSFQn67m5VpdIYCygN6U7mlTv0YliyX324mXGTQdjcyUR3azDxT9Qdnkq83fHzOALUd1XkIFJGzklABKupkI1FeWS6AlaKMPVYFXqWhbNmKQWPo90yWwkbHi4TpHe9%25wc36XHiftxdYACw178zmZ8tECUkyRO7slGAT5sCrXpF3golZQ6Kd7SXRaYWzCKQ5nmPkl%25agOybAr0nvIT9hfgO2B3ioL3IjedwHJQBDMzt%25uGeqhk7f64MLoAC1fKhJHFlExpou%25KXsg8HSfWQrEC%25V1Pa8lffNEbnUBJ10s9OGJJE4riIpzsscZwBZv5rxRteRVwZ857M56ARUgChgCK5Gvlov%25igp2XH2jav6jQ%25jpP2YDafD62jmqn1qASDyLOELFUqTJIshbIL3u8uHLcgXmvE70gpny9P0fbShtDJZE47ZGHXYuaebDVMQmT3672WoKGxfcw1p75zfAtUDIiryXqPJ1NiEWNR46sS3aJkvEyKvDnMA8mCtvvWR00KEfIhH%25kTAustgqzmlDmA1cuSKVZKrOxSWhcgDzr3D%25Wont"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "드라빗 그레이가 적용된 i4는 색상부터 눈여겨보게 됩니다. 저는 이 컬러가 한정 에디션의 매력 중 하나라고 생각해요.",
+    "advisorCommentSource": {
+      "type": "video-editorial",
+      "time": "05:26–05:36",
+      "label": "백경재 대리의 모델 안내 영상에서 정리",
+      "reviewedAt": "2026-09-30"
+    }
+  },
+  {
+    "slug": "i5",
+    "name": "BMW i5",
+    "category": "전기차",
+    "tagline": "5시리즈와 함께 비교할 전기 세단",
+    "description": "5시리즈의 차체 구성이 마음에 들고 충전이 가능한 환경이라면 i5를 함께 살펴보세요. 이동 거리와 충전 동선을 정리하면 선택이 쉬워집니다.",
+    "variants": [
+      {
+        "id": "61hg",
+        "name": "BMW i5 eDrive40",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/bmw-i/i5/bmw-i5-overview.html",
+        "image": "/assets/models/61hg.webp",
+        "sideImage": "/assets/models/61hg-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%259gABNXTaAxgqO30WiyXq2FgXAXHhMDv6jQ%25oup2YDafHLojmqn1%25JnDyLOEx%25dqTJIs8vSL3uBrUGPJdSeZL4NuzVMRJDdSkNh5ukAVA0ogSjwNF4HvVDB0Kc%252NmF4Wxfj0ZacP81D4WlxbUEqcdo89GsLx6NUiprJ2T9Gw6ZujNmptYRSDXF67m5VqQOYCygNLpWmlTv0JwHyX324AO2TQdjcFI63azDxKBsdnkq8WZHzOALUPWukIFJGbfrABKupK9PFeWS6WauKMPVYP%25gWhbNmbN2Po90y93JbHi4Tiwx9%25wc3wHDiftxdt53w178z6ITtECBCmtOWN%25PduaWhcfD2aTjl6JOY6dnuAMmNHC4GjiXp0%251EoubvYgMnvNk3FFe0Wf6BmKVZE2plTQLbuE0wsP05cYrVdnuA2sTW2qOhFUyl722P544Ws1Bo%25fA3FSr6vLXyXqyFExSVWNRWlz9jPoxvqkZdqfPHO7",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYexbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHv5Rx0Kc%252gpF4WxfjvUgcP81D2G1xbUEqd2w89GsLz06UiprJkAaGw6ZuUTmptYRSGxw67m5Vp7CYCygN6cBmlTv0YxryX324mPlTQdjcyuf3azDxTQodnkq83wgzOALUdKmkIFJG49OABKupcmPFeWS6xHlKMPVY8%25EWhbNmUFQPo90yGBvbHi4TCE49%25wc3lsKiftxdXrLw178zQuvtECUkaQp7slGAnjJCrXpFXOalZQ6KQfpXRaYWa2NQ5nmPnm4agOybOiGnvIT9IBdO2B3iBvxIjedweViBDMztKs9eqhrhPeEQm2awpfQ53jx4f9coKGIMCw1pCRPmvhTAcIHFy2Dqgpn0WNRs9EUi5pXJ9SGZIz87jmB4Mi%258w0%25l1gtoqTMuawjNaI3FSr26Gaa0lffNw9zKPbuDSht5QBY2YI2SiEhoNHCN6Lcn0KEQIJ7qIb0W3G"
+      },
+      {
+        "id": "41hg",
+        "name": "BMW i5 M60 xDrive",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-i5-m60/bmw-i5-m60xdrive-overview.html",
+        "image": "/assets/models/41hg.webp",
+        "sideImage": "/assets/models/41hg-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25XOABNXTaAxgqO30WiyXq2FgXAXHhJGv6jQ%25okW2YDafHLojmqn1%25JnDyLOEfutqTJIs8NSL3uBrU1kJdSeZGjNuzVMRpLQSkNh56YkVA0ogY%25cNF4HvmfQ0Kc%252NG84Wxfj0pUcP81D4vixbUEqcNA89GsLx0bUiprJ8ioGw6ZuUNnptYRSG0167m5VpFtYCygN6a3mlTv0YOFyX324m9qTQdjcyuf3azDxTF0dnkq83aFzOALUdn%25kIFJGz7MABKupkCjFeWS6AlFKMPVYF9dWhbNmU3iPo90yG1obHi4TpEE9%25wc36PLiftxdXAhw178zQZPtECUkaRJ7slGAn5SCrXpFONflZQ6KI04XRaYWBjEQ5nmPeBTagOybMu0nvIT9h1SO2B3ioETIjedwSbRBDMztV9zeqhk7NggMLoAC06hhJHFl4W3ou%25KX%25a8HSfWQfum%25V1Pa0SefNEbn4Vr10s9OcNQE4rDrlE2hFVonzghJPNyYgQmZ7d2C7nvzBLlFSrWwmfRtKV04uzH6CpLv6FIaeeqKhN7DlMA84YtZQ53Hz4K1coKGPCxAnvzBYcQhYT2JeiXZsYYoGWWhc0DuVNBaekxW63RXRTXe4bkAhFUhZR%25moub6TI8nTNoS2s",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCkWxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHv5GA0Kc%252g7Q4WxfjvUgcP81D2G1xbUEqjpe89GsLzm6UiprJkD7Gw6ZuAcmptYRSFU%2567m5VKW7YCygNW23mlTv0Pj%25yX324mAzTQdjcyFk3azDxT0Idnkq83mCzOALUdynkIFJGzIgABKupkm1FeWS6AyDKMPVYFleWhbNmKfiPo90yWElbHi4TPO89%25wc3bpjiftxd9lyw178zifltECUkw127slGAtMRCrXpF7hclZQ6KColXRaYWlOwQ5nmPkiIagOybADgnvIT9FqqO2B3iKaUIjedwHC5BDMzt%25uaeqhk7fSGMLoAC1V6hJHFlEmjou%25KXsyTHSfWQrcq%25V1PaZr9fNEbnRpy10s9O5D6E4riIgq9scZwB6nSrxRteYOtZ857MmNNRUgChyK55GvloTQigp2XH2fzv6jQ%25jpP2YDafy6Zjmqn1TYJDyLOE3m%25qTJxJoq45lYg1tN5GambWN%25PuMwjLr10trUol6JQBPjSeXYyTptvKhFUc%254ifGtRd%25kw8jO9smlDWLfV91KVZ0pEuTQLzg1mFgjaekxY7wggKZNNF1%25OMoHzykJEN5DCYCjYkf4JuFSrF7CPvKM45jdsTjHKhaw"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "5시리즈와 고민하신다면 한 달 주행거리와 충전할 장소부터 알려주세요. 두 차의 견적을 같은 조건으로 놓고 보는 게 선택에 도움이 됩니다."
+  },
+  {
+    "slug": "i7",
+    "name": "BMW i7",
+    "category": "전기차",
+    "tagline": "전기 세단에서 만나는 여유",
+    "description": "동승자의 실내 경험과 전기 구동을 함께 살펴볼 모델입니다. 실제 사용하는 좌석과 주차·충전 장소를 기준으로 편의 사양을 확인해 보세요.",
+    "variants": [
+      {
+        "id": "51ej",
+        "name": "BMW i7 xDrive60",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/bmw-i/i7/bmw-i7-limousine.html",
+        "image": "/assets/models/51ej.webp",
+        "sideImage": "/assets/models/51ej-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%259rABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIiGiscZwBOn5rxRteIgOZ857MBv7RUgChe2H5GvloMjVgp2XHNLDv6jQ%2506X2YDaf4STjmqn1cr3DyLOExtVqTJIs8jEL3uBrUDpJdSeZL4BuzVMRJsFSkNh5uqzVA0ogSA8NF4HvVDt0Kc%252Nqz4Wxfj0zccP81D4knxbUEqctp89GsLxCKUiprJ8lGGw6ZuUXdptYRSGQu67m5VpD5YCygN6dYmlTv0YCayX324mlvTQdjcy9R3azDxTA6dnkq8NPazOALU0MOkIFJG4d7ABKupczgFeWS6iHSKMPVYw%25zWhbNmtf2Po90y7DZbHi4TCsA9%25wc3lr9iftxdXlUw178zQvqtECUkae27slGAvdHCrXpF2V5lZQ6KjmpXRaYWaBOQ5nmPnEYagOybOD4nvIT9ITxO2B3iBt6IjedweMkBDMztMjUeqhk7JnMMLoACu8chJHFlSLOou%25KXVJ1HSfWQiCX%25VicdTjO3gXAqQXBDFhSaP059C3svlb4x8NF1yQmSDyPMIooub%25cXJaHWp8TlgO2k1F8brUfbYiQGWBDFhTUO%25TzqVo7ngRjTpC19%25UxJN4chIoKGYyWHnvzno8wKW%25P6%25XUf5fNwyzMpBzcf0qR",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYnxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsIAIL3uBrE1VJdSeZsNEuzVMRr0MSkNh5Z4vVA0ogRcYNF4HvmUx0Kc%252yKH4WxfjT69cP81D3JixbUEqdeY89GsLzcqUiprJkxFGw6ZuUTrptYRSGLl67m5Vp8tYCygN6CzmlTv0YxeyX324m8tTQdjcyt33azDxT71dnkq83eFzOALUdhXkIFJGzoAABKupkHwFeWS6A%25pKMPVYFxVWhbNmKwWPo90yWhfbHi4TPo09%25wc3bOSiftxd9CKw178zmaftECUkyRE7slGATwMCrXpF3tNlZQ6KIv6XRaYWB2tQ5nmPej4agOybMxunvIT9hLCO2B3ioJOIjedwHokBDMzt%2508eqhk7fZ4MLoAC0wvhJHFl4YVou%25KXcPFHSfWQfrE%25V1Pa1qWfNEbnExT10s9Os9dE4riIreKscZwBZR7rxRteRckZ857MG1RRUgChpz35Gvlo6UEgp2XHYGDv6jQ%25IhH2YI3w9cEiNHCLS5rxl56fayVOhiL0onTdzmlDb%25P6UE87sYlvAEKCpLetR3aJ9Ss4trb4gxmZNzOSFjr3PjLIoKGTXCnjRp9cPrEeHf1FdKVZg2NWTQLTKs8VNP05PYrblbH82LARzL1b%25IC"
+      },
+      {
+        "id": "81eh",
+        "name": "BMW i7 M70 xDrive",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/i7-m70/bmw-7-series-m-automobiles-overview.html",
+        "image": "/assets/models/81eh.webp",
+        "sideImage": "/assets/models/81eh-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKGIt%25ABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikascZwBwp%25rxRteIyzZ857MBvIRUgChe2C5GvloMj%25gp2XHhDNv6jQ%250Jq2YDaf4o7jmqn1cr3DyLOExtVqTJIs8jEL3uBrUMPJdSeZGhFuzVMRJceSkNh5urKVA0ogSLTNF4HvVJA0Kc%252NK54Wxfj0LCcP81D4JAxbUEqcA889GsLxFIUiprJ8CYGw6ZuUXPptYRSGQ667m5VpakYCygN6nVmlTv0YLvyX324mlzTQdjcyXh3azDxTQIdnkq83aDzOALUdtekIFJGz7LABKupkCjFeWS6Ab3KMPVY8%25MWhbNmUfjPo90yGKDbHi4TCze9%25wc3lsKiftxdXrqw178zQZJtECUkaSH7slGAngbCrXpFOvClZQ6KIOmXRaYWBLVQ5nmPe%25JagOybMfmnvIT9JWrO2B3iu7RIjedwSRRBDMztVAdeqhk7NFDMLoAC0KThJHFl4Wrou%25KXcaFHSfWQfxY%25V1Pa1SyfNEbn4Hy10s9Oc%25QE4riIxfiscZwB81vrxRteUc%25Z857MGxvRUgChp8B5GambWN%25PuMw4hM10trUol6JQBPjSeXYyTptvKhFU0KlsfZZ8X5mMxoRCzTWeu%25VivtTXD3gXAahdC10trW3%255W94GZIHuLNWzBvQ53yxpYmrfZ7dOKCaHS9HZTn7C5lk5M32PgpnK9sz19mg64L",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDPTCxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7fL3uBrBF2JdSeZsbtuzVMRr0sSkNh5Z4hVA0ogRc2NF4Hv5xm0Kc%252yG84WxfjTgMcP81D3JixbUEqdeY89GsLzcqUiprJkRaGw6ZuA5lptYRSG3Z67m5VpJXYCygN6U9mlTv0YGCyX324mXVTQdjcyUh3azDxTGCdnkq83CzzOALUdlskIFJGzhWABKupkHaFeWS6A%25KKMPVYFf7WhbNmK1YPo90yWU0bHi4TPot9%25wc3bH5iftxd9%25sw178zifxtECUkweZ7slGAtMUCrXpF7hclZQ6KCniXRaYWz2RQ5nmPkjcagOybAXxnvIT9htZO2B3ioLXIjedwHJ8BDMzt%25uGeqhk7f6vMLoAC1NnhJHFlE0hou%25KXsEPHSfWQrUY%25V1PaZ2GfNEbnRjP10s9OGQJE4riIpMSscZwB6SSrxRteYCwZ857MmlxRUgChyX95GvloTQJgp2XH3flv6jQ%25jdW2YDafD6bjmqn1TvbDyLOE32%25qTJIsdjIL3uBrzD0JdSeZk32uzVMRAd0SkNh5FzrVAfPnQm2apRBcUJDyeJkgoKG%25rac6ZHWb9Fe0X5lk32TIjAeSw27BzcEOLPoxQUjYODXYuyFqp9%25UtNDPlNcfZ7dWMBHNLzQmlD2ERgvtb7Gq3VpyWhcW7jTGpl6JlADa0XRTVcwL9cvX5fB"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "함께 타는 분이 어떤 편안함을 원하는지부터 듣고 싶어요. 전기차의 특성과 뒷좌석 사용 방식을 같이 정리해 보면 좋겠습니다."
+  },
+  {
+    "slug": "i3",
+    "name": "BMW i3 세단",
+    "category": "전기차",
+    "tagline": "공식 공개 정보를 먼저 확인하세요",
+    "description": "BMW 공식 라인업에 소개된 i3 세단입니다. 국내 판매 사양과 가격, 주문·출고 일정은 확정 정보로 안내하지 않으며 공식 발표와 상담을 통해 확인합니다.",
+    "variants": [
+      {
+        "id": "51jb",
+        "name": "BMW i3 50 xDrive 세단",
+        "fuel": "전기",
+        "source": "https://www.bmw.co.kr/ko/all-models/3-series/sedan/bmw-i3-sedan.html",
+        "image": "/assets/models/51jb.webp",
+        "sideImage": "/assets/models/51jb-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25t2ABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIn4uscZwBO24rxRteIyzZ857MBvIRUgChe2D5GvloMjKgp2XHhifv6jQ%250Jq2YDaf4oTjmqn1cmaDyLOEx27qTJIs8egL3uBrUTJJdSeZL43uzVMRJDdSkNh5utTVA0ogSb5NF4HvVAx0Kc%252NF44Wxfj0T9cP81D43cxbUEqgbF89GsLvybUiprJ2CQGw6ZujZqptYRSDUW67m5VqG%25YCygNLS8mlTv0kSgyX324AVVTQdjcFU73azDxKsCdnkq8WemzOALUPMrkIFJGbdAABKup9boFeWS6fGvKMPVYPTdWhbNmb2LPo90y%25hkbHi4Tfot9%25UsJqIzLayVeTyABNWH3c1Q8YL7nmxErZfNwDTjHBDcKkPPox9syh3b4gZqmazOSwNZxCRix2UT54ABNWqRz9que%25P6daXqqUYw89RrhfEsWkP052Dd0dnudPZG049cv9mh44ifGDuKgAusi1eX",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCThxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIs1TpL3uBrE4TJdSeZsbtuzVMRr0sSkNh5Z4xVA0ogRcXNF4Hv5Ij0Kc%252yG84WxfjTg9cP81D3PfxbUEqd4M89GsLzZNUiprJk9GGw6ZuUTiptYRSGxw67m5Vpe9YCygN6nVmlTv0YCdyX324mlTTQdjcy9O3azDxTi3dnkq8NnlzOALU0bnkIFJG4h%25ABKupcu8FeWS6xkQKMPVY8A2WhbNmU6zPo90y76NbHi4TCYY9%25wc3lkMiftxdXLhw178zQZPtECUkaRJ7slGAnwCCrXpFOnglZQ6KjA0XRaYWa9wQ5nmPn4UagOyb257nvIT9jgeO2kLG8stUfbYMHQCrmQvi3D%25zWUM1PdqJujmBx9cvRtZ672mnVt0YgMFpXL3h8H7EpCxEarjlfuzHNICLcIMkP05qyYIIrg8scCtFbiwNJ0%25laOq%25qTMq07Z%25fc1QcvFffxbZOMVXuMwx9kY"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "공식 공개 모델 · 판매 일정 확인",
+    "advisorComment": "새 모델 소식은 설레지만 국내 판매 일정과 사양은 따로 확인이 필요해요. 궁금한 점을 남겨주시면 확인된 정보부터 차근차근 안내해 드릴게요."
+  },
+  {
+    "slug": "m2",
+    "name": "BMW M2 쿠페",
+    "category": "M",
+    "tagline": "작은 쿠페에서 만나는 M",
+    "description": "운전 경험을 중심으로 차를 고른다면 M2와 M240i 쿠페를 함께 비교해 보세요. 일상 주행에서의 승차감과 뒷좌석 사용도 확인할 포인트입니다.",
+    "variants": [
+      {
+        "id": "21dm",
+        "name": "BMW M2 쿠페",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-2-series-m-models/bmw-m2-coupe.html",
+        "image": "/assets/models/21dm.webp",
+        "sideImage": "/assets/models/21dm-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%2595ABNXTaAxgqO30WiyXq2FgXAXHXbgv6jQ%25Qnh2YDafaUVjmqn1%25VYDyLOEfmpqTJIs1yfL3uBrEV1JdSeZsNeuzVMRr0CSkNh56q4VA0ogS8oNF4HvVJA0Kc%252NKd4Wxfj0WucP81D4PnxbUEqcuo89GsLxdbUiprJ8OaGw6ZuUIPptYRSGKv67m5Vp38YCygN6BQmlTv0YPmyX324uXtTQdjcSKX3azDxVGAdnkq8NeqzOALU0MtkIFJG4hCABKupczZFeWS6xkSKMPVY8AgWhbNmUFYPo90yGKabHi4TCao9%25wc3lsciftxdXrWw178zQZJtECUkaS27slGAna6CrXpFODulZQ6KIoqXRaYWBOAQ5nmPqFIagOybLssnvIT9JxOO2B3iBoMIjedweR3BDMztMuUeqhk7hNlMLoACoXThJHFlH%25Wou%25KX%25JYHSfWQf8r%25V1Pa1UQfNEbnt3X10sjsC1vMAShad5MLWVm65XYrt3v7tagdIqCAusKiY%25ZwFSN0Jdop7GqgpAOQBBDFMVtjCekx06wrXRTod0Ff4hFUW7ckagdI64XM6yvLB9lrE66hUKKM4NjJSVIQBzc6ptAlZylB0PzkMA8Mx2K7hJPpyOxayVhuvE",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYBxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnN0Kc%252%25154WxfjfkYcP81D2YWxbUEqjPF89GsLDbjUiprJqYDGw6ZuLmZptYRSJyh67m5VK8TYCygN6zgmlTv0YGCyX324mXwTQdjcyQp3azDxTa1dnkq83pgzOALUdwnkIFJGzEfABKupksaFeWS6AX0KMPVYFizWhbNmKr%25Po90yWaPbHi4TpHe9%25wc36XHiftxdYACw178zmZ8tECUkyRe7slGAT5hCrXpF3tulZQ6Kd76XRaYWzCNQ5nmPklWagOybAXfnvIT9hfgO2B3ioL3IjedwHJQBDMzt%25uGeqhk7f64MLoAC1fKhJHFlExpou%25KXsg8HSfWQrEC%25V1Pa8lsfNEbnULL10s9OGdEE4riIrgRscZwBZSirxRteRpkZ857M5moRUgChgH95Gvlov2Qgp2XH2GWv6jQ%25jzJ2YDafDk%25jmqn1eiHDyLcLhD0RC65fwVRUQYPKVHWJei2qsfNws8hCpLXIW2uBl6myGwgFMA84H09%25UwZ3Hzix2nbEYCjKq%25SbfFSrNG1JyXqd5fYA52QBzc6ti55FrVVAfHnehodmzL15RUu6726z%250LJAusAEaVGFe0R23Ey2oFMQi"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "작은 쿠페로 진한 드라이빙을 즐기고 싶다면 살펴보세요. 매일 탈 차인지, 주말에 즐길 차인지에 따라 확인할 점도 달라집니다."
+  },
+  {
+    "slug": "m3",
+    "name": "BMW M3 세단",
+    "category": "M",
+    "tagline": "세단의 일상과 M의 주행",
+    "description": "네 개의 문이 필요한 생활에서 M 모델을 찾는 분께 비교할 선택지입니다. 주행 성격뿐 아니라 가족 동승과 일상 사용 환경도 함께 살펴보세요.",
+    "variants": [
+      {
+        "id": "31hj",
+        "name": "BMW M3 컴페티션 M xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-3-series-m-models/bmw-m3-sedan.html",
+        "image": "/assets/models/31hj.webp",
+        "sideImage": "/assets/models/31hj-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKHIExABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q5P2YDafaOojmqn1ncUDyLOEfyGqTJIs10yL3uBrETYJdSeZsNEuzVMRr0CSkNh56x4VA0ogYZWNF4HvmJx0Kc%252ywQ4WxfjTE9cP81D3sOxbUEqcNP89GsLx9FUiprJ8i0Gw6ZuUNfptYRSGAR67m5VpeIYCygN6MimlTv0YbDyX324mD2TQdjcyA63azDxTi7dnkq8NnlzOALU0bXkIFJG49OABKupcmPFeWS6xHSKMPVY8%257WhbNmUfQPo90yG1nbHi4TpW29%25wc36PciftxdYbew178zQFotECUkaB17slGAn59CrXpFOgSlZQ6KIvNXRaYWB4EQ5nmPecxagOybMe3nvIT9hS4O2B3ioEVIjedwHhbBDMztV9zeqhk7NggMLoAC06hhJHFl4W3ou%25KXcPBHSfWQfrB%25V1Pa1IefNEbnE3A10s9OsGTE4riIreYscZwBZMWrxRteRckZ8X6WFSoKLB9NeB%25ViExM7GqlOKvJICpYmUi5AekxVA71HsscCZ6B4Mrt3mFILoub5imC2yRCzXeTt%25ViEFyoZFPN8snhLDFFRzllZyY4Up6EHswTHAbrhJPhsmQwtZ7dZUugKRUQAP13%25P6RGND",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QU7PQvxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25Va4WxfjfEgcP81D13kxbUEqjbA89GsLDybUiprJq9WGw6ZuLmqptYRSJyh67m5VKdTYCygNWuQmlTv0PGdyX324bB%25TQdjc9qO3azDxiLEdnkq83mazOALUdOlkIFJGzIyABKupkmjFeWS6ACSKMPVYFZsWhbNmKRIPo90yWnxbHi4TPx49%25wc3bCKiftxd9IMw178zm1otECUkynH7slGATOECrXpF3PalZQ6Kdv6XRaYWz2MQ5nmPkj%25agOybAD1nvIT9FQ4O2B3iKa3IjedwWnZBDMzt%25lgeqhk7frDMLoAC1VOhJHFlEN6ou%25KXs0mHSfWQrTq%25V1PaZ3dfNEbnRZi10s9O56TE4riIgqYscZwBv5nrxRteYOtZ857MmNNRUgChyK55GvloTQigp2XH3arv6jQ%25jJr2YDafDsZjmqn1qiCDyLOELA9qTJIsJZWL3uBruRQJdSeZS37uzHKQl6gXUrO0xq2YIqdRMA8oEX0GshFWPkIVCZ7dygmnvzIJ9gwO30faDKM4lxvpa2CpLYkjUPoxiS2K7S0HswTFBOSSCL6672gfrR5iWw8jWu4tFe0Fwvm8U7Gq7rMXVCrmu09DP05CZHO"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "M을 일상에서도 타고 싶다면 평소 이동 경로를 알려주세요. 원하는 주행 느낌과 동승자의 편안함을 함께 비교해 보면 좋겠어요."
+  },
+  {
+    "slug": "m3-touring",
+    "name": "BMW M3 투어링",
+    "category": "M",
+    "tagline": "적재공간까지 챙긴 M",
+    "description": "스포츠 주행과 짐을 싣는 생활을 함께 생각한다면 투어링을 비교해 보세요. M3 세단·M340i 투어링과 어떤 차이가 필요한지 정리해 보세요.",
+    "variants": [
+      {
+        "id": "21gb",
+        "name": "BMW M3 컴페티션 투어링 M xDrive",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-3-series-m-models/bmw-m3-touring.html",
+        "image": "/assets/models/21gb.webp",
+        "sideImage": "/assets/models/21gb-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKHIRiABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9v2YDafaOojmqn1ncUDyLOEfNmqTJIs1y6L3uBrEV1JdSeZsNeuzVMRr0CSkNh56q4VA0ogY6wNF4HvmiX0Kc%252y1%254WxfjTEncP81D4vfxbUEqc2P89GsLx0bUiprJ8iKGw6ZuUw4ptYRSG0O67m5Vp4EYCygN6K7mlTv0YheyX324motTQdjcyiL3azDxTLDdnkq83KmzOALUdWRkIFJGz7XABKupcBaFeWS6xwBKMPVY8T9WhbNmUfNPo90yG1lbHi4TpEH9%25wc36sIiftxdYbDw178zm98tECUkyih7slGAneECrXpFOgplZQ6KIvwXRaYWB20Q5nmPecJagOybMe3nvIT9hS4O2B3ioEVIjedwHhbBDMztV9oeqhk7NggMLoAC06hhJHFl4W3ou%25KX%25s1HSfWQfDK%25V1Pa1cyfNEbnEQ310s9OsGBE4riIreKscZwBZRmrxRteR5CZ857M5xARUgChg8R5Gvlov3qgp2XH2dov6jQ%25mFk2YDafBKojmq4qMjNZ7pR%25iSZ8X6WFSoKLB9NeB%25ViExM7GqlOKvJICpYmUi5AekxVA71HsscCZ6B4Mrt3mFILoub5imC2yRCzXeTt%25ViEFyoZFPN8snhLDFFRzllZyY4Up6EHswTFA5whJPhsmQwtZ7dZUutkRUQAP13%25P6RGND",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QU7PImxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25O04WxfjfEgcP81D13kxbUEqjmP89GsLDbKUiprJqYDGw6ZuLmZptYRSJyh67m5VK8TYCygNWKBmlTv0PIHyX324bD2TQdjc9q13azDxT0jdnkq834azOALUdynkIFJGzIXABKupkBTFeWS6AyEKMPVYFTqWhbNmKXMPo90yW5ZbHi4TPge9%25wc3bIUiftxd9Uxw178ziXPtECUkwQS7slGAtMHCrXpF3rflZQ6KdBrXRaYWz9OQ5nmPkjmagOybADonvIT9FqvO2B3iKLsIjedwWnxBDMztPOzeqhk7bI5MLoAC1ZqhJHFlENFou%25KXs0BHSfWQr4y%25V1PaZ3GfNEbnRZi10s9O56TE4riIgqYscZwBv5nrxRteYOgZ857MmNNRUgChyK55GvloTQigp2XH2LDv6jQ%25jxX2YDafD3bjmqn1q%25iDyLOELArqTJIsJZXL3uBruSPJdSeZSVhuzVMRVdCSkNh5NzSVA0og0i8NF4Hv4wg0Kc%252Pl74WxfjrXgcP8T8RcmuMFS2I6uzHKQl6gXUrO0xq2YIqdRMA8oEX0GshFWPkIVCZ7dygmnvzIJ9gwO30faDKM4lxvpa2CpLYkjUPoxiS2K7S0HswTFBOSSCL6672gfrR5iWw8jSul8Fe0Fwvm8U7Gq7rMUJCrmu09DP05CZHO"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "운전의 재미와 짐 공간 사이에서 고민하셨다면 투어링을 보세요. 자주 싣는 짐을 먼저 떠올리면 이 차가 필요한 이유도 분명해집니다."
+  },
+  {
+    "slug": "m4",
+    "name": "BMW M4 쿠페",
+    "category": "M",
+    "tagline": "쿠페 형태로 만나는 M",
+    "description": "두 도어 쿠페와 M의 주행 성격을 함께 찾을 때 살펴볼 모델입니다. 뒷좌석 접근성, 승차감, 주차 공간을 실제 생활에 맞춰 확인하세요.",
+    "variants": [
+      {
+        "id": "31hk",
+        "name": "BMW M4 컴페티션 M xDrive 쿠페",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html",
+        "image": "/assets/models/31hk.webp",
+        "sideImage": "/assets/models/31hk-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25IyABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9v2YDafaOojmqn1ncUDyLOEfNmqTJIs1y6L3uBrEV1JdSeZsNeuzVMRr0CSkNh56rKVA0ogYLcNF4HvmfQ0Kc%252NuF4Wxfj0WzcP81D4PSxbUEqcuo89GsLxdsUiprJ8OaGw6ZuUIPptYRSGKv67m5Vpv5YCygN6dUmlTv0Yz1yX324mbwTQdjcSQ73azDxVWQdnkq8NpFzOALU0MLkIFJG4hiABKupcoBFeWS6xHXKMPVY8A5WhbNmUFnPo90yGKabHi4TCao9%25wc3lsciftxdXrWw178zQZJtECUkaS27slGAna6CrXpFODulZQ6KIoqXRaYWBOAQ5nmPqEEagOybLcnnvIT9JdpO2B3iBoMIjedweR3BDMztMuUeqhk7hwpMLoACo0XhJHFlHQ3ou%25KX%25f8HSfWQf1b%25V1Pa1SyfNEbnEVf10s9Osp5E4riIr6OscZwB8TmrxRteXAOZ85J5aZq%25P4fBFj%25VicdTjO3gXAqQXBDFhSaP059C3svlb4x8NF1yQmSDyPMIooub%25cXJaHWp8TlgO2k1F8brUfbYiQGWBDFhTUO%25TzqVo7ngRTTfY99%25UxJN4chIoKGIykcnvzno8wKW%25P6%25tuE3fNwyzMpBzcf0qR",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCPSxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25O04WxfjfEgcP81D13kxbUEqjmP89GsLDbKUiprJqYDGw6ZuLmZptYRSJyh67m5VKJXYCygNWU3mlTv0Pj%25yX324mplTQdjcyQt3azDxTa6dnkq83pgzOALUdwLkIFJGzEfABKupksaFeWS6AX0KMPVYF0VWhbNmKwkPo90yWtDbHi4TPnB9%25wc36%25MiftxdYQ%25w178zmFltECUkyRU7slGAT5ICrXpF3grlZQ6KdvHXRaYWzCVQ5nmPkl1agOybAXfnvIT9hfgO2B3ioL3IjedwHJQBDMzt%25uGeqhk7f64MLoAC1fKhJHFlExpou%25KXsg8HSfWQrEC%25V1Pa8qqfNEbnU3110s9OGwFE4riIrgRscZwBZSirxRteRpkZ857M5BFRUgChgyH5Gvlov%25igp2XH2jzv6jQ%25jDn2YDafD6bjmqn1qYjDyLOELFVqTJIsJKEL3uBrz9PJdSeZHCEuzVGVfu82aTjrlc2YI3w9cEiNHCLS5rxl56fayVOhiL0onTdzmlDb%25P6UE87sYlvAEKCpLetR3aJ9Ss4trb4gxmZNzOSFjr3PjLIoKGTXCjjbgccPrEeHf1FdKVZd2J1TQLTKs8VNP05PUMiDbH82LARzL1b%25IC"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "쿠페를 좋아하는 마음과 M을 원하는 이유를 함께 듣고 싶어요. 시승에서는 빠르기만큼 일상 속 승차감도 확인해 주세요."
+  },
+  {
+    "slug": "m4-convertible",
+    "name": "BMW M4 컨버터블",
+    "category": "M",
+    "tagline": "오픈 드라이빙과 M의 만남",
+    "description": "루프를 열고 달리는 경험을 원한다면 M4 컨버터블을 비교해 보세요. 지붕 작동과 짐의 양, 평소 주행 환경을 함께 확인할 수 있습니다.",
+    "variants": [
+      {
+        "id": "41ba",
+        "name": "BMW M4 컴페티션 M xDrive 컨버터블",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-4-series-m-models/bmw-m4-convertible.html",
+        "image": "/assets/models/41ba.webp",
+        "sideImage": "/assets/models/41ba-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG6RQABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q9v2YDafaOojmqn1ncUDyLOEfNmqTJIs1y6L3uBrEV1JdSeZsNeuzVMRr0CSkNh56q4VA0ogY6hNF4HvmfQ0Kc%252NuF4Wxfj0WzcP81D4PSxbUEqcuX89GsLxSHUiprJ8z9Gw6ZuUInptYRSGBb67m5VpW2YCygN62gmlTv0YzGyX324mkxTQdjcyAs3azDxTi7dnkq8NnlzOALU0bnkIFJG4YWABKupcouFeWS6xHtKMPVY8%25MWhbNmUfaPo90yGKvbHi4TpWI9%25wc36POiftxdXO%25w178zQZ8tECUkaRb7slGAn5SCrXpFONDlZQ6KIOmXRaYWBLVQ5nmPe%25JagOybMBKnvIT9JWeO2B3iuZZIjedwSUBBDMztVAmeqhk7hfHMLoACovkhJHFlHN6ou%25KX%25caHSfWQfnz%25V1Pa1EGfNEbnEsi10s9OsN3E4riIr0EscZwBZYvrxRteRmBZ857MGdTRUgChaKB5GvSvO5J19xEMWq10t8kdqBz2aKJnaMLWHNO9cvwXzZjQixUG4Ws3nTNL39oe%25%25Vi18aSOfbYGdQ2BDFsWGiRpEiytn6bMLWHdpB1dAJ0%25lI2gddEyww1pUS4x8He%25P6w33cIjAI%25G7Pb19m1CVrzE473AoYMA8EcJg",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDLIAxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25O04WxfjfEgcP81D13kxbUEqjmP89GsLDbKUiprJqYDGw6ZuLmZptYRSJyh67m5VK8TYCygNWK5mlTv0Pj%25yX324mplTQdjcyQt3azDxTa6dnkq83pHzOALUd6vkIFJGztOABKupks1FeWS6ArnKMPVYFQ4WhbNmK4NPo90yWtAbHi4TP7d9%25wc3bCLiftxd9IMw178zm1otECUkyn17slGATWQCrXpF3gplZQ6KdveXRaYWz2RQ5nmPkjfagOybAX0nvIT9FQsO2B3iKaEIjedwHE2BDMzt%25uzeqhk7fSnMLoAC1V6hJHFlEmxou%25KXsEPHSfWQrUY%25V1PaZ2GfNEbnRrX10s9OGQZE4riIpuuscZwB6krrxRteYCPZ857M5jvRUgChg075GvlovmKgp2XH23fv6jQ%25j1t2YDafDqAjmqn1qLIDyLOELmiqTJIsJyqL3uBruW0JdSeZSPruzVMRAw9SkNh5fXrVA060EVGDOdqRQ8Dyez7w8rt4fXuNvRUQvmEO30BHtuc%25IdkATQLi19mprGlZyQjKrPXYuhCgzOSwNZxCRix2UT54ABNWqRz9que%25P6daXqqi2889RrhfEsWkP058DD1dnudPZG049cv9potLifGDuKgAusi1eX"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "M의 주행과 오픈 드라이빙을 함께 원하신다면 비교해 보세요. 루프를 닫고 평소처럼 탈 때의 느낌까지 확인하는 게 좋습니다."
+  },
+  {
+    "slug": "m5",
+    "name": "BMW M5 세단",
+    "category": "M",
+    "tagline": "하이브리드로 만나는 M 세단",
+    "description": "플러그인 하이브리드 구성을 갖춘 M5 세단입니다. 주행 성격과 함께 충전 환경, 동승자의 승차감, 필요한 편의 구성을 살펴보세요.",
+    "variants": [
+      {
+        "id": "81fk",
+        "name": "BMW M5",
+        "fuel": "플러그인 하이브리드",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/m5-series/bmw-m5-sedan.html",
+        "image": "/assets/models/81fk.webp",
+        "sideImage": "/assets/models/81fk-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25XQABNXTaAxgqO30WiyXq2FgXAXHXR9v6jQ%25Q4W2YDafaOojmqn1%25mUDyLOEfNmqTJIs1VtL3uBrEPwJdSeZsNEuzVMRr0MSkNh56x4VA0ogYLcNF4HvmSO0Kc%252y1a4Wxfj0SKcP81D4PexbUEqcuX89GsLxSHUiprJ8l3Gw6ZuUFgptYRSGjM67m5VpvhYCygN6dumlTv0YzmyX324mlzTQdjcyXh3azDxTi5dnkq83wdzOALUdKmkIFJG49OABKupcmPFeWS6xHeKMPVY8%25QWhbNmUFjPo90yGBvbHi4TCze9%25wc3lsKiftxdXrqw178zQZJtECUkaSH7slGAng%25CrXpFOnYlZQ6KIqSXRaYWBHLQ5nmPqFmagOybLssnvIT9JxDO2B3iuz6IjedwSkQBDMztVo9eqhk7hfaMLoACoQnhJHFlHY3ou%25KX%25c6HSfWQfnU%25V1Pa1OkfNEbnEVT10s9OspLE4rDrlE2hFVonzghJPNyYgQmZ7d2C7nvzBLlFSrWwmfRtKV04uzH6CpLv6FIaeeqKhN7DlMA84YtZQ53Hz4K1coKGPCxAnvzBYcQhYT2JeiXZsYYoGWWhc0DuVNBaekx962NXRTXe4bkAhFUh9q4uoub6TI8nTNoS2s",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCkAxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHSO0Kc%252%25TQ4WxfjfEgcP81D2PkxbUEqjmP89GsLDYeUiprJqaBGw6ZuLmqptYRSJyR67m5VKdTYCygNWU3mlTv0P6EyX324bDfTQdjcy6X3azDxTaZdnkq83pHzOALUd6vkIFJGzoiABKupklNFeWS6AcRKMPVYF05WhbNmKwpPo90yWtPbHi4TPot9%25wc3bH5iftxd9IVw178ziBwtECUkwXP7slGATOECrXpF3PalZQ6KdvZXRaYWz2%25Q5nmPklcagOybAr0nvIT9htZO2B3ioLXIjedwHJ8BDMzt%25uGeqhk7f6vMLoAC1N2hJHFlE1Wou%25KXs86HSfWQrvU%25V1Pa8lPfNEbnULL10s9OGdxE4riIptKscZwB67%25rxRteYgOZ857M5jfRUgChg%2515GvlovWigp2XH23Kv6jQ%25j1k2YDafDE7jmqn1qY9DyLOELFUqTJxJoq45lYg1tN5GambWN%25PuMwjLr10trUol6JQBPjSeXYyTptvKhFUc%254ifGtRd%25kw8jO9smlDWLfV91KVZ0pEuTQLzg1mFgjaekxY7wggKZNNF1%25OMoHzykJEc5aHYCjYkf4JuFSrFcIfMKM45jdsTjHKhaw"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "M5를 고민하실 때는 충전 환경도 함께 알려주세요. 하이브리드 구성을 평소에 어떻게 활용할지부터 이야기 나누면 좋겠어요."
+  },
+  {
+    "slug": "m5-touring",
+    "name": "BMW M5 투어링",
+    "category": "M",
+    "tagline": "M5를 더 넓게 사용하는 방법",
+    "description": "M5의 플러그인 하이브리드 구성에 투어링 차체를 더한 모델입니다. 가족과 여행하는 방식, 적재할 짐, 충전 가능 장소를 함께 비교해 보세요.",
+    "variants": [
+      {
+        "id": "81gv",
+        "name": "BMW M5 투어링",
+        "fuel": "플러그인 하이브리드",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/m5-series/bmw-m5-touring.html",
+        "image": "/assets/models/81gv.webp",
+        "sideImage": "/assets/models/81gv-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%259BABNXTaAxgqO30WiyXq2FgXAXHXRWv6jQ%25Q4W2YDafaOojmqn1%25mUDyLOEfNmqTJIs1SfL3uBrU0VJdSeZGEauzVMRpD0SkNh56WhVA0ogYunNF4HvmfP0Kc%252y1a4Wxfj0pUcP81D4VWxbUEqcby89GsLxSQUiprJ8V%25Gw6ZuUXdptYRSGKv67m5VpDhYCygN62omlTv0YzSyX324mkyTQdjcyXk3azDxTQodnkq83wgzOALUdtzkIFJGzWyABKupciIFeWS6xybKMPVY8%25MWhbNmUfaPo90yGKDbHi4Tpe29%25wc3lkMiftxdXrWw178zQZLtECUkaRu7slGAn5sCrXpFONflZQ6KI04XRaYWBjEQ5nmPeBTagOybMu0nvIT9h1SO2B3iuZZIjedwSULBDMztVAmeqhk7NFnMLoACo1nhJHFlHaOou%25KX%25mdHSfWQflC%25V1Pa18mfNEbnEIp10s9OsBFE4riIr0dscZwo4gdrxRLRQrDHW0%25IA2HS943y2nT5lkDXlIjAMuQWNRb7TEgCP0cxVAfmXYujmWeOhhJPH4lLQoKGxyC5nvzfAxPs8%25P69XUKIjAMy8nHydDShta5Zyy07fbH8cLV04MOhFUwmffagdahxiFKHWpHwJxb%25VimdeGId4%25NDZ",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYbxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHSQ0Kc%252%25TQ4WxfjfEgcP81D2PkxbUEqjmP89GsLD6jUiprJkyYGw6ZuAqfptYRSFxy67m5VKQ5YCygNWp1mlTv0PjayX324bDfTQdjcyFk3azDxTYQdnkq83nbzOALUd6%25kIFJGzY2ABKupkHwFeWS6AX0KMPVYFx5WhbNmK4gPo90yWt6bHi4TP7b9%25wc3bH7iftxd9%25gw178ziBNtECUkwet7slGAtQbCrXpF3IslZQ6KdbnXRaYWz2RQ5nmPkjfagOybAXxnvIT9FZ4O2B3io7RIjedwHJQBDMzt%25uUeqhk7fSpMLoAC1VLhJHFlEmjou%25KXsyTHSfWQrcq%25V1PaZr9fNEbnRpy10s9O5D6E4riIpuuscZwB6kUrxRteYCPZ857Mml1RUgChgD15GvlovfEgp2XH2Pwv6jQ%25joh2YDafDzPjmqn1qsFDyLOELrlqTJIsJywL3uBgTNwJdSUS%25JxvQy2sC4v6OTib419Vo7quRscCRp%25QmSnM9qNhay3dYCjPHWp81xtE6Cgk1F7GqBwZTQLbuE0wsP05cYrVdnuA2sTW2qOhFUyl722%25Gb4Ws1Bo%25fA3FSr8vbbyXqyFExSVWNRW8eE4PoxvqkZdqfPHO7"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "성능을 포기하기 어렵고 짐도 많이 싣는다면 함께 살펴볼 모델이에요. 일상에서 필요한 공간이 어느 정도인지부터 맞춰보겠습니다."
+  },
+  {
+    "slug": "xm",
+    "name": "BMW XM 레이블",
+    "category": "M",
+    "tagline": "M 전용 SUV를 살펴보세요",
+    "description": "플러그인 하이브리드 SUV인 XM 레이블을 살펴볼 수 있습니다. 외관뿐 아니라 차체 크기와 충전·주차 여건을 실제 생활에 맞춰 확인하세요.",
+    "variants": [
+      {
+        "id": "31cs",
+        "name": "BMW XM 레이블",
+        "fuel": "플러그인 하이브리드",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/xm/bmw-xm.html",
+        "image": "/assets/models/31cs.webp",
+        "sideImage": "/assets/models/31cs-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKGIEMABNXTaAxgqO30WiyXq2FgXAXHXbMv6jQ%25Q5v2YDafadYjmqn1%25YGDyLOEfm%25qTJIs1SfL3uBrEVBJdSeZsNluzVMRpc0SkNh56q4VA0ogYLwNF4HvmST0Kc%252y174Wxfj0SCcP81D4VWxbUEqcmO89GsLxCTUiprJ8vDGw6ZuU5eptYRSGwO67m5VpKtYCygN6WsmlTv0YPmyX324mzGTQdjcSKX3azDxVBDdnkq8NebzOALU0MOkIFJG4dlABKupcaZFeWS6iHSKMPVYw%25zWhbNmtf2Po90y7DZbHi4TCsA9%25wc3lC8iftxdXgDw178zQBvtECUkgp07slGAlnQCrXpFX%25GlZQ6KQvVXRaYWaY0Q5nmPnq9agOybOiGnvIT9IBSO2B3iBezIjedweViBDMztKsweqhrhPeEQm2awpfQ53jx4f9coKGEWKw1pCRPmvhTAcIHFy2Dqgpn0WNR10m7illZyQjKrPXYuq4Fo9%25UnpqyBLayV3WJYw1pC4L9Q48E5lkboMf4aAMTQLDrg2jCil6Ji0DabH8blqd6YQmSQKPO0agd087uw8javEM",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDPQixbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCHvHnR0Kc%252%25V04WxfjfwWcP81D2WAxbUEqjP289GsLD6jUiprJqYrGw6ZuLmoptYRSF3y67m5VK8TYCygNWUBmlTv0P69yX324bDMTQdjcy6h3azDxTYQdnkq83PEzOALUdh9kIFJGz0xABKupkVZFeWS6ABEKMPVYFXeWhbNmKQLPo90yWaPbHi4TPtA9%25wc36XHiftxdYrxw178zmZntECUkyRE7slGATwoCrXpF3fulZQ6KIv6XRaYWB2tQ5nmPej4agOybMxunvIT9hLCO2B3iohzIjedwHNxBDMzt%25r0eqhk7NFyMLoACo1%25hJHFlH2Aou%25KX%250YHSfWQfWy%25V1Pa18OfNEbnEIA10s9Osr6E4riIrZtscZwBZYIrxRteXLBZ85J5aZq%25P4fBFj%25VicdTjO3gXAsRhBDFhSaP059C3svlb4x8NF1yQmSLOqkIVFHGO6AustzMcPrTRI2zBy2oDNeg89RpfBcmfsil6J4KAbfyuAjmBOtXanpx65ex%25Oy4Ws46Iq5gmvhmV03%25yXq%25sGM8snyQiA"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "디자인과 주행 성격 모두 뚜렷한 차를 찾는다면 직접 만나보셨으면 해요. 큰 차체와 충전 환경이 내 생활에 맞는지도 같이 확인해 주세요."
+  },
+  {
+    "slug": "x5-m",
+    "name": "BMW X5 M",
+    "category": "M",
+    "tagline": "SUV 공간과 M의 주행",
+    "description": "X5 M 컴페티션을 X5·M60i와 함께 비교해 보세요. 필요한 주행 성격과 가족 동승, 승차감 사이의 균형을 찾는 것이 중요합니다.",
+    "variants": [
+      {
+        "id": "11et",
+        "name": "BMW X5 M 컴페티션",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/bmw-x5-m/bmw-x5-m-models.html",
+        "image": "/assets/models/11et.webp",
+        "sideImage": "/assets/models/11et-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%259BABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikHscZwBwAsrxRtetEKZ857M7lkRUgChC8F5GvloMjegp2XHhDXv6jQ%250Jq2YDaf4RLjmqn1c5FDyLOExBOqTJIsDNOL3uBrq1IJdSeZLE3uzVMRJD9SkNh5uqzVA0ogSUlNF4HvVDt0Kc%252Nqe4Wxfj0wYcP81D4drxbUEqc5O89GsLxgjUiprJ8RBGw6ZuU5ZptYRSGTL67m5VptRYCygNLk7mlTv0JxdyX324uO2TQdjcSIW3azDxVBadnkq8NTZzOALUP1vkIFJGbhJABKup9o3FeWS6iHgKMPVYw2sWhbNmt1zPo90y7tcbHi4TCR29%25wc3lO5iftxdRLsw178z5GNtECUkgFe7slGAlnQCrXpFX%25GlZQ6KQvVXRaYWaDbQ5nmPn9UagOybOIunvIT9IBdO2B3iBvxIjedweViBDMztKc9eqKSYpRl6swTgtwQ53OD7kJEF96HriAuVNL3hGtUD5GknXIIjAeSw27BzcNpislZyh3NA%250MA8Kt4zQ53Op0lepmgqIbCs1pp%25BQFe0V2LuSOXId4VGz2CrmCINWdzekxeLZo6MLWGmncQmSMJg1",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCYbxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7vL3uBrBCLJdSeZeqXuzVMRMo7SkNh5hzlVA0ogRcZNF4Hv5xH0Kc%252yG84WxfjTSUcP81D3VlxbUEqdrE89GsLxmEUiprJ8DsGw6ZuUqiptYRSGxO67m5Vp8tYCygN6komlTv0YxeyX324m8ZTQdjcyBW3azDxTwJdnkq83VEzOALUdNckIFJGzSrABKupkVuFeWS6A9UKMPVYFeSWhbNmU7MPo90yGdwbHi4TpE49%25wc36sQiftxdYrfw178zm9utECUkaD07slGAn5GCrXpFOgilZQ6KIvNXRaYWB4LQ5nmPeDtagOybMe3nvIT9hS4O2B3ioEVIjedwSULBDMztVAmeqhk7NlZMLoACo1%25hJHFlH2Aou%25KX%250YHSfWQfxn%25V1Pa1OkfNEbnEsp10s9OsrwE4riIr0dscZwBZYIrxRteX3OZ8X6WFSoKLB9vDE%25ViExM7GqlOKvJICpYmUi5Aekx0oNbH8irTod9cvaP1672FDHuP%25AusVUfLmlD3R%256kRvXId4pw9RRPzmSk%25oaBMh3YdqfoZLaptvpdHNqLkJEkB7K5ABNZvT1mvhAeX9"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "가족과 함께 쓸 SUV에서도 M을 원하신다면 승차감부터 확인해 보세요. 운전자뿐 아니라 동승자의 생각도 함께 듣고 싶어요."
+  },
+  {
+    "slug": "x6-m",
+    "name": "BMW X6 M",
+    "category": "M",
+    "tagline": "SUV 쿠페로 경험하는 M",
+    "description": "X6 M 컴페티션은 SUV 쿠페 형태의 M 모델입니다. X6·M60i와 비교하며 원하는 주행 성격과 뒷좌석 사용성을 확인해 보세요.",
+    "variants": [
+      {
+        "id": "21et",
+        "name": "BMW X6 M 컴페티션",
+        "fuel": "가솔린",
+        "source": "https://www.bmw.co.kr/ko/all-models/m-series/x6-m/bmw-x6-m-models.html",
+        "image": "/assets/models/21et.webp",
+        "sideImage": "/assets/models/21et-side.webp",
+        "imageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dQMw1pfOlXQtUDWcHQeGm5jkeTQLx19mRiPoxhSBt7b4giZqxzOSFbZWHkJEKG%25YrABNXTaAxgqO30WiyXq2FgXAV2IguEi8shPLE4riIikHscZwBwAsrxRtetEKZ857M7lkRUgChC8F5GvloMjegp2XHhDXv6jQ%250Jq2YDaf4RLjmqn1c5FDyLOExBOqTJIsDNOL3uBrq1IJdSeZLE3uzVMRJD9SkNh5uqzVA0ogSUlNF4HvVDt0Kc%252Nqe4Wxfj0wYcP81D4drxbUEqc5O89GsLxgjUiprJ8RBGw6ZuU5ZptYRSGTL67m5VptRYCygNLk7mlTv0JxdyX324uO2TQdjcSIW3azDxVBadnkq8NTZzOALUP1vkIFJGbhJABKup9o3FeWS6iHgKMPVYw2sWhbNmt1zPo90y7tcbHi4TCR29%25wc3lO5iftxdRLsw178z5GNtECUkgFe7slGAlnQCrXpFX%25GlZQ6KQvVXRaYWaDbQ5nmPn9UagOybOIunvIT9IBdO2B3iBvxIjedweViBDMztLc0eqhk7WpiMLWVm65XYrt3v7tagdIqCAusKiY%25ZwFSN0Jdop7GqgpAOQBBDFMVtjCekx06wrXRTod0Ff4hFUW7ckagdI64XM6yvLB9lrE66hUKKM4NjJSVIQBzc6pkjlZylB0PzkMA8MJRb5hJPpyOxayVhuvE",
+        "sideImageSource": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331sBgrfZ7dWcsnvzg%25eMhO30CmRhEdFJNiEWhcbvQFLGehE47BdqfoANfptvwsbT365emO%25v4Ws86OG7c1QUDCJnxbZtId41lnHCrmH9fCdN8EiyQIbH84lNHCY4sNpqIzL5aUqTJIsI7vL3uBrBCLJdSeZeqXuzVMRMo7SkNh5hzlVA0ogRcZNF4Hv5xH0Kc%252yG84WxfjTSUcP81D3VlxbUEqdrE89GsLxmEUiprJ8DsGw6ZuUqiptYRSGxO67m5Vp8tYCygN6komlTv0YxeyX324m8ZTQdjcyBW3azDxTwJdnkq83VEzOALUdNckIFJGzSrABKupkVuFeWS6A9UKMPVYFeSWhbNmU7MPo90yGdwbHi4TpE49%25wc36sQiftxdYrfw178zm9utECUkaD07slGAn5GCrXpFOgilZQ6KIvNXRaYWB4LQ5nmPeDtagOybMe3nvIT9hS4O2B3ioEVIjedwSULBDMztVAmeqhk7NlZMLoACo1%25hJHFlH2Aou%25KX%250YHSfWQfxn%25V1Pa1OkfNEbnEsp10s9OsrwE4riIr0dscZwBZYIrxRteU3yZ857MQFIRUQYPKVHWJei2qsfNws8hCpLXIW2uBl6myGwgFMA84H09%25UwZ3Hzix2nbEYCjKq%25SbfFSrNG1JyXqd5fYA52QBzc6ti55FrVVAfHnehodmzL15RJn6726z%250LJAusAeC4lFe0R23Ey2oFMQi"
+      }
+    ],
+    "checkedAt": "2026-09-22",
+    "availability": "판매·시승 가능 여부 상담 시 확인",
+    "advisorComment": "SUV 쿠페의 모습과 M의 주행을 함께 고르는 선택이에요. 디자인에 끌린 마음과 실제 사용하는 공간을 나란히 놓고 고민해 보세요."
+  }
+]
